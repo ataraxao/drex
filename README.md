@@ -1,2 +1,2 @@
 # drex
-DREX (Domestic Resource EXchange) — Cohabitation and Non-Marital Property Agreement
+DREX (Domestic Resource Estate EXchange) — Cohabitation and Non-Marital Property Agreement
