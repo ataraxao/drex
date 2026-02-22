@@ -4,7 +4,7 @@ DREX (Domestic Resource Estate eXchange) — Cohabitation and Non-Marital Proper
 A CC0 cohabitation contract template for unmarried partners who want clear property boundaries, non-marital intent, confidentiality carve-outs, and a defined separation framework.
 
 ## License
-This project is released under **CC0 1.0 (public domain dedication)**.
+This project is released under **UnLicense (public domain dedication)**.
 You may copy, modify, distribute, and use it for any purpose without attribution.
 
 ## Template-only notice (not legal advice)
