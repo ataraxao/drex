@@ -1,6 +1,6 @@
 # DREX (Domestic Resource Estate eXchange) — Cohabitation and Non-Marital Property Agreement
 
-> **TEMPLATE NOTICE (NOT LEGAL ADVICE; CC0)**  
+> **TEMPLATE NOTICE (NOT LEGAL ADVICE; UnLicense)**  
 > This document is a publicly available template intended for educational and informational purposes only and does not constitute legal advice. Use of this template does not create an attorney-client relationship. Laws vary by jurisdiction and depend on specific facts; parties should consult independent legal counsel before using or relying on this document.  
 >  
 > THIS TEMPLATE IS PROVIDED “AS IS,” WITHOUT WARRANTIES OF ANY KIND. The author(s) and distributor(s) disclaim all liability arising from use, modification, or reliance on this template.  
