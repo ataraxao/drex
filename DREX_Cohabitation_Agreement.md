@@ -11,7 +11,7 @@
 
 # COHABITATION AND NON-MARITAL PROPERTY AGREEMENT
 
-This Cohabitation and Non-Marital Property Agreement (this “Agreement”) is made and entered into on **February 15, 2026** (the “Execution Date”), by and between:
+This Cohabitation and Non-Marital Property Agreement (this “Agreement”) is made and entered into on [__________] (the “Execution Date”), by and between:
 
 **PARTNER A:** [Your Name], individually and as Grantor and Trustee of the [Name of Revocable Trust] (the “Trust”).  
 **PARTNER B:** [Partner Name], an individual residing in [Jurisdiction].
@@ -567,7 +567,7 @@ Date: ___________________________
 
 ## EXHIBIT C — FINANCIAL SUMMARY RANGE DISCLOSURE (CONFIDENTIAL)
 
-Date: ______________________ (Execution Date)  
+Date: [__________] (Execution Date)  
 
 Partner A: [Your Name], individually and as Trustee of the [Name of Revocable Trust]  
 Partner B: [Partner Name]
