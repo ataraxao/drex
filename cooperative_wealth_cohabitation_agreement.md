@@ -22,15 +22,15 @@ Partner A and Partner B may be referred to individually as a **“Party”** and
 
 ### 1.2 Recitals
 A. The Parties are in a personal relationship and intend to reside together at **[Insert Property Address]** (the **“Residence”**).  
-B. The Parties **do not intend to be married**, whether formally, statutorily, or by informal/common-law doctrines.  
-C. The Parties desire to establish a restricted wealth vehicle with (i) deterministic unwind mechanics upon separation, (ii) periodic liquidity distributions so Partner B may periodically receive vested value into an account in Partner B’s own name, and (iii) a minimal joint-asset governance protocol, while protecting each Party’s separate property from equitable claims to the maximum extent permitted by law.  
+B. The Parties explicitly do not intend to be married, whether formally, statutorily, or by informal/common-law doctrines.  
+C. The Parties desire to establish a cooperative wealth-building vehicle with deterministic unwind mechanics, a periodic liquidity mechanism so Partner B may periodically receive vested value into an account in Partner B’s own name, and a minimal joint-asset governance protocol, while protecting each Party’s separate property from equitable claims to the maximum extent permitted by law.  
 D. The Parties expressly agree this Agreement is **not** for sexual services, is **not** employment compensation, and does **not** obligate either Party to remain in a relationship.
 
 **NOW, THEREFORE**, in consideration of the mutual covenants herein, the Parties agree as follows:
 
 ---
 
-## ARTICLE II — DEFINITIONS; NON-MARITAL STATUS; SEPARATE PROPERTY; NOTICES
+## ARTICLE II — DEFINITIONS; NON-MARITAL STATUS; SEPARATE PROPERTY; NOTICES; CONSIDERATION
 
 ### 2.1 Separate Property
 All property, accounts, real estate, and business interests owned by either Party prior to the Execution Date, or acquired thereafter in that Party’s individual name (excluding the Joint Account and any Joint Assets defined below), shall remain that Party’s sole and separate property.
@@ -80,6 +80,9 @@ Any notice required or permitted under this Agreement must be in writing and del
 (A) confirmed email delivery (non-bounce), **or**  
 (B) courier/certified delivery confirmation, **or**  
 (C) refusal of delivery.
+
+### 2.6 Consideration; No Meretricious Consideration
+The Parties agree that the consideration for this Agreement consists of the mutual promises and legal/economic arrangements set forth herein, including without limitation: (i) Partner A’s funding and governance commitments regarding the Joint Account; (ii) Partner B’s waivers/releases and governance commitments; (iii) the Parties’ mutual covenants regarding notices, administration, dispute resolution, and cooperation; and (iv) any other mutual obligations expressly stated in this Agreement. **No part of this Agreement is consideration for sexual relations, romantic companionship, or personal intimacy**, and neither Party has any duty to provide such things.
 
 ---
 
@@ -219,7 +222,7 @@ Beginning on the third (3rd) anniversary of the Operative Date and on each three
 Partner B may deliver a written election during the Liquidity Window (a **“Liquidity Election”**) to the Escrow Agent/Trustee specifying:
 
 (i) Partner B’s designated receiving brokerage account (the **“B Designated Account”**) for any in-kind distribution, and  
-(ii) reasonable operational preferences permitted by Custodian Constraints (e.g., “pro rata across positions; cash-in-lieu for fractional shares”).
+(ii) any reasonable operational preferences permitted by Custodian Constraints (e.g., “pro rata across positions; cash-in-lieu for fractional shares”).
 
 #### 7.4.3 Liquidity Valuation
 For Liquidity Events, Valuation Time is measured as of the most recent trading day ending prior to the Liquidity Event Date.
@@ -268,8 +271,8 @@ Notwithstanding Section 8.2, either Party may seek in court:
 (b) Each Party bears their own attorneys’ fees unless the arbitrator finds bad faith, willful breach, or fee-shifting is required by applicable law. If awarded, fees must be reasonable.  
 (c) The arbitrator may award reasonable arbitration costs (excluding attorneys’ fees unless awarded under subsection (b)) as justice requires.
 
-### 8.5 Confidentiality
-To the maximum extent permitted by law and AAA rules, the arbitration (and related documents) shall be treated as confidential, except as required for enforcement, tax reporting, regulatory compliance, or by court order.
+### 8.5 Confidentiality of Proceedings (Light Touch)
+To the maximum extent permitted by law and AAA rules, the arbitration shall be treated as confidential. This does not restrict disclosures required by law, disclosures to attorneys/tax advisors, disclosures for enforcement, or disclosures to law enforcement, regulators, medical providers, or counselors.
 
 ---
 
@@ -347,54 +350,54 @@ Date: ______________________
 **Purpose.** This Exhibit sets operational instructions the Escrow Agent/Trustee must accept. If the custodian requires its own forms, these instructions are intended to be incorporated into or mirrored by those forms.
 
 1. **Parties; Account**  
-   Partner A: [Name; Email; Address]  
-   Partner B: [Name; Email; Address]  
-   Escrow Agent/Trustee: [Name; Email; Address]  
-   Joint Account Identifier: [Account Number / Trust Name / Custodian]
+Partner A: [Name; Email; Address]  
+Partner B: [Name; Email; Address]  
+Escrow Agent/Trustee: [Name; Email; Address]  
+Joint Account Identifier: [Account Number / Trust Name / Custodian]
 
 2. **Authority During Continuous Cohabitation**  
-   Except as expressly permitted herein, no withdrawal, transfer, liquidation, or distribution shall be processed unless the Escrow Agent/Trustee receives joint written instruction signed by both Parties, subject to:  
-   (a) ordinary administrative actions required by the custodian (fees, settlement, mandatory withholding), and  
-   (b) actions required to implement Article VII (Separation unwind), Section 7.4 (Liquidity Events upon valid election), and Article VIII holdbacks.
+Except as expressly permitted herein, no withdrawal, transfer, liquidation, or distribution shall be processed unless the Escrow Agent/Trustee receives joint written instruction signed by both Parties, subject to:  
+(a) ordinary administrative actions required by the custodian (fees, settlement, mandatory withholding), and  
+(b) actions required to implement Article VII (Separation unwind), Section 7.4 (Liquidity Events upon valid election), and Article VIII holdbacks.
 
 3. **Notices to Escrow Agent/Trustee**  
-   A Notice of Separation or Liquidity Election delivered to the Escrow Agent/Trustee is effective when received by:  
-   (a) email to [Escrow Email], or  
-   (b) courier/certified/personal delivery to the Escrow Agent/Trustee’s address on file,  
-   unless Custodian Constraints require a specific method, in which case the Parties agree to comply.
+A Notice of Separation or Liquidity Election delivered to the Escrow Agent/Trustee is effective when received by:  
+(a) email to [Escrow Email], or  
+(b) courier/certified/personal delivery to the Escrow Agent/Trustee’s address on file,  
+unless Custodian Constraints require a specific method, in which case the Parties agree to comply.
 
 4. **Ledger Duty**  
-   The Escrow Agent/Trustee shall maintain the B Distribution Ledger and provide a ledger statement to both Parties upon reasonable request and at each Liquidity/Separation distribution.
+The Escrow Agent/Trustee shall maintain the B Distribution Ledger and provide a ledger statement to both Parties upon reasonable request and at each Liquidity/Separation distribution.
 
 5. **Liquidity Event Processing**  
-   Upon timely Liquidity Election, the Escrow Agent/Trustee shall calculate and distribute per Section 7.4 and update the B Distribution Ledger.
+Upon timely Liquidity Election, the Escrow Agent/Trustee shall calculate and distribute per Section 7.4 and update the B Distribution Ledger.
 
 6. **Separation Processing**  
-   Upon an effective Notice of Separation or Deemed Separation Event, the Escrow Agent/Trustee shall freeze (as practicable), value, and distribute per Section 7.2, subject to any holdback under Article VIII.
+Upon an effective Notice of Separation or Deemed Separation Event, the Escrow Agent/Trustee shall freeze (as practicable), value, and distribute per Section 7.2, subject to any holdback under Article VIII.
 
 7. **Holdback for Disputes**  
-   If the Escrow Agent/Trustee receives written notice that a dispute exists concerning Leaver classification, the Escrow Agent/Trustee shall distribute undisputed amounts and hold back only the disputed incremental amount until it receives (A) joint written direction, or (B) a final arbitration award or court order.
+If the Escrow Agent/Trustee receives written notice that a dispute exists concerning Leaver classification, the Escrow Agent/Trustee shall distribute undisputed amounts and hold back only the disputed incremental amount until it receives (A) joint written direction, or (B) a final arbitration award or court order.
 
 8. **Form of Distribution / Custodian Constraints**  
-   Distributions shall be made in cash unless (i) in-kind is required or practicable as specified in the Agreement, or (ii) Custodian Constraints require otherwise. In-kind distributions shall be pro rata to the extent reasonably practicable with cash-in-lieu for fractional shares where needed.
+Distributions shall be made in cash unless (i) in-kind is required or practicable as specified in the Agreement, or (ii) Custodian Constraints require otherwise. In-kind distributions shall be pro rata to the extent reasonably practicable with cash-in-lieu for fractional shares where needed.
 
 9. **Reliance; No Duty to Investigate**  
-   The Escrow Agent/Trustee may rely on facially valid notices, signatures, elections, and awards/orders and has no duty to investigate relationship facts beyond documents received.
+The Escrow Agent/Trustee may rely on facially valid notices, signatures, elections, and awards/orders and has no duty to investigate relationship facts beyond documents received.
 
 10. **Fees**  
-   The Escrow Agent/Trustee may charge standard fees. The Parties are jointly responsible for unpaid fees attributable to the Joint Account, and the Escrow Agent/Trustee may deduct unpaid fees from the Joint Account before distribution consistent with its policies.
+The Escrow Agent/Trustee may charge standard fees. The Parties are jointly responsible for unpaid fees attributable to the Joint Account, and the Escrow Agent/Trustee may deduct unpaid fees from the Joint Account before distribution consistent with its policies.
 
 11. **Limitation of Liability; Indemnity**  
-   The Escrow Agent/Trustee shall not be liable to either Party except for gross negligence or willful misconduct. The Parties shall jointly indemnify and hold harmless the Escrow Agent/Trustee from claims arising out of performance under these instructions, except to the extent caused by the Escrow Agent/Trustee’s gross negligence or willful misconduct.
+The Escrow Agent/Trustee shall not be liable to either Party except for gross negligence or willful misconduct. The Parties shall jointly indemnify and hold harmless the Escrow Agent/Trustee from claims arising out of performance under these instructions, except to the extent caused by the Escrow Agent/Trustee’s gross negligence or willful misconduct.
 
 12. **Resignation; Successor**  
-   The Escrow Agent/Trustee may resign upon 30 days’ written notice to both Parties. The Parties shall appoint a successor within 60 days. If no successor is appointed within 60 days, the Escrow Agent/Trustee may (a) continue as a courtesy (not required), or (b) freeze actionable distributions other than those required by law until a successor is appointed or a final arbitration award/court order directs further action.
+The Escrow Agent/Trustee may resign upon 30 days’ written notice to both Parties. The Parties shall appoint a successor within 60 days. If no successor is appointed within 60 days, the Escrow Agent/Trustee may (a) continue as a courtesy (not required), or (b) freeze actionable distributions other than those required by law until a successor is appointed or a final arbitration award/court order directs further action.
 
 13. **Compliance with Law and Custodian Rules**  
-   Nothing requires the Escrow Agent/Trustee or custodian to violate applicable law, regulatory requirements, or custodian policy. If a conflict arises, the Escrow Agent/Trustee shall use reasonable efforts to implement the Agreement’s intent consistent with such requirements.
+Nothing requires the Escrow Agent/Trustee or custodian to violate applicable law, regulatory requirements, or custodian policy. If a conflict arises, the Escrow Agent/Trustee shall use reasonable efforts to implement the Agreement’s intent consistent with such requirements.
 
 14. **Acceptance**  
-   These instructions are effective only upon written acceptance by the Escrow Agent/Trustee.
+These instructions are effective only upon written acceptance by the Escrow Agent/Trustee.
 
 Partner A: ___________________________ Date: ___________  
 Partner B: ___________________________ Date: ___________  
@@ -407,36 +410,36 @@ Escrow Agent/Trustee (Acceptance): ___________________________ Date: ___________
 **Purpose.** This protocol governs Joint Assets purchased in whole or in part with Joint Account funds.
 
 1. **Definitions**  
-   (a) Joint Asset means any vehicle, real estate, or other tangible asset purchased with Joint Account funds.  
-   (b) Ownership Percentages means the Parties’ tenants-in-common percentages set at purchase, matching the Vested Percentage at the applicable Valuation Time (unless otherwise agreed in writing).
+(a) Joint Asset means any vehicle, real estate, or other tangible asset purchased with Joint Account funds.  
+(b) Ownership Percentages means the Parties’ tenants-in-common percentages set at purchase, matching the Vested Percentage at the applicable Valuation Time (unless otherwise agreed in writing).
 
 2. **Titling**  
-   Each Joint Asset shall be titled as Tenants in Common (or closest equivalent). If title cannot reflect percentages, the Parties shall sign a memorandum at purchase stating Ownership Percentages.
+Each Joint Asset shall be titled as Tenants in Common (or closest equivalent). If title cannot reflect percentages, the Parties shall sign a memorandum at purchase stating Ownership Percentages.
 
 3. **Carrying Costs; Reimbursement**  
-   (a) Default: carrying costs (insurance, taxes, registration, ordinary maintenance) are paid pro rata to Ownership Percentages unless otherwise agreed in writing.  
-   (b) Reimbursement: if one Party pays more than their pro rata share, the excess is reimbursable within 30 days after written notice with documentation, unless netted against sale proceeds.
+(a) Default: carrying costs (insurance, taxes, registration, ordinary maintenance) are paid pro rata to Ownership Percentages unless otherwise agreed in writing.  
+(b) Reimbursement: if one Party pays more than their pro rata share, the excess is reimbursable within 30 days after written notice with documentation, unless netted against sale proceeds.
 
 4. **Insurance; Liability Control (Vehicles Especially)**  
-   (a) Vehicles must be insured at commercially reasonable levels.  
-   (b) The Party primarily operating/possessing the vehicle shall be responsible for tickets, violations, and at-fault deductibles, unless otherwise agreed in writing.  
-   (c) Both Parties shall cooperate to keep the vehicle insurable and to avoid uninsured operation.
+(a) Vehicles must be insured at commercially reasonable levels.  
+(b) The Party primarily operating/possessing the vehicle shall be responsible for tickets, violations, and at-fault deductibles, unless otherwise agreed in writing.  
+(c) Both Parties shall cooperate to keep the vehicle insurable and to avoid uninsured operation.
 
 5. **Use and Possession (Minimal; Practical Default)**  
-   Unless otherwise agreed in writing:  
-   (a) Vehicles: reasonable shared use; if conflict, schedule by agreement; failing agreement, the Party who is the registered/insured primary operator has temporary priority pending buyout/sale, subject to reasonable access for the other Party.  
-   (b) Non-Residence real estate: use by mutual agreement; failing agreement, proceed to buyout/sale.
+Unless otherwise agreed in writing:  
+(a) Vehicles: reasonable shared use; if conflict, schedule by agreement; failing agreement, the Party who is the registered/insured primary operator has temporary priority pending buyout/sale, subject to reasonable access for the other Party.  
+(b) Non-Residence real estate: use by mutual agreement; failing agreement, proceed to buyout/sale.
 
 6. **Separation: Buyout First; Forced Sale Second**  
-   Upon Separation Date:  
-   **Step 1 — Buyout Option (30-day election).** Within 30 days after Separation Date, either Party may elect to buy the other Party’s interest at FMV × selling Party’s Ownership Percentage, less documented reimbursable advances.  
-   **FMV:** Vehicles: average of two reputable valuation sources or dealer written offer. Real estate/other: one independent appraiser agreed; if no agreement within 10 days, each Party selects an appraiser and FMV is the average.  
-   **Closing:** within 60 days after FMV is determined.  
-   **Step 2 — Forced Sale.** If no buyout election is made, or buyout does not close on time, the Joint Asset shall be sold using commercially reasonable methods with reasonable price reductions if needed.  
-   **Net Proceeds:** distributed pro rata after liens, selling costs, taxes attributable to sale, and reimbursable advances.
+Upon Separation Date:  
+Step 1 — Buyout Option (30-day election). Within 30 days after Separation Date, either Party may elect to buy the other Party’s interest at FMV × selling Party’s Ownership Percentage, less documented reimbursable advances.  
+FMV: Vehicles: average of two reputable valuation sources or dealer written offer. Real estate/other: one independent appraiser agreed; if no agreement within 10 days, each Party selects an appraiser and FMV is the average.  
+Closing: within 60 days after FMV is determined.  
+Step 2 — Forced Sale. If no buyout election is made, or buyout does not close on time, the Joint Asset shall be sold using commercially reasonable methods with reasonable price reductions if needed.  
+Net Proceeds: distributed pro rata after liens, selling costs, taxes attributable to sale, and reimbursable advances.
 
 7. **Negative Equity**  
-   If sold for less than outstanding liens, shortfall is borne pro rata unless the lien arose from unilateral borrowing or misconduct by one Party, in which case that Party bears the incremental shortfall.
+If sold for less than outstanding liens, shortfall is borne pro rata unless the lien arose from unilateral borrowing or misconduct by one Party, in which case that Party bears the incremental shortfall.
 
 ---
 
@@ -445,23 +448,23 @@ Escrow Agent/Trustee (Acceptance): ___________________________ Date: ___________
 **Purpose.** Confirm each Party had a fair opportunity to request/review financial information without attaching sensitive data to this Agreement.
 
 1. **Opportunity to Request Information**  
-   Each Party acknowledges they had the opportunity to request any financial information they considered necessary to evaluate this Agreement, including (if desired) ranges for income, assets, liabilities, and expected contributions.
+Each Party acknowledges they had the opportunity to request any financial information they considered necessary to evaluate this Agreement, including (if desired) ranges for income, assets, liabilities, and expected contributions.
 
 2. **Opportunity to Review**  
-   Each Party acknowledges adequate time to review any information requested and received, and to ask follow-up questions.
+Each Party acknowledges adequate time to review any information requested and received, and to ask follow-up questions.
 
 3. **Independent Advice Encouraged**  
-   Each Party acknowledges they were advised to consult independent legal counsel and independent tax counsel.
+Each Party acknowledges they were advised to consult independent legal counsel and independent tax counsel.
 
 4. **Minimal Attachment / Privacy**  
-   Any financial information exchanged may be exchanged privately (including through counsel) and need not be attached. This Exhibit memorializes process and opportunity, not verification.
+Any financial information exchanged may be exchanged privately (including through counsel) and need not be attached. This Exhibit memorializes process and opportunity, not verification.
 
 5. **Optional: Acknowledgment of Informed Waiver** *(check one)*  
-   - [ ] Each Party exchanged sufficient information to be comfortable signing.  
-   - [ ] Each Party knowingly waived deeper disclosure beyond what they requested/received.
+- [ ] Each Party exchanged sufficient information to be comfortable signing.  
+- [ ] Each Party knowingly waived deeper disclosure beyond what they requested/received.
 
-6. **Confidentiality**  
-   Any financial information exchanged shall be treated as confidential and used only for evaluating, negotiating, or enforcing this Agreement (or as required by law, tax reporting, court order, or arbitration).
+6. **Confidentiality (Light Touch)**  
+Any financial information exchanged shall be treated as confidential and used only for evaluating, negotiating, or enforcing this Agreement (or as required by law, tax reporting, court order, or arbitration). This does not restrict disclosures to attorneys/tax advisors or disclosures required by law.
 
 Partner A: ___________________________ Date: ___________  
 Partner B: ___________________________ Date: ___________  
