@@ -2,7 +2,7 @@
 
 > **License:** This template is released into the public domain under **The Unlicense**. See `LICENSE`.
 
-# COOPERATIVE WEALTH & COHABITATION AGREEMENT (v2 — HARDENED TEMPLATE)
+# COOPERATIVE WEALTH & COHABITATION AGREEMENT
 **(Escrow/Trustee-Controlled Restricted Joint Account; Deterministic Unwind; Periodic Liquidity Events; Joint Asset Protocol; Minimal Disclosure Process)**
 
 > **TEMPLATE NOTICE: NOT LEGAL ADVICE.**  
@@ -344,7 +344,7 @@ Date: ______________________
 
 ---
 
-## EXHIBIT 1 — ESCROW/TRUSTEE INSTRUCTIONS (HARDENED)
+## EXHIBIT 1 — ESCROW/TRUSTEE INSTRUCTIONS
 **(Joint Account Control; Liquidity Events; Deterministic Unwind; Liability Limits; Successor Mechanism)**
 
 **Purpose.** This Exhibit sets operational instructions the Escrow Agent/Trustee must accept. If the custodian requires its own forms, these instructions are intended to be incorporated into or mirrored by those forms.
@@ -405,7 +405,7 @@ Escrow Agent/Trustee (Acceptance): ___________________________ Date: ___________
 
 ---
 
-## EXHIBIT 2 — JOINT ASSET PROTOCOL (HARDENED MINIMAL)
+## EXHIBIT 2 — JOINT ASSET PROTOCOL
 
 **Purpose.** This protocol governs Joint Assets purchased in whole or in part with Joint Account funds.
 
@@ -443,7 +443,7 @@ If sold for less than outstanding liens, shortfall is borne pro rata unless the 
 
 ---
 
-## EXHIBIT 3 — DISCLOSURE & COUNSEL PROCESS (MORE DEFENSIBLE “MINIMAL”)
+## EXHIBIT 3 — DISCLOSURE & COUNSEL PROCESS
 
 **Purpose.** Confirm each Party had a fair opportunity to request/review financial information without attaching sensitive data to this Agreement.
 
