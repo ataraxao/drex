@@ -2,7 +2,7 @@
 
 > **License:** This template is released into the public domain under **The Unlicense**. See `LICENSE`.
 
-# COOPERATIVE WEALTH & COHABITATION AGREEMENT (v2 — HARDENED TEMPLATE)
+# COOPERATIVE WEALTH & COHABITATION AGREEMENT
 **(Escrow/Trustee-Controlled Restricted Joint Account; Deterministic Unwind; Periodic Liquidity Events; Joint Asset Protocol; Minimal Disclosure Process)**
 
 > **TEMPLATE NOTICE: NOT LEGAL ADVICE.**  
