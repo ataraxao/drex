@@ -1,115 +1,121 @@
-# Cooperative Wealth & Cohabitation Agreement (Template)
+README (Google Docs–friendly plain text)
+Cooperative Wealth Governance Agreement (Vehicle LLC + Event-Only Administrator)
 
-> **Public Domain:** Released under **The Unlicense**. See `LICENSE`.  
-> **Not Legal or Tax Advice:** This repository provides an educational template. It is not legal advice, does not create an attorney-client relationship, and may be inappropriate or unenforceable in your jurisdiction. Consult qualified independent legal and tax counsel before using.
+LICENSE / PUBLIC DOMAIN
+This repository is intended to be released into the public domain under The Unlicense. Include a LICENSE file containing the Unlicense text.
 
-## What this is
+NOT LEGAL OR TAX ADVICE
+This repository contains conceptual templates for educational and informational purposes only. It is not legal advice or tax advice and does not create an attorney-client relationship. Laws and tax rules vary widely by jurisdiction and by facts. Use independent legal counsel and independent tax counsel before using or adapting any template here.
 
-This repository contains an open-source **cohabitation + wealth governance** contract template for unmarried partners who want:
+WHAT THIS IS
+This repo contains a “wealth-governance” contract template designed to coordinate a private cooperative wealth arrangement using:
+	•	a restricted brokerage account held by a single-member “Vehicle LLC” (owned by Party A), and
+	•	a neutral, third-party “Independent Administrator” with limited (event-only) authority to execute distributions and freezes.
 
-- A restricted investment **Joint Account** with withdrawal controls
-- A neutral **Escrow Agent/Trustee** to execute scheduled events
-- A time-based **vesting schedule (capped)** allocating an earned share to Partner B
-- Scheduled **Liquidity Events** (default: every 3 years) that can transfer vested value into Partner B’s own account **without** ending cohabitation
-- A deterministic **unwind** (formula payout) upon separation
-- A minimal **Joint Asset Protocol** for tangible assets bought with Joint Account funds
-- A **light-touch privacy/confidentiality** covenant suitable for higher-net-worth use
-- Vesting conditioned on **ongoing lawful consideration** (waivers + privacy covenants), reducing arguments that vesting is purely tied to romance/companionship
+The template aims to be “wealth-only” (not a relationship contract) while still providing deterministic mechanics for:
+	•	periodic Liquidity Events, and
+	•	a deterministic unwind on termination.
 
-## What it does (plain English)
+CORE DESIGN GOALS
+	1.	Anti-smash-and-grab controls
+Neither party can unilaterally transfer assets out of the Vehicle Account. Party A has trading authority only, while transfers-out and distributions are controlled by the Independent Administrator.
+	2.	Event-only third-party administration
+To make the Administrator role realistically fillable, the Administrator’s duties are limited to events:
 
-### 1) Builds a governed wealth pool
-Partner A makes recurring deposits into a Joint Account invested in broad market index funds (configurable). During cohabitation, neither party can unilaterally withdraw. A neutral party administers permitted distributions.
+	•	Liquidity Event processing when Party B elects,
+	•	termination unwind processing, and
+	•	dispute holdbacks / distribution of undisputed amounts.
 
-### 2) Allocates Partner B an earned share via vesting
-Partner B accrues a **Vested Percentage** monthly up to a cap. Vesting accrual is conditioned on:
-- **Continuous Cohabitation**, and
-- **Material compliance** with key covenants (privacy + waiver), determined via notice/cure and, if disputed, arbitration  
-The Escrow Agent/Trustee is not a fact finder.
+No monthly bookkeeping, no investment advice, no continuous monitoring.
+	3.	Deterministic math + ledger netting
+The template uses:
 
-### 3) Prevents double counting with a distribution ledger
-A **B Distribution Ledger** records value already transferred to or for Partner B. Liquidity and separation payouts are calculated net of this ledger.
+	•	an Allocation Percentage (default example: 1% per month up to a cap, typically 50%), and
+	•	a B Distribution Ledger to avoid double-counting across Liquidity Events and final termination.
 
-### 4) Allows Liquidity Events without breakup
-On a schedule (default: every 3 years), Partner B can elect a one-time distribution of earned vested value (net of ledger), ideally **in-kind** into Partner B’s own brokerage account (cash fallback if needed).
+	4.	Non-recourse
+Party B’s entitlement is limited to assets actually in the Vehicle Account (and proceeds of Joint Assets purchased with Vehicle Account funds). There is no recourse against Party A’s separate property.
+	5.	Implementation integrity
+The Vehicle LLC includes anti-bypass covenants and “minimum terms” that should be mirrored in LLC documents and custodian permissions so Party A cannot easily override the intended control structure.
+	6.	Tax-neutral posture (recommended)
+The template avoids promising that distributions will be treated as “gifts” or any other specific tax classification. Reporting depends on account titling, entity classification, facts, and law. Each party should consult tax counsel.
 
-### 5) Provides deterministic unwind on separation
-On separation, the Escrow Agent/Trustee values the account at a defined **Valuation Time** and distributes:
-- Partner B’s net entitlement (vesting × value − ledger), and
-- Partner A’s remainder.
+WHAT THIS IS NOT
+	•	Not a marriage contract or prenup.
+	•	Not a parenting plan.
+	•	Not a household chores or “relationship performance” contract.
+	•	Not a promise of investment returns.
+	•	Not a guarantee of tax treatment.
 
-### 6) Covers Joint Assets with a minimal protocol
-If Joint Account funds buy a tangible asset (e.g., vehicle), the template sets ownership percentages, cost sharing, and buyout/sale procedures.
+REPO CONTENTS (SUGGESTED FILES)
+	1.	Cooperative_Wealth_Governance_Agreement.txt (or .md)
+The main agreement: Vehicle LLC + Vehicle Account governance, allocations, Liquidity Events, termination unwind, dispute resolution, exhibits.
+	2.	Household_Budget_Shared_Expense_Memo.txt (optional)
+A separate private side letter for routine household budgeting via a separate checking account. Not incorporated into the wealth agreement.
+	3.	LICENSE
+The Unlicense text.
+	4.	README
+This file.
 
-## Incentive notes (why vesting is 1%/month with a 50% cap)
+HOW IT WORKS (PLAIN ENGLISH)
+	1.	Set up the structure
 
-This template uses a simple vesting schedule of **1.00% per full calendar month** of Continuous Cohabitation, capped at **50.00%**. The design intent is to create a clear long-horizon incentive early in the relationship: during the first ~50 months (about 4.2 years), Partner B’s earned share increases steadily over time, so “staying and cooperating longer” produces a larger earned claim than early exit.
+	•	Party A forms a single-member Vehicle LLC.
+	•	The Vehicle LLC opens a brokerage account (“Vehicle Account”).
+	•	The custodian permissions and LLC documents are configured so:
+	•	Party A has trading authority only, and
+	•	the Independent Administrator has exclusive authority over transfers-out, freezes, and distributions.
 
-After the vesting cap is reached, the incentive shifts from “more vesting” to “more compounding”: Partner B’s percentage no longer increases, but Partner B still benefits economically from continued cohabitation because the Joint Account can continue to grow via ongoing contributions and market returns, and the agreement provides scheduled Liquidity Events (every three years by default) that can convert earned value into assets in Partner B’s own account **without** terminating cohabitation. In other words, early years reward longevity through vesting, while later years reward stability through shared growth and periodic liquidity rather than requiring separation to access value.
+	2.	Fund and invest
 
-## What this is not
+	•	Party A may contribute voluntarily (non-binding by default).
+	•	Investments default to broad-market index funds/ETFs unless changed by agreement.
 
-- Not legal advice or tax advice.
-- Not a substitute for jurisdiction-specific family law counsel.
-- Not a parenting plan.
-- Not a mechanism to waive non-waivable statutory rights (e.g., child support is generally governed by law and courts).
+	3.	Allocation accrues
 
-## Repository layout (suggested)
+	•	Party B’s Allocation Percentage accrues (example: 1% per month) up to a cap (often 50%).
+	•	This Allocation Percentage is used only to divide the Vehicle Account under Liquidity Events and termination unwind.
 
-- `agreement.md` — the contract template (main file)
-- `LICENSE` — The Unlicense
-- `README.md` — this file
+	4.	Liquidity Events
 
-Optional:
-- `DISCLAIMER.md` — longer disclaimer text
-- `CHANGELOG.md` — revisions and version notes
-- `CONTRIBUTING.md` — contribution guidelines
+	•	On each scheduled Liquidity Event, Party B may elect a Liquidity distribution during a defined window.
+	•	The Administrator calculates the “net owed” amount:
+max(0, Account Value × Allocation % − B Distribution Ledger)
+	•	The Administrator distributes (preferably in-kind if practicable) to Party B’s designated brokerage account.
 
-## How to use
+	5.	Termination unwind
 
-1) Copy `agreement.md` into your working document.  
-2) Fill placeholders:
-- Parties, dates, state/county, residence address
-- Contribution amount and start date
-- Vesting rate and cap
-- Liquidity cadence/window (if you change defaults)
-- Default fund/ticker
-- Escrow Agent/Trustee identity and contact details
-- Custodian/account structure details
+	•	Either party may terminate at any time by notice.
+	•	The Administrator freezes the account (as feasible), values it at the defined Valuation Time, and distributes:
+	•	Party B’s net share, then
+	•	Party A receives the remainder.
 
-3) Choose a custody/control structure that can actually enforce:
-- no unilateral withdrawals during cohabitation
-- neutral execution of Liquidity Events and separation unwind  
-(**This is the #1 real-world dependency.**)
+	6.	Joint Assets (optional)
+If Vehicle Account funds buy tangible assets:
 
-4) Each party should consult independent counsel (legal + tax).  
-5) Execute with appropriate formalities (notarization recommended).
+	•	default titling is tenants-in-common with percent ownership matching the Allocation Percentage at purchase, and
+	•	the Joint Asset Protocol covers buyout/sale procedures.
+Alternatively, the parties may elect to title an asset to the Vehicle LLC with special rules.
 
-## Key concepts
+KEY IMPLEMENTATION DEPENDENCY (MOST IMPORTANT)
+This template only works if the custodian/account setup can actually enforce the authority split:
+	•	Party A: trading only
+	•	Independent Administrator: exclusive transfers-out/distributions/freeze authority
 
-- **Joint Account:** Restricted investment pool governed by this agreement.
-- **Vested Percentage:** Partner B’s earned share (capped) accruing monthly.
-- **Valuation Time:** Prior trading day close / NAV used for calculations.
-- **B Distribution Ledger:** Tracks prior transfers to Partner B to avoid double counting.
-- **Liquidity Event:** Scheduled option to transfer earned value to Partner B without separation.
-- **Deterministic Unwind:** Formula-based payout at separation.
-- **Material Compliance:** Notice/cure/arbitration mechanism tied to privacy and waiver covenants; allegations alone do not suspend vesting; Escrow Agent/Trustee is not a fact finder.
+Not all retail brokerages support this cleanly. Confirm the exact account type and permissions in writing before relying on the template. The agreement is not “operative” until the control structure is implemented.
 
-## Design goals
+WHY THERE IS A SEPARATE HOUSEHOLD MEMO
+Household budgeting is intentionally separated:
+	•	The wealth agreement is designed to be “wealth-only” and does not govern cohabitation, support, or household operations.
+	•	If needed, use the separate Household Budget & Shared Expense Account Memo for daily-life expenses. It does not affect vesting, allocations, or unwind mechanics.
 
-- Reduce unilateral access to pooled funds (“anti-smash-and-grab”).
-- Reduce ambiguity and leverage at separation.
-- Provide periodic liquidity to reduce “exit to access value” pressure.
-- Keep separate property boundaries explicit.
-- Improve privacy hygiene suitable for higher-net-worth users.
-- Keep day-to-day cost sharing separate from wealth mechanics.
+DISPUTE RESOLUTION
+Disputes are handled via binding arbitration (AAA) with:
+	•	holdback of only the disputed incremental amount, and
+	•	court carve-outs for emergency injunctive relief and award enforcement.
 
-## Known limitations / risks
-
-- **Custodian feasibility:** Many institutions won’t implement bespoke withdrawal locks without a compatible legal structure (trust/entity/authorized-control setup).
-- **Enforceability varies:** Courts/arbitrators may limit waivers based on disclosure, fairness, duress, and local law.
-- **Tax outcomes vary:** Reporting often follows account titling and regulations, not private agreements.
-
-## License
-
-This repository is released into the public domain under **The Unlicense**. See `LICENSE`.
+CONTRIBUTIONS / FORKS
+If you fork or adapt this template, keep these principles intact:
+	•	clear separation between “wealth governance” and “household/relationship” topics,
+	•	custodian feasibility gating (not operative until permissions are proven), and
+	•	avoid making hard tax promises in the contract itself.
