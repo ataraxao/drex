@@ -40,9 +40,9 @@ In advanced Western economies with enshrined personal rights and free markets, w
 ---
 
 ## Part IV: The Structural Solution (The CWA)
-The **Cooperative Wealth Agreement (CWA)** is the instrument that underwrites an explicit price signal for the role of the Domestic Household Manager/COO. 
+The **Cooperative Wealth Agreement (CWA)** is the instrument that underwrites an explicit price signal for the domestic sphere. 
 
-It generates financial growth in the equity markets to capture value for the COO, but with a structural advantage: the growth does not start from her existing small savings base. It uses the CEO’s (the Captain's) much larger accumulated capital base as the starting point. 
+To accurately conceptualize the roles within this agreement, we adopt the relational framework established by psychologist Dr. Orion Taraban, which models the relationship dynamic as a **"Captain"** offering a **"Passenger"** a spot on his **"Ship."** In the context of the CWA, the primary earner operates as the Captain, and the Domestic Household Manager operates as his Passenger (the Domestic COO). The agreement generates financial growth in the equity markets to capture value for the COO, but with a structural advantage: the growth does not start from her existing small savings base. It uses the Captain's much larger accumulated capital base as the starting point. 
 
 ### The Mechanics of the Carry Trade
 The mechanics of the CWA rest on a powerful fusion: an interest-free "carry trade" combined directly with the systematic vesting of that trade. This fusion jump-starts returns that would otherwise take the COO a decade or more to accumulate on her own. This graded asset vesting mechanism takes the massive leverage of the Captain's capital and pairs it with a timeline that promotes long-term, aligned financial incentives.
@@ -116,7 +116,7 @@ Assume a Captain in the $5,000/mo scenario experiences an income interruption in
 ---
 
 ## Part VI: Market Visibility (The Dock and The Ship)
-Drawing on the relational framework established by psychologist Dr. Orion Taraban, the relationship dynamic can be conceptualized as a "Captain" offering a "Passenger" a spot on his "Ship." In this model, the CWA represents the Ship itself—the legally binding embodiment of a tangible, extrapolated lifestyle a Passenger can expect. However, a ship is useless if it cannot be found. 
+Building upon Dr. Taraban's framework, the CWA represents the "Ship" itself—the legally binding embodiment of a tangible, extrapolated lifestyle a Passenger can expect. However, a ship is useless if it cannot be found. 
 
 ### The Current Zeitgeist (The Mimetic Beach)
 Today, there is no constructed dock. Men line up on the shore claiming to be Captains. Because Passengers cannot closely inspect the real ships moored off in the distance, men adapt superficial, mimetic signs to signal success (curated photo albums, rented cars, adopted mannerisms). In this chaotic environment, the only reliable signal becomes *fame and social proof*. This is a highly inefficient market plagued by the "Lemons Problem."
