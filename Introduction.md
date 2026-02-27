@@ -121,10 +121,17 @@ Building upon Dr. Taraban's framework, the CWA represents the "Ship" itself—th
 ### The Current Zeitgeist (The Mimetic Beach)
 Today, there is no constructed dock. Men line up on the shore claiming to be Captains. Because Passengers cannot closely inspect the real ships moored off in the distance, men adopt superficial, mimetic signs to signal they have a ship in waiting (curated photo albums, rented cars, adopted mannerisms). In this chaotic environment, the only reliable signal becomes *fame and social proof*. This is a highly inefficient market plagued by the "Lemons Problem."
 
+### The Passenger's Adaptation: Behavioral Stress Testing
+To survive the Lemons Problem on the "Beach," Passengers have developed a high-friction filtering adaptation colloquially known as the **"shit test."** Because a Passenger cannot verify the existence or seaworthiness of a man's Ship, she instead attacks the Captain. These are impromptu, arbitrary stress tests designed to introduce unnecessary difficulty into the interaction, attempting to force the man to drop his mimetic facade and reveal his true baseline competency.
+
+
+
+While this heuristic succeeds in intimidating and filtering out fake Captains, it creates a massive false-positive problem. Genuine, highly competent Captains—men who actually possess the resources and discipline to run a Ship—have exceptionally low tolerance for arbitrary friction and disrespect. The "shit test" successfully repels the imposters, but it simultaneously annoys and repels the exact real Captains the Passenger is trying to find. Consequently, the Beach remains a hostile, low-trust environment crippled by deadweight loss. 
+
 ### The Solution (The Clearinghouse)
-The second half of the solution is the Clearinghouse—the metaphorical "Dock." The Dock provides the visibility required to participate in the market efficiently. 
+The second half of the solution is the Clearinghouse—the metaphorical "Dock." The Dock provides the visibility required to bypass behavioral stress testing entirely. 
 1. Passengers gather at the Dock to inspect the Ships (verified CWA term sheets backed by proof of capital).
-2. If a Passenger finds the explicit price signals of a Ship acceptable, she interviews the Captain for soft-skills compatibility. 
+2. Because the financial competency is already mathematically verified, the "shit test" becomes obsolete. The Passenger can simply interview the Captain for actual soft-skills compatibility.
 3. If there is a mutual fit, the Captain invites the Passenger on board to be his First-Mate, executing the CWA.
 
 ---
