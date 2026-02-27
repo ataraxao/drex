@@ -119,7 +119,7 @@ Assume a Captain in the $5,000/mo scenario experiences an income interruption in
 Building upon Dr. Taraban's framework, the CWA represents the "Ship" itself—the legally binding embodiment of a tangible, extrapolated lifestyle a Passenger can expect. However, a ship is useless if it cannot be found. 
 
 ### The Current Zeitgeist (The Mimetic Beach)
-Today, there is no constructed dock. Men line up on the shore claiming to be Captains. Because Passengers cannot closely inspect the real ships moored off in the distance, men adapt superficial, mimetic signs to signal success (curated photo albums, rented cars, adopted mannerisms). In this chaotic environment, the only reliable signal becomes *fame and social proof*. This is a highly inefficient market plagued by the "Lemons Problem."
+Today, there is no constructed dock. Men line up on the shore claiming to be Captains. Because Passengers cannot closely inspect the real ships moored off in the distance, men adopt superficial, mimetic signs to signal they have a ship in waiting (curated photo albums, rented cars, adopted mannerisms). In this chaotic environment, the only reliable signal becomes *fame and social proof*. This is a highly inefficient market plagued by the "Lemons Problem."
 
 ### The Solution (The Clearinghouse)
 The second half of the solution is the Clearinghouse—the metaphorical "Dock." The Dock provides the visibility required to participate in the market efficiently. 
