@@ -35,7 +35,7 @@ With this model in mind, we can mathematically rule out the most commonly cited 
 * **Failed Proposal 1: The Legalization of Sex-Work.** Proponents argue that making sex cheap and legally accessible will return leverage to men. The Gravity Model predicts the exact opposite. Cleaning up the price signals for sex-work will only increase the depth of its gravitational well, drawing *more* women away from the domestic sphere.
 * **Failed Proposal 2: Government Subsidization.** Activists argue that subsidizing rent or food will encourage family formation. The Gravity Model proves this false. Even if women have more discretionary income, they will not opt for the domestic path in any appreciable way so long as the relative clarity of the Career and Sex-Work price signals dominates the opaque domestic signal.
 
-In advanced Western economies with enshrined personal rights and free markets, walking back individual liberties to weaken the Career/Sex-Work spheres is a non-sequitur. **Therefore, the only viable solution is to drastically increase the price signal clarity of the Domestic Sphere.**
+In advanced Western economies with enshrined personal rights and free markets, walking back individual liberties to weaken the Career/Sex-Work spheres is a **non-starter**. Therefore, the only viable solution is to drastically increase the price signal clarity of the Domestic Sphere.
 
 ---
 
