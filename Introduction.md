@@ -123,7 +123,7 @@ Today, there is no constructed dock. Men line up on the shore claiming to be Cap
 
 ### The Solution (The Clearinghouse)
 The second half of the solution is the Clearinghouse—the metaphorical "Dock." The Dock provides the visibility required to participate in the market efficiently. 
-1. Passengers gather at the Dock to inspect the Ships (API-verified CWA term sheets backed by programmatic proof of capital).
+1. Passengers gather at the Dock to inspect the Ships (verified CWA term sheets backed by proof of capital).
 2. If a Passenger finds the explicit price signals of a Ship acceptable, she interviews the Captain for soft-skills compatibility. 
 3. If there is a mutual fit, the Captain invites the Passenger on board to be his First-Mate, executing the CWA.
 
