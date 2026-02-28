@@ -92,7 +92,7 @@ The following table models a Captain contributing $5,000/month, assuming capital
 ---
 
 ### Scenario B: The Break-Even Failsafe ($5,000/mo)
-- **The Family Court Yield (illustrative):** For a $250,000/year gross income in California under a 50/50 custody assumption and $0 income on the other side, guideline support is often on the order of **tens of thousands per year** (roughly **~$40k/year** give-or-take depending on net disposable income inputs, deductions, and add-ons).
+- **The Family Court Yield (illustrative):** For a $250,000/year gross income in California under a 50/50 custody assumption for 2 children and $0 income on the other side, guideline support is often on the order of **tens of thousands per year** (roughly **~$40k/year** give-or-take depending on net disposable income inputs, deductions, and add-ons).
 - **The CWA Yield (from Table A):** By **Year 7**, the total balance is **$538,726**, making her capped 50% share **$269,363**. By **Year 8**, the total balance grows to **$638,688**, making her share **$319,344**. Her equity increases by **$49,981** from Year 7 to Year 8—approximately **$50k/year** of passive growth in her share at that point.
 
 ---
