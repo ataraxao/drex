@@ -211,7 +211,8 @@ A common anxiety in traditional dual-income households is that a sudden job loss
 Assume a Primary Earner in the $5,000/mo scenario experiences an income interruption in Year 4 and must pause contributions for 6 months.
 - By the end of Year 3, the LLC holds **$200,132**.
 - During the 6-month pause, even with $0 added, the underlying capital continues to compound, generating roughly **$7,000** in passive growth.
-- **Crucially, this temporary cessation of funding does not constitute a breach of agreement.** Because the Domestic COO is vested, their equity *continues to grow passively* even while the Primary Earner's active income is zero. The "mass" of the Ship sustains the relationship's orbit until income resumes, effectively eliminating both legal jeopardy and financial panic.
+- **Crucially, this temporary cessation of funding does not constitute a breach of agreement.** Because the Domestic COO is vested, their equity *continues to grow passively* even while the Primary Earner's active income is zero. The momentum of the accumulated capital sustains the relationship's orbit until income resumes, effectively eliminating both legal jeopardy and financial panic.
+
 
 ---
 
