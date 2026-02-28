@@ -132,17 +132,64 @@ Assume a Captain in the $5,000/mo scenario experiences an income interruption in
 * **Crucially, this temporary cessation of funding does not constitute a breach of agreement.** Because the Domestic COO is vested, her equity *continues to grow passively* even while the Captain's active income is zero. The "mass" of the Ship sustains the relationship's orbit until the Captain's income resumes, effectively eliminating both legal jeopardy and financial panic.
 
 ### Scenario F: The Opportunity Cost (CWA vs. The Corporate Path)
-Critics often argue that foregoing a traditional career for the Domestic COO role constitutes a "loss of financial independence." This objection ignores the brutal attrition of taxes and living expenses on a standard salary. 
 
-Let us stress-test this by giving the corporate path every conceivable advantage. We will compare the $5,000/mo CWA scenario against a single woman starting with a highly realistic early-career **$75,000/year corporate salary that grows at a guaranteed 5% annually** over 15 years, while maintaining an extremely aggressive **20% gross savings rate**.
-* **The Corporate Grind:** By Year 15, her salary has climbed to nearly $156,000. To save 20% of her gross income, she must live an exceptionally frugal lifestyle. After federal and state taxes (taking home ~$58,000 in Year 1), aggressively investing $15,000 means she is surviving on just **$43,000 a year** for rent, commuting, and standard cost-of-living in what is likely a major metropolitan area. Her investments start at $1,250/month and scale up perfectly by 5% each year.
-* **The CWA Leverage:** The Domestic COO invests $0 of her own capital but leverages the Captain’s $5,000/month contribution. Her housing and core lifestyle are entirely subsidized by the Captain's primary income.
+Critics often argue that foregoing a traditional career for the Domestic COO role constitutes a “loss of financial independence.” That objection ignores a core reality: the salary path is an **attrition engine** once you include taxes and cost-of-living, and even disciplined saving compounds from a relatively small base.
 
-If both accounts compound at 7% over 15 years:
-* **Corporate Woman's Net Worth:** ~$527,000
-* **Domestic COO's Vested Net Worth:** ~$796,600
+Let’s stress-test this by giving the corporate path every conceivable advantage. We compare a **$5,000/month** CWA contribution path against a single woman starting at **$75,000/year**, receiving a guaranteed **5% raise every year for 15 years**, saving an unusually aggressive **20% of gross income**, and earning **7% annual investment returns**.
 
-*Analysis:* Even when operating with machine-like financial perfection, an extreme savings rate, and 15 unbroken years of aggressive 5% raises, the corporate woman still falls remarkably short. The Domestic COO's vested equity beats her by nearly **$270,000**, completely insulated from financial starvation and the burnout of the corporate ladder. The legacy corporate path is an engine of attrition; the CWA is a machine of leveraged accumulation. 
+## The Corporate Grind (maximally favorable assumptions)
+
+- **Year 1 salary:** $75,000  
+- **Year 15 salary:** **~$148,495** (not ~$156,000)  
+- **Savings rate:** 20% of gross, invested monthly  
+- **Year 1 savings:** $15,000/year ($1,250/month)  
+- **Year 15 savings:** **~$29,699/year** (~$2,475/month)  
+- **Corporate investment account value at Year 15:** **~$529,218**
+
+Reality check: saving 20% of gross typically means living on a constrained remainder after taxes and payroll deductions—especially in major metros. The exact “take-home” depends on state and benefits, but the underlying constraint is real.
+
+## The CWA Leverage
+
+- Domestic COO invests **$0** of her own capital  
+- Captain contributes **$5,000/month**  
+- **1% monthly vesting** with a **50% cap** (cap reached early Year 5)  
+- Both accounts compound at **7%**  
+
+Results (same assumptions as the CWA model):
+- **Joint account value at Year 15:** **~$1,564,319**
+- **Domestic COO vested net worth at Year 15 (50% cap):** **~$782,159**
+
+## Bottom line (correct comparison)
+
+- **Corporate woman net worth (Year 15):** **~$529,218**  
+- **Domestic COO vested net worth (Year 15):** **~$782,159**  
+- **Gap:** **~$252,941**
+
+---
+
+## Salary/Savings Table (15-year calculation)
+
+**Assumptions:** 7% annual returns compounded monthly; savings contributed monthly (1/12 of annual savings per month).
+
+| Year | Gross Salary | Annual Savings (20%) | Cumulative Contributions | Account Value (7% growth) |
+|---:|---:|---:|---:|---:|
+| 1 | $75,000 | $15,000 | $15,000 | $15,563 |
+| 2 | $78,750 | $15,750 | $30,750 | $32,993 |
+| 3 | $82,688 | $16,538 | $47,288 | $52,461 |
+| 4 | $86,822 | $17,364 | $64,652 | $74,149 |
+| 5 | $91,163 | $18,233 | $82,884 | $98,256 |
+| 6 | $95,721 | $19,144 | $102,029 | $124,997 |
+| 7 | $100,507 | $20,101 | $122,130 | $154,602 |
+| 8 | $105,533 | $21,107 | $143,237 | $187,323 |
+| 9 | $110,809 | $22,162 | $165,398 | $223,429 |
+| 10 | $116,350 | $23,270 | $188,668 | $263,212 |
+| 11 | $122,167 | $24,433 | $213,102 | $306,987 |
+| 12 | $128,275 | $25,655 | $238,757 | $355,094 |
+| 13 | $134,689 | $26,938 | $265,695 | $407,900 |
+| 14 | $141,424 | $28,285 | $293,979 | $465,799 |
+| 15 | $148,495 | $29,699 | $323,678 | $529,218 |
+
+*Analysis:* Even when operating with machine-like financial perfection, an extreme savings rate, and 15 unbroken years of aggressive 5% raises, the corporate woman still falls remarkably short. The Domestic COO's vested equity beats her by nearly **$253,000**, completely insulated from financial starvation and the burnout of the corporate ladder. The legacy corporate path is an engine of attrition; the CWA is a machine of leveraged accumulation. 
 
 
 
