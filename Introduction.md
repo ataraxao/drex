@@ -217,7 +217,7 @@ Assume a Primary Earner in the $5,000/mo scenario experiences an income interrup
 ---
 
 ### Scenario F: The Opportunity Cost (CWA vs. The Corporate Path)
-Critics often argue that foregoing a traditional career for the Domestic COO role constitutes a “loss of financial independence.” That objection ignores a core reality: the salary path is an **attrition engine** once you include taxes and cost-of-living, and even disciplined saving compounds from a relatively small base.
+Critics argue that foregoing a traditional career for the Domestic COO role constitutes a “loss of financial independence.” That objection ignores a core reality: the salary path is an **attrition engine** once you include taxes and cost-of-living, and even disciplined saving compounds from a relatively small base.
 
 Let’s stress-test this by giving the corporate path every conceivable advantage. We compare a **$5,000/month** CWA contribution path against a single woman starting at **$75,000/year**, receiving a guaranteed **5% raise every year for 15 years**, saving an unusually aggressive **20% of gross income**, and earning **7% annual investment returns**.
 
