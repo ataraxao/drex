@@ -1,4 +1,4 @@
-# The Gravity Model: Aligning Price Signals in the Relationship Marketplace
+# The Gravity Model: Aligning Price Signals in the Relationship Marketplace (v1-patch13)
 
 ## Executive Summary
 The collapse of domestic household formation in the modern West is not a moral failing; it is the predictable result of rational economic agents reacting to misaligned incentives. By modeling macroeconomic price signals as gravitational pull, we can perfectly map the current relationship marketplace. This paper introduces the **Gravity Model** to explain modern sociological behaviors, **predicts the failure of** common policy interventions, and introduces a two-part structural solution: the **Cooperative Wealth Agreement (CWA)** and a verifying **Clearinghouse**, designed to save the domestic sphere through the privatization and clarification of domestic equity.
@@ -30,9 +30,9 @@ Currently, rational economic agents—particularly women—are choosing between 
 ## Part II: Explaining Observable Sociological Phenomena
 Using the Gravity Model, the seemingly chaotic behaviors of the modern relationship market are easily explained as rational responses to economic physics.
 
-- **Modern Western Dating Behaviors:** The "boss-babe", attention-seeking, and thirst-trapping mentality are not cultural accidents. They are the natural consequence of women orbiting the massive, high-gravity spheres of Career and the Attention Economy. To be a "trad wife" today requires an extraordinary, almost irrational effort to swim against the natural pull of gravity from the other two spheres.
+- **Modern Western Dating Behaviors:** The "boss-babe" mentality, attention-seeking, and thirst-trapping are not cultural accidents. They are the natural consequence of women orbiting the massive, high-gravity spheres of Career and the Attention Economy. To be a "trad wife" today requires an extraordinary, almost irrational effort to swim against the natural pull of gravity from the other two spheres.
 - **The "Passport Bro" Phenomenon:** In underdeveloped economies, the price signals for women in the Workforce Career Sphere are relatively weak. Consequently, the Domestic and Attention Economy spheres stand relatively strong. This **cleanly models** why women in these regions maintain traditionally family-minded reputations, while those exact same regions simultaneously serve as global hotspots for sex tourism.
-- **Religious/Traditional Societies:** Strict Islamic societies balance the gravitational field not by raising the domestic signal, but by artificially reducing the quality of the price signals in the Workforce and Attention Economy spheres. By weakening the alternatives, the Domestic sphere becomes the default orbit.
+- **Religious/Traditional Societies:** Islamic societies balance the gravitational field not by raising the domestic signal, but by artificially reducing the quality of the price signals in the Workforce and Attention Economy spheres. By weakening the alternatives, the Domestic sphere becomes the default orbit.
 
 ---
 
@@ -113,7 +113,7 @@ The following table models a Primary Earner contributing $5,000/month, assuming 
 | 14 | $840,000 | $1,403,801 | 50% | $701,901 | $701,901 |
 | 15 | $900,000 | $1,564,319 | 50% | $782,159 | $782,159 |
 
-*Analysis:* The math illustrates a perfect behavioral incentive. At Month 60 (Year 5), the Domestic COO hits the 50% cap. From that exact moment forward, they walk in lockstep parity.
+*Analysis:* The math illustrates a perfect behavioral incentive. At **Month 50** (i.e., after 50 full months of 1% monthly accrual), the Domestic COO hits the 50% cap. From that exact moment forward, they walk in lockstep parity.
 
 ---
 
