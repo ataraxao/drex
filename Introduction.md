@@ -88,7 +88,7 @@ The following table models a Captain contributing $5,000/month, assuming no liqu
 
 ### Scenario B: The Break-Even Failsafe ($5,000/mo)
 * **The Family Court Yield:** Assuming a gross active income of $250,000/year in California (0$ COO income, 50/50 custody), state-mandated child support yields roughly **$40,000 to $47,000 per year** in depreciating fiat.
-* **The CWA Yield:** By Year 7, the total CWA balance is **$538,726**, making her share **$269,363**. By Year 8, the total balance grows to **$638,688**, making her share **$319,344**. Her equity is passively growing by **$49,981 per year**—more than double the maximum state extraction.
+* **The CWA Yield:** By Year 7, the total CWA balance is **$538,726**, making her share **$269,363**. By Year 8, the total balance grows to **$638,688**, making her share **$319,344**. Her equity is passively growing by **$49,981 per year**—more than the state mandated extraction.
 
 ### Scenario C: The Mid-Earning Professional ($2,000/mo Contribution)
 To prove the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Captain earning approximately $150,000/year, contributing a sustainable $2,000/month. 
