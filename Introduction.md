@@ -113,7 +113,7 @@ To prove the CWA is a scalable macroeconomic tool, we model a mid-market scenari
 | 14 | $336,000 | $561,520 | 50% | $280,760 | $280,760 |
 | 15 | $360,000 | $625,728 | 50% | $312,864 | $312,864 |
 
-*Analysis:* By Year 15, the Domestic COO has accumulated nearly **$313,000** in sovereign liquid wealth, providing total financial autonomy that the legacy marriage system could never guarantee.
+*Analysis:* By Year 15, the Domestic COO has accumulated nearly **$313,000** in sovereign liquid wealth, providing significant financial autonomy.
 
 ### Scenario D: The Mid-Market Break-Even Failsafe 
 * **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support for one child, $0 COO income, 50/50 custody yields roughly **$18000 to $21000 per year**. 
