@@ -32,7 +32,7 @@ Using the Gravity Model, the seemingly chaotic behaviors of the modern relations
 
 - **Modern Western Dating Behaviors:** The "boss-babe", attention-seeking, and thirst-trapping mentality are not cultural accidents. They are the natural consequence of women orbiting the massive, high-gravity spheres of Career and the Attention Economy. To be a "trad wife" today requires an extraordinary, almost irrational effort to swim against the natural pull of gravity from the other two spheres.
 - **The "Passport Bro" Phenomenon:** In underdeveloped economies, the price signals for women in the Workforce Career Sphere are relatively weak. Consequently, the Domestic and Attention Economy spheres stand relatively strong. This **cleanly models** why women in these regions maintain traditionally family-minded reputations, while those exact same regions simultaneously serve as global hotspots for sex tourism.
-- **Religious/Traditional Societies:** Islamic societies balance the gravitational field not by raising the domestic signal, but by artificially reducing the quality of the price signals in the Workforce and Attention Economy spheres. By weakening the alternatives, the Domestic sphere becomes the default orbit.
+- **Religious/Traditional Societies:** Strict Islamic societies balance the gravitational field not by raising the domestic signal, but by artificially reducing the quality of the price signals in the Workforce and Attention Economy spheres. By weakening the alternatives, the Domestic sphere becomes the default orbit.
 
 ---
 
