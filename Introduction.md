@@ -127,7 +127,7 @@ To prove the CWA is a scalable macroeconomic tool, we model a mid-market scenari
 A common anxiety in traditional dual-income households is that a sudden job loss threatens the mortgage and immediate lifestyle, causing panic. The CWA inherently absorbs this shock via accumulated mass.
 
 Assume a Captain in the $5,000/mo scenario experiences an income interruption in Year 4 and must pause his contributions for 6 months. 
-* By the end of Year 3, the LLC holds **$200,800**.
+* By the end of Year 3, the LLC holds **$200,132**.
 * During the 6-month pause, even with $0 added, the underlying capital continues to compound, generating roughly **$7,000** in passive growth.
 * **Crucially, this temporary cessation of funding does not constitute a breach of agreement.** Because the Domestic COO is vested, her equity *continues to grow passively* even while the Captain's active income is zero. The "mass" of the Ship sustains the relationship's orbit until the Captain's income resumes, effectively eliminating both legal jeopardy and financial panic.
 
