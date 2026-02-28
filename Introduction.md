@@ -64,7 +64,8 @@ To demonstrate the quantitative behavior of the agreement, we audit year-by-year
 **Baseline Parameters:**
 - **Market Returns:** 7% annualized compound growth  
 - **Vesting Schedule:** 1% per month into the total balance, capped at 50%  
-- **No Liquid Draws:** no interim liquidity elections in these baseline tables
+- **No Liquid Draws:** no interim liquidity elections in these baseline tables  
+- **Computation note:** Tables assume monthly contributions and monthly compounding at the effective monthly rate \((1.07)^{1/12}-1\), with values rounded to the nearest dollar.
 
 ### Scenario A: The High-Earning Professional ($5,000/mo Contribution)
 The following table models a Captain contributing $5,000/month, assuming capital compounds uninterrupted.
@@ -92,7 +93,7 @@ The following table models a Captain contributing $5,000/month, assuming capital
 ---
 
 ### Scenario B: The Break-Even Failsafe ($5,000/mo)
-- **The Family Court Yield (illustrative):** For a $250,000/year gross income in California under a 50/50 custody assumption for 2 children and $0 income on the other side, guideline support is often on the order of roughly **~$40k/year** give-or-take depending on net disposable income inputs, deductions, and add-ons.
+- **The Family Court Yield (illustrative):** Under California’s guideline formula (driven by **net monthly disposable income**, not gross), a $250,000/year gross earner with **2 children**, **50/50 custody**, and $0 income on the other side often lands in the ballpark of **~$3,400–$3,700 per month** (≈ **$41k–$44k/year**), before add-ons and deviations.
 - **The CWA Yield (from Table A):** By **Year 7**, the total balance is **$538,726**, making her capped 50% share **$269,363**. By **Year 8**, the total balance grows to **$638,688**, making her share **$319,344**. Her equity increases by **$49,981** from Year 7 to Year 8—approximately **$50k/year** of passive growth in her share at that point.
 
 ---
@@ -123,8 +124,7 @@ To show scalability, we model a $2,000/month contribution scenario.
 ---
 
 ### Scenario D: The Mid-Market Break-Even Failsafe
-- **The Family Court Yield (illustrative):** For a $150,000/year gross income, guideline support may be on the approximate order of $1500/month or $18000/year depending on custody and net disposable income inputs.
-  
+- **The Family Court Yield (illustrative):** Under California’s guideline formula (driven by **net monthly disposable income**, not gross), a $150,000/year gross earner with **1 child**, **50/50 custody**, and $0 income on the other side often lands in the ballpark of **~$1,600–$1,700 per month** (≈ **$19k–$20k/year**), before add-ons and deviations.
 - **The CWA Yield (from Table C):** By **Year 7**, her share is **$107,745**. By **Year 8**, it is **$127,738**—an increase of **$19,993** (≈ **$20k/year**) in her share from Year 7 to Year 8.
 
 ---
