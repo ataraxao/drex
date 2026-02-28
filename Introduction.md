@@ -148,25 +148,6 @@ Let’s stress-test this by giving the corporate path every conceivable advantag
 
 Reality check: saving 20% of gross typically means living on a constrained remainder after taxes and payroll deductions—especially in major metros. The exact “take-home” depends on state and benefits, but the underlying constraint is real.
 
-## The CWA Leverage
-
-- Domestic COO invests **$0** of her own capital  
-- Captain contributes **$5,000/month**  
-- **1% monthly vesting** with a **50% cap** (cap reached early Year 5)  
-- Both accounts compound at **7%**  
-
-Results (same assumptions as the CWA model):
-- **Joint account value at Year 15:** **~$1,564,319**
-- **Domestic COO vested net worth at Year 15 (50% cap):** **~$782,159**
-
-## Bottom line (correct comparison)
-
-- **Corporate woman net worth (Year 15):** **~$529,218**  
-- **Domestic COO vested net worth (Year 15):** **~$782,159**  
-- **Gap:** **~$252,941**
-
----
-
 ## Salary/Savings Table (15-year calculation)
 
 **Assumptions:** 7% annual returns compounded monthly; savings contributed monthly (1/12 of annual savings per month).
@@ -191,6 +172,23 @@ Results (same assumptions as the CWA model):
 
 *Analysis:* Even when operating with machine-like financial perfection, an extreme savings rate, and 15 unbroken years of aggressive 5% raises, the corporate woman still falls remarkably short. The Domestic COO's vested equity beats her by nearly **$253,000**, completely insulated from financial starvation and the burnout of the corporate ladder. The legacy corporate path is an engine of attrition; the CWA is a machine of leveraged accumulation. 
 
+
+## The CWA Leverage
+
+- Domestic COO invests **$0** of her own capital  
+- Captain contributes **$5,000/month**  
+- **1% monthly vesting** with a **50% cap** (cap reached early Year 5)  
+- Both accounts compound at **7%**  
+
+Results (same assumptions as the CWA model):
+- **Joint account value at Year 15:** **~$1,564,319**
+- **Domestic COO vested net worth at Year 15 (50% cap):** **~$782,159**
+
+## Bottom line (correct comparison)
+
+- **Corporate woman net worth (Year 15):** **~$529,218**  
+- **Domestic COO vested net worth (Year 15):** **~$782,159**  
+- **Gap:** **~$252,941**
 
 
 ---
