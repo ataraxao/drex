@@ -86,10 +86,6 @@ The following table models a Captain contributing $5,000/month, assuming no liqu
 
 *Analysis:* The math illustrates a perfect behavioral incentive. At Month 60 (Year 5), the Domestic COO hits the 50% cap. From that exact moment forward, they walk in lockstep parity.
 
-Here’s a Substack-ready paragraph you can drop in (I’d place it in Part V, right before Scenario B, since that’s where you introduce the child-support comparison). I kept your tone and framing.
-
-⸻
-
 Important note: Child support cannot be contracted away. The CWA is not a replacement for statutory obligations to a child, and it does not attempt to waive them. However, in the legacy family-court environment, the child is often functionally weaponized as a leverage instrument—used to justify financial extraction from the primary earner while simultaneously incentivizing disengagement, reduced cooperation, and even strategic separation as a form of “price discovery.” For this reason, it is analytically useful to model state-mandated child support cashflows against the CWA’s compounded wealth outcomes. The point is not legal avoidance; the point is incentive design: if the cooperative path reliably dominates the breakup path in long-horizon expected value, then the gravitational pull toward adversarial dissolution weakens, and the market incentives that produce these weaponization attitudes can be mitigated.
 
 ### Scenario B: The Break-Even Failsafe ($5,000/mo)
