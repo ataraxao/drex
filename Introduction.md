@@ -89,11 +89,11 @@ The following table models a Captain contributing $5,000/month, assuming no liqu
 ### Scenario B: The Break-Even Failsafe ($5,000/mo)
 **Important note:** Child support cannot be contracted away. The CWA is not a replacement for statutory obligations to a child, and it does not attempt to waive them. However, in the legacy family-court environment, the child is often functionally **weaponized** as a leverage instrument—used to justify financial extraction from the primary earner while simultaneously incentivizing disengagement, reduced cooperation, and even strategic separation as a form of "price discovery." For this reason, it is analytically useful to model **state-mandated child support cashflows** against the **CWA’s compounded wealth outcomes**. The point is not legal avoidance; the point is incentive design: if the cooperative path reliably dominates the breakup path in long-horizon expected value, then the gravitational pull toward adversarial dissolution weakens, and the market incentives that produce these weaponization attitudes can be mitigated.
 
-* **The Family Court Yield:** Assuming a gross active income of $250,000/year in California (0$ COO income, 50/50 custody), state-mandated child support yields roughly **$40,000 to $47,000 per year** in depreciating fiat.
-* **The CWA Yield:** By Year 7, the total CWA balance is **$538,726**, making her share **$269,363**. By Year 8, the total balance grows to **$638,688**, making her share **$319,344**. Her equity is passively growing by **$49,981 per year**—more than the state mandated extraction.
+**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year which would make a $5000 monthly CWA contribution sustainable, in California (0$ COO income, 50/50 custody for 2 children), state-mandated child support yields roughly **$40,000 to $47,000 per year** in depreciating fiat.
+**The CWA Yield:** By Year 7, the total CWA balance is **$538,726**, making her share **$269,363**. By Year 8, the total balance grows to **$638,688**, making her share **$319,344**. Her equity is passively growing by **$49,981 per year**—more than the state mandated extraction.
 
 ### Scenario C: The Mid-Earning Professional ($2,000/mo Contribution)
-To prove the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Captain earning approximately $150,000/year, contributing a sustainable $2,000/month. 
+To prove the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Captain earning approximately $150,000/year which make contributing $2,000/month sustainable. 
 
 | Year | A Contributions (cum) | Joint Account Value | B Vested % | B Share if Separate | A Share if Separate |
 |---:|---:|---:|:---:|---:|---:|
