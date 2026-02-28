@@ -1,4 +1,4 @@
-# The Gravity Model: Aligning Price Signals in the Relationship Marketplace
+# The Gravity Model: Aligning Price Signals in the Relationship Marketplace (v1-patch12)
 
 ## Executive Summary
 The collapse of domestic household formation in the modern West is not a moral failing; it is the predictable result of rational economic agents reacting to misaligned incentives. By modeling macroeconomic price signals as gravitational pull, we can perfectly map the current relationship marketplace. This paper introduces the **Gravity Model** to explain modern sociological behaviors, **predicts the failure of** common policy interventions, and introduces a two-part structural solution: the **Cooperative Wealth Agreement (CWA)** and a verifying **Clearinghouse**, designed to save the domestic sphere through the privatization and clarification of domestic equity.
@@ -62,12 +62,12 @@ Up to this point, the Gravity Model is a **descriptive lens**: it explains and p
 ## Part IV: The Structural Solution (The CWA)
 The **Cooperative Wealth Agreement (CWA)** is the instrument that underwrites an explicit price signal for the domestic sphere.
 
-To accurately conceptualize the roles within this agreement, we adopt the relational framework described by psychologist **Dr. Orion Taraban** in *The Value of Others*[^1], sometimes summarized as a “Captain” offering a “Passenger” a spot on his “Ship.” However, **these roles are elective and reversible, and the model applies regardless of gender.** In the context of the CWA, the two functional roles are:
+In the context of the CWA, the two functional roles are:
 
-- **Primary Earner (Capital Base):** the party funding the Vehicle Account contributions (the “Ship’s capital mass”).
+- **Primary Earner (Capital Base):** the party funding the Vehicle Account contributions.
 - **Domestic COO (Household Manager):** the party receiving a vesting equity claim in the cooperative vehicle.
 
-Either person can occupy either role depending on the relationship. The core point is not hierarchy; it is incentive alignment and the creation of legible domestic equity.
+These roles are **elective and reversible**, and the model applies regardless of gender. Either person can occupy either role depending on the relationship. The core point is not hierarchy; it is incentive alignment and the creation of legible domestic equity.
 
 The agreement generates financial growth in the equity markets to capture value for the Domestic COO, but with a structural advantage: the growth does not start from their existing small savings base. It uses the Primary Earner’s much larger accumulated capital base and/or contribution stream as the starting point.
 
@@ -268,7 +268,7 @@ Results (same assumptions as the CWA model):
 ---
 
 ## Part VI: Market Visibility (The Dock and The Ship)
-Building upon Dr. Taraban’s framework[^1], the CWA represents the “Ship” itself—the legally binding embodiment of a tangible, extrapolated lifestyle a counterparty can expect. However, a ship is useless if it cannot be found.
+Building upon psychologist **Dr. Orion Taraban’s** framework in *The Value of Others*[^1], the CWA represents the “Ship” itself—the legally binding embodiment of a tangible, extrapolated lifestyle a counterparty can expect. However, a ship is useless if it cannot be found.
 
 ### The Current Zeitgeist (The Mimetic Beach)
 Today, there is no constructed dock. People line up on the shore claiming to be viable partners with “ships.” Because counterparties cannot closely inspect the real ships moored off in the distance, claimants adopt superficial, mimetic signs to signal they have a ship in waiting (curated photo albums, rented cars, adopted mannerisms). In this chaotic environment, the only reliable signal becomes *fame and social proof*. This is a highly inefficient market plagued by the "Lemons Problem."
