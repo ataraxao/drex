@@ -140,7 +140,7 @@ Let’s stress-test this by giving the corporate path every conceivable advantag
 ## The Corporate Grind (maximally favorable assumptions)
 
 - **Year 1 salary:** $75,000  
-- **Year 15 salary:** **~$148,495** (not ~$156,000)  
+- **Year 15 salary:** **~$148,495** 
 - **Savings rate:** 20% of gross, invested monthly  
 - **Year 1 savings:** $15,000/year ($1,250/month)  
 - **Year 15 savings:** **~$29,699/year** (~$2,475/month)  
