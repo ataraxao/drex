@@ -87,7 +87,7 @@ The following table models a Captain contributing $5,000/month, assuming no liqu
 *Analysis:* The math illustrates a perfect behavioral incentive. At Month 60 (Year 5), the Domestic COO hits the 50% cap. From that exact moment forward, they walk in lockstep parity.
 
 ### Scenario B: The Break-Even Failsafe ($5,000/mo)
-* **The Family Court Yield:** Assuming a gross active income of $250,000/year in California (0$ COO income, 50/50 custody), state-mandated child support yields roughly **$24,000 per year** in depreciating fiat.
+* **The Family Court Yield:** Assuming a gross active income of $250,000/year in California (0$ COO income, 50/50 custody), state-mandated child support yields roughly **$40,000 to $47,000 per year** in depreciating fiat.
 * **The CWA Yield:** By Year 7, the total CWA balance is **$538,726**, making her share **$269,363**. By Year 8, the total balance grows to **$638,688**, making her share **$319,344**. Her equity is passively growing by **$49,981 per year**—more than double the maximum state extraction.
 
 ### Scenario C: The Mid-Earning Professional ($2,000/mo Contribution)
@@ -114,7 +114,7 @@ To prove the CWA is a scalable macroeconomic tool, we model a mid-market scenari
 *Analysis:* By Year 15, the Domestic COO has accumulated nearly **$313,000** in sovereign liquid wealth, providing total financial autonomy that the legacy marriage system could never guarantee.
 
 ### Scenario D: The Mid-Market Break-Even Failsafe 
-* **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support yields roughly **$14,400 to $16,000 per year**. 
+* **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support for one child, $0 COO income, 50/50 custody yields roughly **$18000 to $21000 per year**. 
 * **The CWA Yield:** By Year 7, her equity in the CWA is passively growing by **$19,993 per year**, safely neutralizing the state's gravitational pull.
 
 ### Scenario E: Capital Resilience (The 6-Month Income Interruption)
