@@ -1,4 +1,4 @@
-# The Gravity Model: Aligning Price Signals in the Relationship Marketplace (v1-patch14)
+# The Gravity Model: Aligning Price Signals in the Relationship Marketplace (v1-patch16)
 
 ## Executive Summary
 The collapse of domestic household formation in the modern West is not a moral failing; it is the predictable result of rational economic agents reacting to misaligned incentives. By modeling macroeconomic price signals as gravitational pull, we can perfectly map the current relationship marketplace. This paper introduces the **Gravity Model** to explain modern sociological behaviors, **predicts the failure of** common policy interventions, and introduces a two-part structural solution: the **Cooperative Wealth Agreement (CWA)** and a verifying **Clearinghouse**, designed to save the domestic sphere through the privatization and clarification of domestic equity.
@@ -70,16 +70,6 @@ In the context of the CWA, the two functional roles are:
 These roles are **elective and reversible**, and the model applies regardless of gender. Either person can occupy either role depending on the relationship. The core point is not hierarchy; it is incentive alignment and the creation of legible domestic equity.
 
 The agreement generates financial growth in the equity markets to capture value for the Domestic COO, but with a structural advantage: the growth does not start from their existing small savings base. It uses the Primary Earner’s much larger accumulated capital base and/or contribution stream as the starting point.
-
-### Tiering and Partial Participation (Not All-or-Nothing)
-A common misunderstanding is that the CWA is an all-or-nothing “apex prize.” It is not. CWAs can exist across **multiple financial tiers** (defined by contribution rate, starting capital base, and/or liquidity cadence). Even if a Domestic COO cannot secure the highest tier, they can still rationally target a **lower tier** CWA, contingent on the counterparty match they can attract at that level.
-
-Crucially, participation can be **partial and negotiated** rather than total. A Domestic COO may:
-- split time between the CWA sphere and the Workforce Career sphere (e.g., part-time, seasonal, consulting, or remote work),
-- maintain a personal career track as redundancy, autonomy, or identity,
-- adjust workload and contribution expectations over time as circumstances change (children, relocation, health, or income volatility).
-
-In Gravity Model terms, the Domestic sphere does not need to “beat” the Career sphere 100% of the time. A tiered, hybrid approach can still raise the domestic sphere’s effective price signal by making domestic equity **explicit, enforceable, and periodically liquid**, while preserving workforce optionality.
 
 ### The Mechanics of the Carry Trade
 The mechanics of the CWA rest on a powerful fusion: an interest-free "carry trade" combined directly with the systematic vesting of that trade. This fusion jump-starts returns that would otherwise take the Domestic COO a decade or more to accumulate on their own. This graded asset vesting mechanism takes the massive leverage of the Primary Earner’s capital and pairs it with a timeline that promotes long-term, aligned financial incentives.
@@ -204,11 +194,79 @@ To illustrate the CWA is a scalable macroeconomic tool, we model a mid-market sc
 
 *Analysis:* By Year 15, the Domestic COO has accumulated nearly **$313,000** in sovereign **vested** wealth. When paired with the Agreement’s scheduled Liquidity Events, this vested wealth can be progressively converted into **sovereign liquid** wealth in Party B’s own-name account.
 
+### Tiering (Non-Apex Scalability)
+As Scenario C suggests, CWAs can be implemented across **multiple financial tiers**—defined by contribution rate, starting capital base, and/or liquidity cadence. The mechanism is scalable: the domestic equity price signal can exist at different contribution levels, not only at an apex tier.
+
 ---
 
 ### Scenario D: The Mid-Market Break-Even Failsafe
 - **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support for one child, $0 COO income, 50/50 custody yields roughly **$18,000 to $21,000 per year**.
 - **The CWA Yield:** By Year 7, her equity in the CWA is passively growing by **$19,993 per year**, safely neutralizing the state's gravitational pull. **Stated differently, once the Domestic COO has reached the 50% cap (Year 5 in this model), a $2,000/month gross CWA contribution functions as roughly a $1,000/month net “transfer” incentive (because half of each marginal dollar remains the Primary Earner’s). That ~$1,000/month net contribution neutralizes roughly $1,500–$1,800/month in state incentives—meaning the CWA is capital-efficient as an incentive counterweight.**
+
+---
+
+### Scenario E: Capital Resilience (The 6-Month Income Interruption)
+A common anxiety in traditional dual-income households is that a sudden job loss threatens the mortgage and immediate lifestyle, causing panic. The CWA inherently absorbs this shock via accumulated mass.
+
+Assume a Primary Earner in the $5,000/mo scenario experiences an income interruption in Year 4 and must pause contributions for 6 months.
+- By the end of Year 3, the LLC holds **$200,132**.
+- During the 6-month pause, even with $0 added, the underlying capital continues to compound, generating roughly **$7,000** in passive growth.
+- **Crucially, this temporary cessation of funding does not constitute a breach of agreement.** Because the Domestic COO is vested, their equity *continues to grow passively* even while the Primary Earner's active income is zero. The "mass" of the Ship sustains the relationship's orbit until income resumes, effectively eliminating both legal jeopardy and financial panic.
+
+---
+
+### Scenario F: The Opportunity Cost (CWA vs. The Corporate Path)
+Critics often argue that foregoing a traditional career for the Domestic COO role constitutes a “loss of financial independence.” That objection ignores a core reality: the salary path is an **attrition engine** once you include taxes and cost-of-living, and even disciplined saving compounds from a relatively small base.
+
+Let’s stress-test this by giving the corporate path every conceivable advantage. We compare a **$5,000/month** CWA contribution path against a single woman starting at **$75,000/year**, receiving a guaranteed **5% raise every year for 15 years**, saving an unusually aggressive **20% of gross income**, and earning **7% annual investment returns**.
+
+#### The Corporate Grind (maximally favorable assumptions)
+- **Year 1 salary:** $75,000  
+- **Year 15 salary:** **~$148,495**
+- **Savings rate:** 20% of gross, invested monthly
+- **Year 1 savings:** $15,000/year ($1,250/month)
+- **Year 15 savings:** **~$29,699/year** (~$2,475/month)
+- **Corporate investment account value at Year 15:** **~$529,218**
+
+Reality check: saving 20% of gross typically means living on a constrained remainder after taxes and payroll deductions—especially in major metros. The exact “take-home” depends on state and benefits, but the underlying constraint is real.
+
+#### Salary/Savings Table (15-year calculation)
+**Assumptions:** 7% annual returns compounded monthly; savings contributed monthly (1/12 of annual savings per month).
+
+| Year | Gross Salary | Annual Savings (20%) | Cumulative Contributions | Account Value (7% growth) |
+|---:|---:|---:|---:|---:|
+| 1 | $75,000 | $15,000 | $15,000 | $15,563 |
+| 2 | $78,750 | $15,750 | $30,750 | $32,993 |
+| 3 | $82,688 | $16,538 | $47,288 | $52,461 |
+| 4 | $86,822 | $17,364 | $64,652 | $74,149 |
+| 5 | $91,163 | $18,233 | $82,884 | $98,256 |
+| 6 | $95,721 | $19,144 | $102,029 | $124,997 |
+| 7 | $100,507 | $20,101 | $122,130 | $154,602 |
+| 8 | $105,533 | $21,107 | $143,237 | $187,323 |
+| 9 | $110,809 | $22,162 | $165,398 | $223,429 |
+| 10 | $116,350 | $23,270 | $188,668 | $263,212 |
+| 11 | $122,167 | $24,433 | $213,102 | $306,987 |
+| 12 | $128,275 | $25,655 | $238,757 | $355,094 |
+| 13 | $134,689 | $26,938 | $265,695 | $407,900 |
+| 14 | $141,424 | $28,285 | $293,979 | $465,799 |
+| 15 | $148,495 | $29,699 | $323,678 | $529,218 |
+
+*Analysis:* Even when operating with machine-like financial perfection, an extreme savings rate, and 15 unbroken years of aggressive 5% raises, the corporate woman still falls remarkably short. The Domestic COO's vested equity beats her by nearly **$253,000**, completely insulated from financial starvation and the burnout of the corporate ladder. The legacy corporate path is an engine of attrition; the CWA is a machine of leveraged accumulation.
+
+#### The CWA Leverage
+- Domestic COO invests **$0** of her own capital
+- Primary Earner contributes **$5,000/month**
+- **1% monthly vesting** with a **50% cap** (cap reached early Year 5)
+- Both accounts compound at **7%**
+
+Results (same assumptions as the CWA model):
+- **Joint account value at Year 15:** **~$1,564,319**
+- **Domestic COO vested net worth at Year 15 (50% cap):** **~$782,159**
+
+#### Bottom line (correct comparison)
+- **Corporate woman net worth (Year 15):** **~$529,218**
+- **Domestic COO vested net worth (Year 15):** **~$782,159**
+- **Gap:** **~$252,941**
 
 ---
 
@@ -249,7 +307,11 @@ Because the CWA tournament successfully incentivizes a percentage of highly comp
 ### 3. Asymmetric Risk Profiles and Path Interoperability
 Critics will argue that if someone foregoes the corporate workforce to "train" for the CWA league but fails to secure a top-tier Primary Earner, their downside risk is catastrophic. This objection ignores the high utilitarian floor of the domestic sphere and severely underestimates the mutually exclusive, catastrophic risks of the alternatives.
 
-- **The High Utilitarian Floor and Preserved Optionality:** The skills acquired in the domestic pipeline—household logistics, emotional regulation, child-rearing efficiency—have immense intrinsic value that directly improves lived experience. Furthermore, **the domestic skillset is non-exclusive**. Developing these operational skills does not disqualify a person from concurrently or subsequently participating in the corporate sphere. They preserve optionality. This optionality includes **tiered and hybrid CWAs**, where the Domestic COO can remain partially in the workforce while still accruing scheduled domestic equity.
+- **The High Utilitarian Floor and Preserved Optionality:** The skills acquired in the domestic pipeline—household logistics, emotional regulation, child-rearing efficiency—have immense intrinsic value that directly improves lived experience. Furthermore, **the domestic skillset is non-exclusive**. Developing these operational skills does not disqualify a person from concurrently or subsequently participating in the corporate sphere. They preserve optionality. Participation can also be **hybrid and negotiated** rather than total. A Domestic COO may:
+  - split time between the domestic sphere and the Workforce Career sphere (e.g., part-time, seasonal, consulting, or remote work),
+  - maintain a personal career track for redundancy, autonomy, or identity,
+  - adjust workload and contribution expectations over time as circumstances change (children, relocation, health, or income volatility).  
+  In Gravity Model terms, the Domestic sphere does not need to “beat” the Career sphere 100% of the time. A tiered, hybrid approach can still raise the domestic sphere’s effective price signal by making domestic equity **explicit, enforceable, and periodically liquid**, while preserving workforce optionality.
 - **The Mutually Exclusive Risk of Sex-Work:** The explicit sex-work subset carries reputational and interoperability risk that can permanently disqualify the participant from securing a high-value domestic partnership and can constrain corporate options. It is a one-way street with a strict biological expiration date.
 - **The Cannibalizing Nature of the Corporate Sphere:** Dedicating one's peak family-formation years purely to a corporate path is highly antagonistic to domestic success. Furthermore, with the rapid advancement of Artificial Intelligence, someone risks climbing a structure that algorithms are actively dismantling, leaving them with neither domestic equity nor corporate utility.
 
