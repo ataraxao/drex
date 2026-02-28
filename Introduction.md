@@ -68,7 +68,7 @@ To demonstrate the quantitative superiority of the CWA, we must audit the mathem
 * **Vesting Schedule:** 1% per month into the total LLC balance, capped at 50%.
 
 ### Scenario A: The High-Earning Professional ($5,000/mo Contribution)
-The following table models a Captain contributing $5,000/month, assuming no liquid draws are taken, allowing the capital to compound uninterrupted. Values are rounded to the nearest hundred.
+The following table models a Captain contributing $5,000/month, assuming no liquid draws are taken, allowing the capital to compound uninterrupted.
 
 | Year | A Contributions (cum) | Joint Account Value | B Vested % | B Share if Separate | A Share if Separate |
 |---:|:---|:---|:---:|---:|---:|
