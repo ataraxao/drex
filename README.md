@@ -1,4 +1,4 @@
-# Cooperative Wealth Governance Agreement (Vehicle LLC + Event-Only Administrator)
+# Cooperative Wealth Governance Agreement 
 
 ## License / Public Domain
 This repository is intended to be released into the public domain under **The Unlicense**. Include a `LICENSE` file containing the Unlicense text.
