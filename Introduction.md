@@ -24,7 +24,7 @@ Currently, rational economic agents—particularly women—are choosing between 
 Using the Gravity Model, the seemingly chaotic behaviors of the modern relationship market are easily explained as rational responses to economic physics.
 
 * **Modern Western Dating Behaviors:** The "boss-babe" mentality, attention-seeking, and thirst-trapping are not cultural accidents. They are the natural consequence of women orbiting the massive, high-gravity spheres of Career and Sex-Work. To be a "trad wife" today requires an extraordinary, almost irrational effort to swim against the natural pull of gravity from the other two spheres.
-* **The "Passport Bro" Phenomenon:** In underdeveloped economies, the price signals for women in the Workforce Career sphere are relatively weak. Consequently, the Domestic and Sex-Work spheres stand relatively strong. This perfectly models why women in these regions maintain traditionally family-minded reputations, while those exact same regions simultaneously serve as global hotspots for sex tourism. 
+* **The "Passport Bro" Phenomenon:** In underdeveloped economies, the price signals for women in the Workforce Career Sphere are relatively weak. Consequently, the Domestic and Sex-Work spheres stand relatively strong. This perfectly models why women in these regions maintain traditionally family-minded reputations, while those exact same regions simultaneously serve as global hotspots for sex tourism. 
 * **Religious/Traditional Societies:** Islamic societies balance the gravitational field not by raising the domestic signal, but by artificially reducing the quality of the price signals in the Workforce and Sex-Work spheres. By weakening the alternatives, the Domestic sphere becomes the default orbit.
 
 ---
@@ -112,6 +112,21 @@ Assume a Captain in the $5,000/mo scenario experiences an income interruption in
 * By the end of Year 3, the LLC holds **$200,800**.
 * During the 6-month pause, even with $0 added, the underlying capital continues to compound, generating roughly **$7,000** in passive growth.
 * **Crucially, this temporary cessation of funding does not constitute a breach of agreement.** Because the Domestic COO is vested, her equity *continues to grow passively* even while the Captain's active income is zero. The "mass" of the Ship sustains the relationship's orbit until the Captain's income resumes, effectively eliminating both legal jeopardy and financial panic.
+
+### Scenario F: The Opportunity Cost (CWA vs. The Corporate Path)
+Critics often argue that foregoing a traditional career for the Domestic COO role constitutes a "loss of financial independence." This objection ignores the brutal attrition of taxes and living expenses on a standard salary. 
+
+Let us stress-test this by giving the corporate path every conceivable advantage. We will compare the $5,000/mo CWA scenario against a single woman starting with a highly realistic early-career **$75,000/year corporate salary that grows at a guaranteed 5% annually** over 15 years, while maintaining an extremely aggressive **20% gross savings rate**.
+* **The Corporate Grind:** By Year 15, her salary has climbed to nearly $156,000. To save 20% of her gross income, she must live an exceptionally frugal lifestyle. After federal and state taxes (taking home ~$58,000 in Year 1), aggressively investing $15,000 means she is surviving on just **$43,000 a year** for rent, commuting, and standard cost-of-living in what is likely a major metropolitan area. Her investments start at $1,250/month and scale up perfectly by 5% each year.
+* **The CWA Leverage:** The Domestic COO invests $0 of her own capital but leverages the Captain’s $5,000/month contribution. Her housing and core lifestyle are entirely subsidized by the Captain's primary income.
+
+If both accounts compound at 7% over 15 years:
+* **Corporate Woman's Net Worth:** ~$527,000
+* **Domestic COO's Vested Net Worth:** ~$796,600
+
+*Analysis:* Even when operating with machine-like financial perfection, an extreme savings rate, and 15 unbroken years of aggressive 5% raises, the corporate woman still falls remarkably short. The Domestic COO's vested equity beats her by nearly **$270,000**, completely insulated from financial starvation and the burnout of the corporate ladder. The legacy corporate path is an engine of attrition; the CWA is a machine of leveraged accumulation. 
+
+
 
 ---
 
