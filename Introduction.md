@@ -70,14 +70,23 @@ To demonstrate the quantitative superiority of the CWA, we must audit the mathem
 ### Scenario A: The High-Earning Professional ($5,000/mo Contribution)
 The following table models a Captain contributing $5,000/month, assuming no liquid draws are taken, allowing the capital to compound uninterrupted. Values are rounded to the nearest hundred.
 
-| Year | Total LLC Balance | Vested % | Domestic COO's Share | Captain's Share |
-| :--- | :--- | :--- | :--- | :--- |
-| **Year 1** | $62,300 | 12% | **$7,500** | $54,800 |
-| **Year 3** | $200,800 | 36% | **$72,300** | $128,500 |
-| **Year 5** | $360,000 | 50% *(Capped)* | **$180,000** | $180,000 |
-| **Year 7** | $543,000 | 50% | **$271,500** | $271,500 |
-| **Year 10** | $870,200 | 50% | **$435,100** | $435,100 |
-| **Year 15** | $1,593,200 | 50% | **$796,600** | $796,600 |
+| Year | A Contributions (cum) | Joint Account Value | B Vested % | B Share if Separate | A Share if Separate |
+|---:|:---|:---|:---:|---:|---:|
+| 1 | $60,000 | $62,251 | 12% | $7,470 | $54,781 |
+| 2 | $120,000 | $128,861 | 24% | $30,927 | $97,934 |
+| 3 | $180,000 | $200,132 | 36% | $72,048 | $128,085 |
+| 4 | $240,000 | $276,393 | 48% | $132,669 | $143,724 |
+| 5 | $300,000 | $357,992 | 50% | $178,996 | $178,996 |
+| 6 | $360,000 | $445,303 | 50% | $222,651 | $222,651 |
+| 7 | $420,000 | $538,726 | 50% | $269,363 | $269,363 |
+| 8 | $480,000 | $638,688 | 50% | $319,344 | $319,344 |
+| 9 | $540,000 | $745,648 | 50% | $372,824 | $372,824 |
+| 10 | $600,000 | $860,094 | 50% | $430,047 | $430,047 |
+| 11 | $660,000 | $982,553 | 50% | $491,276 | $491,276 |
+| 12 | $720,000 | $1,113,583 | 50% | $556,791 | $556,791 |
+| 13 | $780,000 | $1,253,785 | 50% | $626,892 | $626,892 |
+| 14 | $840,000 | $1,403,801 | 50% | $701,901 | $701,901 |
+| 15 | $900,000 | $1,564,319 | 50% | $782,159 | $782,159 |
 
 *Analysis:* The math illustrates a perfect behavioral incentive. At Month 60 (Year 5), the Domestic COO hits the 50% cap. From that exact moment forward, they walk in lockstep parity.
 
@@ -90,14 +99,23 @@ The following table models a Captain contributing $5,000/month, assuming no liqu
 ### Scenario C: The Mid-Earning Professional ($2,000/mo Contribution)
 To prove the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Captain earning approximately $150,000/year, contributing a sustainable $2,000/month. 
 
-| Year | Total LLC Balance | Vested % | Domestic COO's Share | Captain's Share |
-| :--- | :--- | :--- | :--- | :--- |
-| **Year 1** | $24,900 | 12% | **$3,000** | $21,900 |
-| **Year 3** | $80,300 | 36% | **$28,900** | $51,400 |
-| **Year 5** | $144,000 | 50% *(Capped)* | **$72,000** | $72,000 |
-| **Year 7** | $217,200 | 50% | **$108,600** | $108,600 |
-| **Year 10** | $348,100 | 50% | **$174,050** | $174,050 |
-| **Year 15** | $637,300 | 50% | **$318,650** | $318,650 |
+| Year | A Contributions (cum) | Joint Account Value | B Vested % | B Share if Separate | A Share if Separate |
+|---:|---:|---:|:---:|---:|---:|
+| 1 | $24,000 | $24,900 | 12% | $2,988 | $21,912 |
+| 2 | $48,000 | $51,544 | 24% | $12,371 | $39,173 |
+| 3 | $72,000 | $80,053 | 36% | $28,819 | $51,234 |
+| 4 | $96,000 | $110,557 | 48% | $53,067 | $57,490 |
+| 5 | $120,000 | $143,197 | 50% | $71,599 | $71,598 |
+| 6 | $144,000 | $178,121 | 50% | $89,061 | $89,060 |
+| 7 | $168,000 | $215,490 | 50% | $107,745 | $107,745 |
+| 8 | $192,000 | $255,475 | 50% | $127,738 | $127,737 |
+| 9 | $216,000 | $298,259 | 50% | $149,130 | $149,129 |
+| 10 | $240,000 | $344,038 | 50% | $172,019 | $172,019 |
+| 11 | $264,000 | $393,021 | 50% | $196,511 | $196,510 |
+| 12 | $288,000 | $445,433 | 50% | $222,717 | $222,716 |
+| 13 | $312,000 | $501,514 | 50% | $250,757 | $250,757 |
+| 14 | $336,000 | $561,520 | 50% | $280,760 | $280,760 |
+| 15 | $360,000 | $625,728 | 50% | $312,864 | $312,864 |
 
 *Analysis:* By Year 15, the Domestic COO has accumulated nearly **$320,000** in sovereign liquid wealth, providing total financial autonomy that the legacy marriage system could never guarantee.
 
