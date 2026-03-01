@@ -1,4 +1,4 @@
-# The Gravity Model: Aligning Price Signals in the Relationship Marketplace
+# The Gravity Model: Aligning Price Signals in the Relationship Marketplace (v2)
 
 ## Executive Summary
 The collapse of domestic household formation in the modern West is not a moral failing; it is the predictable result of rational economic agents reacting to misaligned incentives. By modeling macroeconomic price signals as gravitational pull, we can perfectly map the current relationship marketplace. This paper introduces the **Gravity Model** to explain modern sociological behaviors, **predicts the failure of** common policy interventions, and introduces a two-part structural solution: the **Cooperative Wealth Agreement (CWA)** and a verifying **Clearinghouse**, designed to save the domestic sphere through the privatization and clarification of domestic equity.
@@ -80,7 +80,9 @@ The mechanics of the CWA rest on a powerful fusion: an interest-free "carry trad
 While the CWA creates sovereign wealth for the Domestic COO, it simultaneously acts as a **Forced Savings Engine** for the Primary Earner. Because the Domestic COO’s equity is permanently capped at 50%, every dollar the Primary Earner contributes to the LLC is fundamentally an investment in their own net worth. They are not "spending" money on lifestyle inflation; they are aggressively saving it, knowing that at least half of the principal and half of the compounding yield remains legally theirs. This enforces financial discipline and aggressive capital aggregation.
 
 ### The Deterministic Unwind (At-Will Termination)
-A critical feature of the CWA is that it remains a strictly "at-will" agreement. If at any point either party wishes to terminate, they possess the absolute sovereign right to do so. Unlike the legacy marriage system, which requires a subjective judge to untangle commingled assets, the CWA features a **Deterministic Unwind**. Because the ledger is perfectly mapped, the exact vested equity is mathematically known down to the penny at all times. Upon termination, an Independent Administrator simply executes the ledger, instantly distributing the legally vested share to the Domestic COO and returning the remaining balance to the Primary Earner. It replaces legal warfare with a programmatic financial transaction.
+A critical feature of the CWA is that it remains a strictly "at-will" agreement. If at any point either party wishes to terminate, they possess the absolute sovereign right to do so. Unlike the legacy marriage system, which requires a subjective judge to untangle commingled assets, the CWA features a **Deterministic Unwind**. Because the ledger is mapped to explicit event procedures, the vested equity is computed at defined valuation times. Upon termination, an Independent Administrator executes the formulaic unwind, distributing the legally vested share to the Domestic COO and returning the remaining balance to the Primary Earner. It replaces legal warfare with a programmatic financial transaction.
+
+**Design note:** the CWA is drafted to be governance-only and event-driven, narrowing the dispute surface to the account and the formula.
 
 ### Disincentivizing the Early Exit
 While either party *can* trigger the unwind, the math disincentivizes it. By mathematically auditing the outcomes, a critical failsafe emerges: after a certain period (e.g., Year 6), the compounded annual unrealized capital growth from this carry trade will far exceed the financial benefits calculated from theoretical state-mandated child support payments. The CWA quantitatively incentivizes a cooperative relationship for the rational economic actor, rather than incentivizing liquidating the relationship in family court for financial reasons.
@@ -164,7 +166,7 @@ Below is a 15-year illustration using the same baseline assumptions as Scenario 
 
 - **Party B’s share at Year 7:** $269,363  
 - **Party B’s share at Year 8:** $319,344  
-- **Implied one-year CWA “yield” on Party B’s share (Year 7 → 8):**  
+- **Implied one-year CWA “yield” on Party B’s share (Year 7 → Year 8):**  
   **$319,344 − $269,363 = $49,981 per year**
 
 So in that same interval, the cooperative path’s passive wealth increase for Party B (**~$49,981/year**) exceeds the modeled state extraction band (**$40,000–$47,000/year**), flipping the incentive gradient toward cooperation rather than adversarial dissolution.
@@ -175,7 +177,6 @@ The CWA does not attempt to illegally bypass state-mandated child support. Inste
 In that regime, child support is pulled back toward its intended role: a **safety backstop to ensure the child’s needs are met**, rather than a proxy mechanism for the ex-partner’s financial survival.
 
 *(Note: with Liquidity Events, the same economic value can be realized earlier into Party B’s own-name account; the logic remains an incentive comparison between cooperative compounding and adversarial cashflow extraction.)*
-
 
 ---
 
@@ -220,7 +221,6 @@ Assume a Primary Earner in the $5,000/mo scenario experiences an income interrup
 - By the end of Year 3, the LLC holds **$200,132**.
 - During the 6-month pause, even with $0 added, the underlying capital continues to compound, generating roughly **$7,000** in passive growth.
 - **Crucially, this temporary cessation of funding does not constitute a breach of agreement.** Because the Domestic COO is vested, their equity *continues to grow passively* even while the Primary Earner's active income is zero. The momentum of the accumulated capital sustains the relationship's orbit until income resumes, effectively eliminating both legal jeopardy and financial panic.
-
 
 ---
 
@@ -276,6 +276,41 @@ Results (same assumptions as the CWA model):
 - **Corporate woman net worth (Year 15):** **~$529,218**
 - **Domestic COO vested net worth (Year 15):** **~$782,159**
 - **Gap:** **~$252,941**
+
+---
+
+## How the CWA narrows the dispute surface (it’s technical documentation for account withdrawal events)
+
+*Not legal advice. This explains design intent: reduce the number of things a court could plausibly adjudicate.*
+
+1) **No promises, no duties, no arrears**
+- Party A is never obligated to fund the Vehicle Account. “Targets” are non-binding; no arrears exist if funding stops.
+- Party B is never obligated to do anything (no services, behavior, cohabitation, exclusivity, intimacy, or “domestic performance”).
+- So there is nothing to enforce as support, wages, or ongoing payment—if the account is unfunded, the system is inert.
+
+2) **At-will by design**
+- The entire structure is at-will: either Party can terminate at any time by notice.
+- Termination triggers a deterministic unwind (freeze + distribution by formula), not a discretionary “relationship accounting.”
+
+3) **Ring-fenced asset pool; no recourse outside it**
+- Party B’s rights are limited to assets actually inside the Vehicle Account (and proceeds of Joint Assets bought with that money).
+- No recourse to Party A’s separate property.
+- No clawback / no negative entitlement (Party B never “owes back” due to market moves).  
+This caps the dispute surface to one defined pool.
+
+4) **Pure math replaces narrative**
+At Liquidity Events or termination, payout is just:  
+**max(0, (Vehicle Value × Allocation %) − B Distribution Ledger)**  
+No “fairness” story required—just a valuation time, a percentage, and a ledger balance.
+
+5) **No unilateral access; administrator executes events**
+Neither party can unilaterally withdraw. The Independent Administrator controls transfers-out and processes only:
+- Liquidity Events,
+- termination unwind,
+- narrow dispute holdbacks.
+
+6) **The honest limit**
+Courts can still address fraud/duress/unconscionability, child-related statutory issues, and anything created by real-world commingling. The point is narrower: the CWA minimizes claim surface by being non-obligatory, at-will, and confined to a controlled account with withdrawal procedures.
 
 ---
 
