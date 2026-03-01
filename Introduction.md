@@ -17,11 +17,11 @@ This is not literal physics; it’s a compact incentive diagram. In plain terms:
 - clearer signals, faster liquidity, and enforceable outcomes deepen the “well,”
 - while risk and friction shallow it.
 
-Currently, rational economic agents—particularly women—are choosing between three primary spheres of life paths:
+Currently, rational economic agents—particularly women—choose among three primary spheres of life paths. These are clusters, not rigid boxes; each contains heterogeneous paths and hybrids.
 
 1. **The Workforce Career Sphere:** Offers highly clear, direct price signals (salary, bonuses, equity) and immediate, scheduled cash liquidity.
-2. **The Attention Economy Monetization Path:** Monetized via social media, influencing, parasocial monetization, subscriptions (e.g., OnlyFans), and sugar-dating platforms, with explicit sex-work as a subset in some cases. Offers extremely direct, transparent price signals and immediate, frictionless liquidity. **Participation may be minority behavior in absolute terms, but it exerts outsized cultural and behavioral pull via visibility, social proof, and immediate feedback loops.**
-3. **The Domestic Management Sphere:** Under current normative constructs of marriage and cohabitation, this sphere has completely opaque, undefined price signals. It is indirectly priced. More destructively, its accumulated equity is only made liquid through the act of divorce and separation.
+2. **The Attention Economy Monetization Path:** Monetized via social media, influencing, parasocial monetization, subscriptions (e.g., OnlyFans), and sugar-dating platforms, with explicit sex-work as a subset in some cases. Offers extremely direct, transparent price signals that are salient and immediate. **Participation may be minority behavior in absolute terms, but it exerts outsized cultural and behavioral pull via visibility, social proof, and immediate feedback loops.**
+3. **The Domestic Management Sphere:** Under current normative constructs of marriage and cohabitation, this sphere's economic signal is typically non-standardized and adversarially discovered rather than explicit and liquid. The structural defect is that these arrangements are rarely legible, portable, or verifiable ex ante - and the “equity” of domestic contribution often only becomes priced (and sometimes made liquid) under conflict: separation, divorce, or litigation. In other words, the system frequently converts domestic value into a bargaining chip whose price is discovered at the moment of relational breakdown.
 
 **The fundamental flaw of the modern domestic sphere is that it actively incentivizes breaking up for price discovery.** Because the Career and Attention Economy spheres possess far higher-quality price signals, participants are, by default, pulled into their gravitational wells.
 
