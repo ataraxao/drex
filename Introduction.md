@@ -167,7 +167,13 @@ Below is a 15-year illustration using the same baseline assumptions as Scenario 
 
 So in that same interval, the cooperative path’s passive wealth increase for Party B (**~$49,981/year**) exceeds the modeled state extraction band (**$40,000–$47,000/year**), flipping the incentive gradient toward cooperation rather than adversarial dissolution.
 
+#### The Schelling Point of Cooperation
+The CWA does not attempt to illegally bypass state-mandated child support. Instead, it **mathematically outcompetes** it. If state child support yields roughly **$40,000/year**, but the passive compounding of Party B’s capped 50% CWA share yields roughly **$50,000/year** (illustratively, **$49,981/year** in the Year 7 → 8 window above), the **Schelling point** shifts. It becomes less economically rational for Party B to treat the child-support system as a primary cashflow strategy, because the dominant expected-value path is to maintain the cooperative wealth engine.
+
+In that regime, child support is pulled back toward its intended role: a **safety backstop to ensure the child’s needs are met**, rather than a proxy mechanism for the ex-partner’s financial survival.
+
 *(Note: with Liquidity Events, the same economic value can be realized earlier into Party B’s own-name account; the logic remains an incentive comparison between cooperative compounding and adversarial cashflow extraction.)*
+
 
 ---
 
