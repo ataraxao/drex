@@ -299,11 +299,11 @@ Results (same assumptions as the CWA model):
 This caps the dispute surface to one defined pool.
 
 4) **Pure math replaces narrative**
-- At Liquidity Events or termination, payout is just:  
+At Liquidity Events or termination, payout is just:  
 **max(0, (Vehicle Value × Allocation %) − B Distribution Ledger)**  
-- No “fairness” story required—just a valuation time, a percentage, and a ledger balance.
+No “fairness” story required—just a valuation time, a percentage, and a ledger balance.
 
-5) **No unilateral access; administrator executes events**;
+5) **No unilateral access; administrator executes events**
 Neither party can unilaterally withdraw. The Independent Administrator controls transfers-out and processes only:
 - Liquidity Events,
 - termination unwind,
