@@ -1,4 +1,4 @@
-# COOPERATIVE WEALTH GOVERNANCE AGREEMENT (V3 — WEALTH-ONLY; EVENT-DRIVEN; RING-FENCED POOL)
+# COOPERATIVE WEALTH GOVERNANCE AGREEMENT (WEALTH-ONLY; EVENT-DRIVEN; RING-FENCED POOL)
 *(Independent Administrator–Controlled Restricted LLC Brokerage Account; Deterministic Unwind; Periodic Liquidity Events; Joint Asset Protocol; Minimal Disclosure Process)*
 
 > **TEMPLATE NOTICE: NOT LEGAL OR TAX ADVICE.**  
