@@ -371,7 +371,7 @@ The second half of the solution is the Clearinghouse—the metaphorical "Dock." 
 If the Gravity Model is adopted and the Cooperative Wealth Agreement becomes a standard market alternative, the reduction in acute psychological and financial trauma across society would be staggering. By fixing the base economic incentives, the CWA cures downstream sociological rot while defending itself against macro-level critiques:
 
 ### 1. Tournament Theory and the Cultural Pipeline
-A persistent critique of the CWA is that because only a minority of high-net-worth people can afford to underwrite it, it will fail to shift the broader behavioral patterns of the dating market. This critique fundamentally misunderstands **Tournament Theory**.
+A critique of the CWA is that because only a minority of high-net-worth people can afford to underwrite it, it will fail to shift the broader behavioral patterns of the dating market. This critique fundamentally misunderstands **Tournament Theory**.
 
 Consider the economics of professional sports. Millions of young athletes dedicate their early lives to training for the NBA or NFL. Statistically, only a fraction of a percent will ever sign a lucrative professional contract. However, the mere *existence* of that outsized reward at the apex of the market dictates the behavior, daily habits, and aspirations of the millions at the base.
 
