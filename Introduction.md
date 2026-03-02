@@ -279,38 +279,9 @@ Results (same assumptions as the CWA model):
 
 ---
 
-## How the CWA narrows the dispute surface (it’s technical instructions for account withdrawal events)
+## How the CWA narrows the dispute surface (it’s technical documentation for account withdrawal events)
 
 *Not legal advice. This explains design intent: reduce the number of things a court could plausibly adjudicate.*
-
-1) **No promises, no duties, no arrears**
-- Party A is never obligated to fund the Vehicle Account. “Targets” are non-binding; no arrears exist if funding stops.
-- Party B is never obligated to do anything (no services, behavior, cohabitation, exclusivity, intimacy, or “domestic performance”).
-- So there is nothing to enforce as support, wages, or ongoing payment—if the account is unfunded, the system is inert.
-
-2) **At-will by design**
-- The entire structure is at-will: either Party can terminate at any time by notice.
-- Termination triggers a deterministic unwind (freeze + distribution by formula), not a discretionary “relationship accounting.”
-
-3) **Ring-fenced asset pool; no recourse outside it**
-- Party B’s rights are limited to assets actually inside the Vehicle Account (and proceeds of Joint Assets bought with that money).
-- No recourse to Party A’s separate property.
-- No clawback / no negative entitlement (Party B never “owes back” due to market moves).  
-This caps the dispute surface to one defined pool.
-
-4) **Pure math replaces narrative**
-At Liquidity Events or termination, payout is just:  
-**max(0, (Vehicle Value × Allocation %) − B Distribution Ledger)**  
-No “fairness” story required—just a valuation time, a percentage, and a ledger balance.
-
-5) **No unilateral access; administrator executes events**
-Neither party can unilaterally withdraw. The Independent Administrator controls transfers-out and processes only:
-- Liquidity Events,
-- termination unwind,
-- narrow dispute holdbacks.
-
-6) **The honest limit**;
-Courts can still address fraud/duress/unconscionability, child-related statutory issues, and anything created by real-world commingling. The point is narrower: the CWA minimizes claim surface by being non-obligatory, at-will, and confined to a controlled account with withdrawal procedures.
 
 ### 0) “Nothing is owed” (the CWA is an anti-contract)
 At its core, the CWA is engineered to be the opposite of a traditional relationship contract:
@@ -344,6 +315,36 @@ Once the structure is actually implemented and capital is present, the CWA can e
 - and a defined unwind procedure (ledger netting + formulaic distribution), executed by a neutral administrator.
 
 So even if the legal posture is “nothing is owed” in the abstract, the economic posture is: if capital is present and the setup is verifiable, the withdrawal path is explicit and executable as an event-driven procedure. That legibility is what turns domestic equity from adversarial “price discovery” into a market-visible signal.
+
+### Key design points (summary)
+1) **No promises, no duties, no arrears**
+- Party A is never obligated to fund the Vehicle Account. “Targets” are non-binding; no arrears exist if funding stops.
+- Party B is never obligated to do anything (no services, behavior, cohabitation, exclusivity, intimacy, or “domestic performance”).
+- So there is nothing to enforce as support, wages, or ongoing payment—if the account is unfunded, the system is inert.
+
+2) **At-will by design**
+- The entire structure is at-will: either Party can terminate at any time by notice.
+- Termination triggers a deterministic unwind (freeze + distribution by formula), not a discretionary “relationship accounting.”
+
+3) **Ring-fenced asset pool; no recourse outside it**
+- Party B’s rights are limited to assets actually inside the Vehicle Account (and proceeds of Joint Assets bought with that money).
+- No recourse to Party A’s separate property.
+- No clawback / no negative entitlement (Party B never “owes back” due to market moves).  
+This caps the dispute surface to one defined pool.
+
+4) **Pure math replaces narrative**
+At Liquidity Events or termination, payout is just:  
+**max(0, (Vehicle Value × Allocation %) − B Distribution Ledger)**  
+No “fairness” story required—just a valuation time, a percentage, and a ledger balance.
+
+5) **No unilateral access; administrator executes events**
+Neither party can unilaterally withdraw. The Independent Administrator controls transfers-out and processes only:
+- Liquidity Events,
+- termination unwind,
+- narrow dispute holdbacks.
+
+6) **The honest limit**
+Courts can still address fraud/duress/unconscionability, child-related statutory issues, and anything created by real-world commingling. The point is narrower: the CWA minimizes claim surface by being non-obligatory, at-will, and confined to a controlled account with withdrawal procedures.
 
 ---
 
