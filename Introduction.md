@@ -1,7 +1,7 @@
 # The Gravity Model: Aligning Price Signals in the Relationship Marketplace
 
 ## Executive Summary
-The collapse of domestic household formation in the modern West is not a moral failing; it is the predictable result of rational economic agents reacting to misaligned incentives. By modeling macroeconomic price signals as gravitational pull, we can perfectly map the current relationship marketplace. This paper introduces the **Gravity Model** to explain modern sociological behaviors, **predicts the failure of** common policy interventions, and introduces a two-part structural solution: the **Cooperative Wealth Agreement (CWA)** and a verifying **Clearinghouse**, designed to save the domestic sphere through the privatization and clarification of domestic equity.
+The collapse of domestic household formation in the modern West is not a moral failing; it is the predictable result of rational economic agents reacting to misaligned incentives. By modeling macroeconomic price signals as gravitational pull, we can map the current relationship marketplace. This paper introduces the **Gravity Model** to explain modern sociological behaviors, **predicts the underperformance of** common policy interventions, and introduces a two-part structural solution: the **Cooperative Wealth Agreement (CWA)** and a verifying **Clearinghouse**, designed to save the domestic sphere through the privatization and clarification of domestic equity.
 
 ---
 
@@ -47,8 +47,8 @@ This scope condition matters: it prevents the model from being misread as morali
 
 ---
 
-## Part III: The Failure of Proposed Interventions
-With this model in mind, we can mathematically **predict the underperformance of** the most commonly cited solutions for fixing the relationship marketplace.
+## Part III: The Limited Impact of Proposed Interventions
+With this model in mind, we can **expect limited impact under stable incentives of** the commonly cited solutions for fixing the relationship marketplace.
 
 - **Failed Proposal 1: The Legalization of Sex-Work.** Proponents argue that making sex cheap and legally accessible will return leverage to men. The Gravity Model predicts the exact opposite. Cleaning up the price signals for sex-work will only increase the depth of its gravitational well, drawing *more* women away from the domestic sphere.
 - **Failed Proposal 2: Government Subsidization.** **Activists argue that subsidizing rent, food, or childcare will encourage family formation by addressing the “affordability crisis”.** The Gravity Model **implies this is unlikely**. Even if women have more discretionary income, they will not opt for the domestic path in any appreciable way so long as the relative clarity of the Career and Attention Economy price signals dominates the opaque domestic signal.
@@ -355,14 +355,14 @@ Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Othe
 Today, there is no constructed dock. People line up on the shore claiming to be viable partners with “ships.” Because counterparties cannot closely inspect the real ships moored off in the distance, claimants adopt superficial, mimetic signs to signal they have a ship in waiting (curated photo albums, rented cars, adopted mannerisms). In this chaotic environment, the swiftest "least worst" signal becomes *fame and social proof*. This is a highly inefficient market plagued by the "Lemons Problem."
 
 ### The Passenger's Adaptation: Behavioral Stress Testing
-To survive the Lemons Problem on the "Beach," counterparties have developed a high-friction filtering adaptation colloquially known as the **"shit test."** Because a person cannot verify the existence or seaworthiness of another’s Ship, they instead introduce friction. These are impromptu, arbitrary stress tests designed to introduce unnecessary difficulty into the interaction, attempting to force the claimant to drop their mimetic facade and reveal some measure of their baseline competency.
+To survive the Lemons Problem on the "Beach," counterparties have developed a high-friction filtering adaptation colloquially known as the **"shit test"** (behavorial stress testing). Because a person cannot verify the existence or seaworthiness of another’s Ship, they instead introduce friction. These are impromptu, arbitrary stress tests designed to introduce unnecessary difficulty into the interaction, attempting to force the claimant to drop their mimetic facade and reveal some measure of their baseline competency.
 
-While this heuristic succeeds in intimidating and filtering out some fake claimants, it creates a massive false-positive problem. Genuine, highly competent partners—people who actually possess the resources and discipline to run a Ship—often have low tolerance for arbitrary friction and disrespect. The "shit test" successfully repels the imposters, but it simultaneously annoys and repels the exact real partners the counterparty is trying to find. Consequently, the Beach remains a hostile, low-trust environment crippled by deadweight loss.
+While this heuristic succeeds in intimidating and filtering out some fake claimants, it creates a massive false-positive problem. Genuine, high-agency partners—people who actually possess the resources and discipline to run a Ship—often have low tolerance for arbitrary friction and disrespect. The behavorial stress testing successfully repels the imposters, but it simultaneously annoys and repels the exact real partners the counterparty is trying to find. Consequently, the Beach remains a hostile, low-trust environment crippled by deadweight loss.
 
 ### The Solution (The Clearinghouse)
 The second half of the solution is the Clearinghouse—the metaphorical "Dock." The Dock provides the visibility required to bypass behavioral stress testing entirely.
 1. Prospective partners gather at the Dock to inspect the Ships (verified CWA term sheets backed by proof of capital).
-2. Because the financial competency is already mathematically verified, the "shit test" becomes obsolete. The parties can simply interview each other for actual soft-skills compatibility.
+2. Because the financial competency is already mathematically verified, behavorial stress testing becomes obsolete. The parties can simply interview each other for actual soft-skills compatibility.
 3. If there is a mutual fit, the parties execute the CWA.
 
 ---
