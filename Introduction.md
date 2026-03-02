@@ -279,7 +279,7 @@ Results (same assumptions as the CWA model):
 
 ---
 
-## How the CWA narrows the dispute surface (it’s technical documentation for account withdrawal events)
+## How the CWA narrows the dispute surface (it’s technical instructions for account withdrawal events)
 
 *Not legal advice. This explains design intent: reduce the number of things a court could plausibly adjudicate.*
 
