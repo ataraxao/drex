@@ -85,7 +85,7 @@ A critical feature of the CWA is that it remains a strictly "at-will" agreement.
 **Design note:** the CWA is drafted to be governance-only and event-driven, narrowing the dispute surface to the account and the formula.
 
 ### Disincentivizing the Early Exit
-While either party *can* trigger the unwind, the math disincentivizes it. By mathematically auditing the outcomes, a critical failsafe emerges: after a certain period (e.g., Year 6), the compounded annual unrealized capital growth from this carry trade will far exceed the financial benefits calculated from theoretical state-mandated child support payments. The CWA quantitatively incentivizes a cooperative relationship for the rational economic actor, rather than incentivizing liquidating the relationship in family court for financial reasons.
+While either party *can* trigger the unwind, the math disincentivizes it. By mathematically auditing the outcomes, a critical failsafe emerges: after a certain period (e.g., Year 6), the compounded annual unrealized capital growth from this carry trade can exceed the financial benefits calculated from theoretical state-mandated child support payments. The CWA quantitatively incentivizes a cooperative relationship for the rational economic actor, rather than incentivizing liquidating the relationship in family court for financial reasons.
 
 ---
 
