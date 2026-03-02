@@ -343,7 +343,8 @@ The CWA still emits a price signal because it publicly (or verifiably) commits t
 - defined liquidity cadence (Liquidity Events),
 - and defined unwind math (ledger netting + deterministic formula).
 
-So even if the legal posture is “nothing is owed,” the *economic* posture is: **if capital is present, the withdrawal path is explicit, legible, and enforceable as a mechanical procedure.** That legibility is exactly what turns domestic equity from adversarial “price discovery” into a market-visible signal.
+So even if the legal posture is “nothing is owed,” the economic posture is: **if capital is present, the withdrawal path is explicit, legible, and enforceable as a mechanical procedure.** That legibility is exactly what turns domestic equity from adversarial “price discovery” into a market-visible signal.
+
 ---
 
 ## Part VI: Market Visibility (The Dock and The Ship)
