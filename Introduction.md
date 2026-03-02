@@ -348,7 +348,7 @@ So even if the legal posture is “nothing is owed” in the abstract, the econo
 ---
 
 ## Part VI: Market Visibility (The Dock and The Ship)
-Building upon psychologist **Dr. Orion Taraban’s** framework in *The Value of Others*[^1], the CWA represents the “Ship” itself—the legally binding embodiment of a tangible, extrapolated lifestyle a counterparty can expect. However, a ship is useless if it cannot be found.
+Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*[^1], the CWA represents the “Ship” itself: a **quantitatively specified**, pre-committed wealth mechanism (vehicle + allocation + liquidity + unwind) that a counterparty can inspect. However, a ship is useless if it cannot be found.
 
 ### The Current Zeitgeist (The Mimetic Beach)
 Today, there is no constructed dock. People line up on the shore claiming to be viable partners with “ships.” Because counterparties cannot closely inspect the real ships moored off in the distance, claimants adopt superficial, mimetic signs to signal they have a ship in waiting (curated photo albums, rented cars, adopted mannerisms). In this chaotic environment, the only reliable signal becomes *fame and social proof*. This is a highly inefficient market plagued by the "Lemons Problem."
