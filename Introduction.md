@@ -73,7 +73,7 @@ These roles are **elective and reversible**, and the model applies regardless of
 
 The agreement generates financial growth in the equity markets to capture value for the **Partner COO**, but with a structural advantage: the growth does not start from their existing small savings base. It uses the **Funding Partner’s** much larger accumulated capital base and/or contribution stream as the starting point.
 
-### The Mechanics of the “Carry Trade” effect
+### The Mechanics of the “Carry Trade” Effect
 The CWA fuses an interest-free "carry trade" combined with the systematic vesting of that trade and its base capital. The result is simple: the **Partner COO** vests into a pool that is already massive (or becomes massive quickly), rather than compounding from a small starting **principal**. This graded asset vesting mechanism takes the massive leverage of the **Funding Partner’s** capital and pairs it with a timeline that promotes long-term, aligned financial incentives.
 
 ### The Structured Savings Effect
