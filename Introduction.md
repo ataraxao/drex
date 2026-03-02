@@ -1,227 +1,150 @@
-# The Gravity Model: Aligning Price Signals in the Relationship Marketplace (v1 — patched)
+# The Gravity Model: Aligning Price Signals in the Relationship Marketplace *(v1 — patched)*
 
 ## Executive Summary
 
-The collapse of domestic household formation in the modern West is not a moral failing; it is the predictable result of rational economic agents reacting to misaligned incentives. By modeling macroeconomic price signals as gravitational pull, we can map the current relationship marketplace. This paper introduces the Gravity Model to explain modern sociological behaviors, predicts the underperformance of common policy interventions, and introduces a two-part structural solution: the Cooperative Wealth Agreement (CWA) and a verifying Clearinghouse, designed to save the domestic sphere through the privatization and clarification of domestic equity.
+The collapse of domestic household formation in the modern West is not a moral failing; it is the predictable result of **rational economic agents reacting to misaligned incentives**. By modeling macroeconomic price signals as **gravitational pull**, we can map the current relationship marketplace. This paper introduces the **Gravity Model** to explain modern sociological behaviors, predicts the **underperformance of common policy interventions**, and introduces a two-part structural solution: the **Cooperative Wealth Agreement (CWA)** and a verifying **Clearinghouse**, designed to save the domestic sphere through the **privatization and clarification of domestic equity**.
 
 ---
 
 ## Part I: The Physics of Price Signals
 
-To understand the crisis in family formation, we propose to view life paths through the lens of behavioral economics. In the Gravity Model, the “gravitational pull” of a life path is directly proportional to the clarity and quality of its financial price signal.
+To understand the crisis in family formation, we propose to view life paths through the lens of *behavioral economics*. In the Gravity Model, the **“gravitational pull”** of a life path is directly proportional to the **clarity and quality of its financial price signal**.
 
-### A toy functional form (what “gravity” means)
+### A toy functional form *(what “gravity” means)*
 
 A minimal equation makes the model explicit:
 
 **Gravity (Pull) ∝ (Signal Clarity × Liquidity × Enforceability) / (Risk × Friction)**
 
-This is not literal physics; it’s a compact incentive diagram. In plain terms:
+This is not literal physics; it’s a **compact incentive diagram**. In plain terms:
 
-- clearer signals, faster liquidity, and enforceable outcomes deepen the “well,”
-- while risk and friction shallow it.
+- **Clearer signals**, **faster liquidity**, and **enforceable outcomes** deepen the “well,”  
+- while **risk** and **friction** shallow it.
 
-> This is a first-order incentive model; it predicts marginal shifts in aggregate behavior, not individual mate choice.
+> *This is a first-order incentive model; it predicts marginal shifts in aggregate behavior, not individual mate choice.*
 
-Currently, rational economic agents—particularly women—choose among three primary spheres of life paths. These are clusters, not rigid boxes; each contains heterogeneous paths and hybrids.
+Currently, rational economic agents—**particularly women**—choose among three primary spheres of life paths. These are **clusters**, not rigid boxes; each contains heterogeneous paths and hybrids.
 
 1. **The Workforce Career Sphere**  
-   Offers highly clear, direct price signals (salary, bonuses, equity) and immediate, scheduled cash liquidity.
+   Offers **highly clear, direct price signals** (salary, bonuses, equity) and **immediate, scheduled cash liquidity**.
 
 2. **The Attention Economy Monetization Path**  
-   Monetized via social media, influencing, sponsorships, subscriptions (e.g., OnlyFans), and sugar-dating platforms, with explicit sex-work as a subset in some cases. Offers extremely direct, transparent price signals that are salient and immediate. Participation may be minority behavior in absolute terms, but it exerts outsized cultural and behavioral pull via visibility, social proof, and immediate feedback loops.
+   Monetized via social media, influencing, sponsorships, subscriptions (e.g., OnlyFans), and sugar-dating platforms, with explicit sex-work as a subset in some cases. Offers **extremely direct, transparent price signals** that are salient and immediate. Participation may be minority behavior in absolute terms, but it exerts **outsized cultural and behavioral pull** via **visibility**, **social proof**, and **immediate feedback loops**.
 
 3. **The Domestic Management Sphere**  
-   Under current normative constructs of marriage and cohabitation, this sphere’s economic signal is typically non-standardized and adversarially discovered rather than explicit and liquid. The structural defect is that these arrangements are rarely legible, portable, or verifiable *ex ante*—and the “equity” of domestic contribution often only becomes priced (and sometimes made liquid) under conflict: separation, divorce, or litigation.
+   Under current normative constructs of marriage and cohabitation, this sphere’s economic signal is typically **non-standardized** and **adversarially discovered** rather than explicit and liquid. The structural defect is that these arrangements are rarely **legible**, **portable**, or **verifiable ex ante**—and the “equity” of domestic contribution often only becomes priced (and sometimes made liquid) under conflict: **separation**, **divorce**, or **litigation**.
 
-The fundamental flaw is that domestic value is often priced and liquidated under duress, rather than through clear, cooperative, standardized mechanisms during the relationship. Because the Career and Attention Economy spheres typically present more legible, frequent, and behaviorally reinforcing price signals than the domestic sphere, participants are, by default, pulled into their gravitational wells—especially under uncertainty and competition.
+The fundamental flaw is that **domestic value is often priced and liquidated under duress**, rather than through clear, cooperative, standardized mechanisms during the relationship. Because the Career and Attention Economy spheres typically present more **legible**, more **frequent**, and more **behaviorally reinforcing** price signals than the domestic sphere, participants are, by default, pulled into their gravitational wells—especially under **uncertainty** and **competition**.
 
 ---
 
 ## Part II: Explaining Observable Sociological Phenomena
 
-Using the Gravity Model, the seemingly chaotic behaviors of the modern relationship market are easily explained as rational responses to economic physics.
+Using the Gravity Model, the seemingly chaotic behaviors of the modern relationship market are easily explained as **rational responses to economic physics**.
 
 ### Modern Western Dating Behaviors
 
-Career-maxing, attention monetization, and “attention farming” aren’t cultural accidents. They’re predictable responses to a market where Career and the Attention Economy offer clearer, faster, and more frequent feedback than the domestic path. In that incentive field, choosing a domestic-first lane requires unusually strong preference alignment and risk tolerance versus the default pull of the other two wells.
+**Career-maxing**, **attention monetization**, and “**attention farming**” aren’t cultural accidents. They’re predictable responses to a market where **Career** and the **Attention Economy** offer **clearer**, **faster**, and **more frequent feedback** than the domestic path. In that incentive field, choosing a **domestic-first lane** requires unusually strong **preference alignment** and **risk tolerance** versus the default pull of the other two wells.
 
-### The “Passport Bro” (Cross-Border Dating) Phenomenon
+### The “Passport Bro” *(Cross-Border Dating)* Phenomenon
 
-In underdeveloped economies, the price signals for women in the Workforce Career Sphere are relatively weak. Consequently, the Domestic and Attention Economy spheres stand relatively strong. This cleanly models why women in these regions maintain traditionally family-minded reputations, while some of those same destinations also support robust sex-tourism markets.
+In underdeveloped economies, the price signals for women in the Workforce Career Sphere are relatively **weak**. Consequently, the **Domestic** and **Attention Economy** spheres stand relatively **strong**. This cleanly models why women in these regions maintain traditionally family-minded reputations, while some of those same destinations also support robust **sex-tourism markets**.
 
 ### Religious/Traditional Societies
 
-Strict Islamic societies balance the gravitational field not by raising the domestic signal, but by artificially reducing the quality of the price signals in the Workforce and Attention Economy spheres. By weakening the alternatives, the Domestic sphere becomes the default orbit.
+Strict Islamic societies balance the gravitational field **not** by raising the domestic signal, but by artificially **reducing** the quality of the price signals in the Workforce and Attention Economy spheres. By weakening the alternatives, the Domestic sphere becomes the **default orbit**.
 
 ---
 
 ## Part II.5: Scope Conditions and What the Model Ignores
 
-The Gravity Model is a first-order economic lens, not a total theory of mate choice or human intimacy. It is deliberately reductive: it focuses on how clarity and liquidity of price signals shape behavior at scale, especially under conditions of uncertainty and competition.
+The Gravity Model is a **first-order economic lens**, not a total theory of mate choice or human intimacy. It is deliberately reductive: it focuses on how **clarity** and **liquidity** of price signals shape behavior *at scale*, especially under conditions of **uncertainty** and **competition**.
 
 In reality, people choose life paths for mixed reasons that are not captured by a pure price-signal frame: identity, status, meaning, security, attachment style, family pressure, religiosity, trauma history, fertility timelines, health constraints, and simple personal preference. The Gravity Model does not deny these forces. Instead, it makes a narrower claim:
 
-Holding those other preferences and constraints constant, clearer and more liquid economic signals tend to exert disproportionate pull on aggregate behavior.
+**Holding those other preferences and constraints constant, clearer and more liquid economic signals tend to exert disproportionate pull on aggregate behavior.**
 
-This scope condition matters: it prevents the model from being misread as moralizing, deterministic, or “explaining everything.” It is a tool for incentive diagnosis and mechanism design—not a replacement for psychology, culture, or individual variance.
+This scope condition matters: it prevents the model from being misread as **moralizing**, **deterministic**, or “explaining everything.” It is a tool for **incentive diagnosis** and **mechanism design**—not a replacement for psychology, culture, or individual variance.
 
 ---
 
 ## Part III: The Limited Impact of Proposed Interventions
 
-With this model in mind, we can expect limited impact under stable incentives of the commonly cited solutions for fixing the relationship marketplace.
+With this model in mind, we can expect **limited impact under stable incentives** of the commonly cited solutions for fixing the relationship marketplace.
 
 ### Failed Proposal 1: The Legalization of Sex-Work
 
-Proponents argue that making sex cheap and legally accessible will return leverage to men. The Gravity Model predicts the exact opposite. Cleaning up the price signals for sex-work will only increase the depth of its gravitational well, drawing more women away from the domestic sphere.
+Proponents argue that making sex cheap and legally accessible will return leverage to men. The Gravity Model predicts the **exact opposite**. Cleaning up the price signals for sex-work will only **increase the depth of its gravitational well**, drawing more women away from the domestic sphere.
 
 ### Failed Proposal 2: Government Subsidization
 
-Activists argue that subsidizing rent, food, or childcare will encourage family formation by addressing the “affordability crisis”. The Gravity Model implies this is unlikely. Even if women have more discretionary income, they will not opt for the domestic path in any appreciable way so long as the relative clarity of the Career and Attention Economy price signals dominates the opaque domestic signal.
+Activists argue that subsidizing rent, food, or childcare will encourage family formation by addressing the “affordability crisis”. The Gravity Model implies this is **unlikely**. Even if women have more discretionary income, they will not opt for the domestic path in any appreciable way so long as the relative clarity of the Career and Attention Economy price signals **dominates** the opaque domestic signal.
 
-In advanced Western economies with enshrined personal rights and free markets, walking back individual liberties to weaken the Career/Attention Economy spheres is a non-starter. Therefore, the only viable solution is to drastically increase the price signal clarity of the Domestic Sphere.
+In advanced Western economies with enshrined personal rights and free markets, walking back individual liberties to weaken the Career/Attention Economy spheres is a **non-starter**. Therefore, the only viable solution is to **drastically increase the price signal clarity** of the Domestic Sphere.
 
-Up to this point, the Gravity Model is a descriptive lens: it explains and predicts behavior under incentives. What follows is an instrument design proposal: if the goal is to strengthen domestic formation without restricting liberties, then the lever is to raise the Domestic sphere’s signal quality by improving liquidity, enforceability, and clarity.
+Up to this point, the Gravity Model is a **descriptive lens**: it explains and predicts behavior under incentives. What follows is an **instrument design proposal**: if the goal is to strengthen domestic formation without restricting liberties, then the lever is to raise the Domestic sphere’s signal quality by improving **liquidity**, **enforceability**, and **clarity**.
 
 ---
 
-## Part IV: The Structural Solution (The CWA)
+## Part IV: The Structural Solution *(The CWA)*
 
-The Cooperative Wealth Agreement (CWA) is the instrument that underwrites an explicit price signal for the domestic sphere.
+The **Cooperative Wealth Agreement (CWA)** is the instrument that underwrites an **explicit price signal** for the domestic sphere.
 
-The CWA is not a lifestyle mandate or a relationship playbook. It is a chassis: a pre-committed economic rule-set that makes cooperation the dominant strategy.
+The CWA is **not** a lifestyle mandate or a relationship playbook. It is a **chassis**: a *pre-committed economic rule-set* that makes **cooperation the dominant strategy**.
 
 In the context of the CWA, the two functional roles are:
 
 - **Funding Partner:** the party funding the Vehicle Account contributions.  
 - **Partner COO:** the party receiving a vesting equity claim in the cooperative vehicle.
 
-These roles are elective and reversible, and the model applies regardless of gender. Either person can occupy either role depending on the relationship. The core point is not hierarchy; it is incentive alignment and the creation of legible domestic equity.
+These roles are **elective and reversible**, and the model applies regardless of gender. Either person can occupy either role depending on the relationship. The core point is not hierarchy; it is **incentive alignment** and the creation of **legible domestic equity**.
 
-The agreement generates financial growth in the equity markets to capture value for the Partner COO, but with a structural advantage: the growth does not start from their existing small savings base. It uses the Funding Partner’s much larger accumulated capital base and/or contribution stream as the starting point.
+The agreement generates financial growth in the equity markets to capture value for the Partner COO, but with a structural advantage: the growth does **not** start from their existing small savings base. It uses the Funding Partner’s **much larger accumulated capital base** and/or **contribution stream** as the starting point.
 
-### The Mechanics of Base-Capital Vesting (Leveraged Compounding via External Principal)
+### The Mechanics of Base-Capital Vesting *(Leveraged Compounding via External Principal)*
 
-The CWA is not a financial “carry trade” in the strict sense. There is no borrowing against a rate differential. The mechanism is simpler and more legible:
+The CWA is not a financial “carry trade” in the strict sense. There is **no borrowing** against a rate differential. The mechanism is simpler and more legible:
 
-The Partner COO vests into an investment pool whose principal is primarily supplied by the Funding Partner. As a result, the Partner COO’s equity claim compounds on top of a capital base that is already large (or becomes large quickly), rather than compounding only from their own smaller starting savings.
+The Partner COO vests into an investment pool whose principal is primarily supplied by the Funding Partner. As a result, the Partner COO’s equity claim compounds on top of a capital base that is already **large** (or becomes large quickly), rather than compounding only from their own **smaller starting savings**.
 
 Mechanically:
 
-- The Funding Partner contributes capital into the Vehicle Account.
-- The Partner COO accrues a predefined Allocation % over time (subject to a cap).
-- At any valuation time (Liquidity Event or termination), the Partner COO’s entitlement is computed as a share of the Vehicle Account value, net of prior distributions (via the distribution ledger).
+- The Funding Partner contributes capital into the Vehicle Account.  
+- The Partner COO accrues a predefined **Allocation %** over time *(subject to a cap)*.  
+- At any valuation time *(Liquidity Event or termination)*, the Partner COO’s entitlement is computed as a share of the Vehicle Account value, **net of prior distributions** *(via the distribution ledger)*.
 
-The economic effect is “leveraged compounding” in the plain-English sense: the Partner COO gains exposure to market growth on a substantially larger principal base than they could typically assemble independently at the same life stage. This is the source of the Domestic sphere’s newly legible, high-frequency price signal: a predictable vesting schedule into a verifiable pool of invested capital, with deterministic liquidity and unwind procedures.
+The economic effect is “leveraged compounding” in the plain-English sense: the Partner COO gains exposure to market growth on a substantially larger principal base than they could typically assemble independently at the same life stage. This is the source of the Domestic sphere’s newly legible, high-frequency price signal: a **predictable vesting schedule** into a **verifiable pool of invested capital**, with **deterministic liquidity** and **unwind procedures**.
 
 ### The Structured Savings Effect
 
-While the CWA creates sovereign wealth for the Partner COO, it simultaneously acts as a Structured Savings Engine for the Funding Partner. Because the Partner COO’s equity is permanently capped at 50%, every dollar the Funding Partner contributes to the LLC is fundamentally an investment in their own net worth. They are not “spending” money on lifestyle inflation; they are aggressively saving it, knowing that at least half of the principal and half of the compounding yield remains legally theirs. This enforces financial discipline and aggressive capital aggregation.
+While the CWA creates **sovereign wealth** for the Partner COO, it simultaneously acts as a **Structured Savings Engine** for the Funding Partner. Because the Partner COO’s equity is permanently capped at **50%**, every dollar the Funding Partner contributes to the LLC is fundamentally an investment in their own net worth. They are not “spending” money on lifestyle inflation; they are aggressively **saving it**, knowing that at least **half of the principal and half of the compounding yield remains legally theirs**. This enforces financial discipline and aggressive capital aggregation.
 
-### The Deterministic Unwind (At-Will Termination)
+### The Deterministic Unwind *(At-Will Termination)*
 
-A critical feature of the CWA is that it remains a strictly “at-will” agreement. If at any point either party wishes to terminate, they can terminate at will. Unlike the legacy marriage system, which requires a subjective judge to untangle commingled assets, the CWA features a Deterministic Unwind. Because the ledger is mapped to explicit event procedures, the vested equity is computed at defined valuation times. Upon termination, an Independent Administrator executes the formulaic unwind, distributing the legally vested share to the Partner COO and returning the remaining balance to the Funding Partner. For the governed pool, it replaces legal warfare with a programmatic financial transaction.
+A critical feature of the CWA is that it remains a strictly **at-will** agreement. If at any point either party wishes to terminate, they can terminate at will. Unlike the legacy marriage system, which requires a subjective judge to untangle commingled assets, the CWA features a **Deterministic Unwind**. Because the ledger is mapped to explicit event procedures, the vested equity is computed at defined valuation times. Upon termination, an Independent Administrator executes the **formulaic unwind**, distributing the legally vested share to the Partner COO and returning the remaining balance to the Funding Partner. For the governed pool, it replaces legal warfare with a **programmatic financial transaction**.
 
-Design note: the CWA is drafted to be governance-only and event-driven, narrowing the dispute surface to the account and the formula.
+*Design note:* the CWA is drafted to be **governance-only** and **event-driven**, narrowing the dispute surface to the account and the formula.
 
 ### Disincentivizing the Early Exit
 
-While either party can trigger the unwind, the math disincentivizes it. By mathematically auditing the outcomes, a critical failsafe emerges: after a certain period (e.g., Year 6), the compounded annual unrealized capital growth from this base-capital vesting mechanism can exceed the financial benefits calculated from theoretical state-mandated child support payments. The CWA quantitatively incentivizes a cooperative relationship for the rational economic actor, rather than incentivizing liquidating the relationship in family court for financial reasons.
+While either party can trigger the unwind, the math disincentivizes it. By mathematically auditing the outcomes, a critical failsafe emerges: after a certain period (e.g., Year 6), the compounded annual unrealized capital growth from this **base-capital vesting mechanism** can exceed the financial benefits calculated from theoretical state-mandated child support payments. The CWA quantitatively incentivizes a cooperative relationship for the rational economic actor, rather than incentivizing liquidating the relationship in family court for financial reasons.
 
----
-
-## Part IV.5: Obvious Objections (and Direct Answers)
-
-This paper is proposing a mechanism. Any mechanism that touches money, intimacy, and long-term life planning will draw predictable critiques. The goal here is not to “win” a moral debate, but to clarify scope, tradeoffs, and failure modes up front.
-
-### 1) “Is this commodification?”
-
-**Answer:** It prices one narrow dimension that already exists; it does not reduce the relationship to that dimension.
-
-In modern systems, domestic contribution is already economically priced—just inconsistently, adversarially, and usually under duress (divorce, separation, litigation). The CWA does not invent the idea that domestic life has economic consequences; it makes the wealth component explicit, legible, and optionally liquid on a schedule.
-
-The Gravity Model is not a total theory of love or intimacy. It is an incentive lens. The CWA is not a replacement for trust, affection, compatibility, or shared meaning. It is a risk-reduction and incentive-alignment chassis for the wealth layer that already contaminates outcomes in the legacy system.
-
-### 2) “Does this incentivize strategic behavior?”
-
-**Answer:** Yes—by design. The point is to channel strategy into cooperation rather than adversarial extraction.
-
-All legal and financial systems create strategic behavior. Marriage and family court already produce strategy: hidden assets, narrative warfare, forum shopping, leverage games, and “price discovery” through conflict. The CWA tries to move strategic incentives into a simpler space:
-
-- If you want upside, you stay cooperative longer (vesting + compounding).
-- If you exit early, you get less (early-stage vesting and the lost compounding window).
-- If you try to double count, the distribution ledger nets it out.
-- If you want unilateral access, you can’t get it (administrator-controlled withdrawals).
-
-This does not eliminate strategic behavior; it changes the payoff matrix so that the highest expected-value strategy is to keep the cooperative wealth engine running.
-
-### 3) “What about low-income couples?”
-
-**Answer:** The mechanism is tierable. The clearinghouse concept is not “apex only,” even if the apex tier is the most visible.
-
-A core point of the Gravity Model is that a visible, verifiable apex reward can reshape aspiration and norms (tournament dynamics). That does not require everyone to fund the apex version. It requires that standardized, legible domestic equity mechanisms exist across tiers.
-
-A low- or mid-income implementation can be:
-
-- lower monthly contributions,
-- longer vesting timelines,
-- smaller caps,
-- different liquidity cadence (e.g., every 2–4 years),
-- or a hybrid structure where both partners contribute.
-
-The minimum viable product is not “wealth”; it is legibility: a defined pool, defined allocation, and defined unwind procedure. The economic magnitude scales with income, but the price-signal benefit (clarity + enforceability + liquidity cadence) still exists.
-
-### 4) “What about abuse/coercion risk?”
-
-**Answer:** This is a serious concern. The design intent is to reduce entrapment, not create it—while acknowledging that no paper mechanism can fully solve coercion in the real world.
-
-Two principles matter:
-
-First, the CWA is drafted to be governance-only and at-will. There are no enforceable performance duties, no “services owed,” and no requirement to remain in the relationship. Either party can trigger termination at any time.
-
-Second, the liquidity cadence plus continuous vesting is an anti-entrapment feature. The Partner COO’s wealth is not deferred to an end-state event (divorce). It is periodically realizable into a sovereign account, which can function as a personal safety buffer.
-
-However, the honest limit is that coercion is not primarily a contractual problem; it is a human behavior problem. Any real implementation should incorporate practical safeguards such as:
-
-- independent counsel (separate lawyers),
-- cooling-off periods before signing,
-- administrator independence standards,
-- and explicit anti-duress representations.
-
-The CWA reduces some failure modes (financial cornering, opaque unwind fights), but it cannot guarantee safety in all interpersonal dynamics.
-
-### 5) “What happens if markets are flat for a decade?”
-
-**Answer:** Then the wealth engine produces a weaker price signal—but the core advantage (legibility and sovereign vesting) remains.
-
-The illustrative tables assume 7% annualized returns to show the mechanism in a friendly regime. If returns are low or flat for extended periods, the Partner COO’s realized wealth growth will be lower. That is not a special flaw of the CWA; it is the universal reality of investing.
-
-Two clarifications:
-
-- The CWA’s core “signal” is not “guaranteed high returns.” The signal is that domestic equity is defined, trackable, and periodically liquid, rather than discoverable only under conflict.
-- In a flat market, the incentive gradient changes. The “compounding outcompetes adversarial extraction” argument weakens, and the CWA functions more as a clarity and risk-management tool than as an alpha claim.
-
-A robust implementation can further reduce reliance on rosy market assumptions by:
-
-- using diversified allocations,
-- adopting conservative return expectations in marketing,
-- and explicitly framing the CWA as governance and signal clarity, not a guaranteed investment outcome.
+*Before the quantitative treatment, note that the CWA is not a moral theory; it is a mechanism. The most common objections are addressed immediately after the quantitative section.*
 
 ---
 
 ## Part V: Mathematical Implications of the CWA Mechanics
 
-To demonstrate the quantitative superiority of the CWA, we must audit the mathematical outcomes of the agreement. In this pure-vesting model, the Partner COO vests directly into the total LLC balance (principal + growth), establishing an unhedged, highly lucid price signal.
+To demonstrate the quantitative superiority of the CWA, we must audit the mathematical outcomes of the agreement. In this pure-vesting model, the Partner COO vests directly into the total LLC balance (**principal + growth**), establishing an unhedged, highly lucid price signal.
 
 ### Baseline Parameters
 
-- **Market Returns:** 7% annualized compound growth.
-- **Vesting Schedule:** 1% per month into the total LLC balance, capped at 50%.
+- **Market Returns:** 7% annualized compound growth.  
+- **Vesting Schedule:** **1% per month** into the total LLC balance, capped at **50%**.
 
-### Scenario A: The High-Earning Professional ($5,000/mo Contribution)
+### Scenario A: The High-Earning Professional *($5,000/mo Contribution)*
 
-The following table models a Funding Partner contributing $5,000/month, assuming no liquid draws are taken, allowing the capital to compound uninterrupted.
+The following table models a Funding Partner contributing $5,000/month, assuming **no liquid draws** are taken, allowing the capital to compound uninterrupted.
 
 | Year | Funding Partner Contributions (cum) | Joint Account Value | Partner COO Vested % | Partner COO Share if Separate | Funding Partner Share if Separate |
 |---:|---:|---:|---:|---:|---:|
@@ -241,18 +164,18 @@ The following table models a Funding Partner contributing $5,000/month, assuming
 | 14 | $840,000 | $1,403,801 | 50% | $701,901 | $701,901 |
 | 15 | $900,000 | $1,564,319 | 50% | $782,159 | $782,159 |
 
-**Analysis:** The math illustrates a clean behavioral incentive. At Month 50 (i.e., after 50 full months of 1% monthly accrual), the Partner COO hits the 50% cap. From that exact moment forward, they walk in lockstep parity.
+**Analysis:** At *Month 50* (i.e., after 50 full months of 1% monthly accrual), the Partner COO hits the **50% cap**. From that moment forward, the parties walk in **lockstep parity**.
 
-### Scenario A-2: Liquidity Events (Every 3 Years, Contract-Accurate)
+### Scenario A-2: Liquidity Events *(Every 3 Years, Contract-Accurate)*
 
-A fair critique of the baseline table above is: it models “paper equity” only (no distributions). Under the actual Cooperative Wealth Governance Agreement, the Partner COO can convert vested entitlement into assets held in the Partner COO’s own name at each Liquidity Event Date (every three years), via the Liquidity formula:
+A fair critique of the baseline table above is: it models **“paper equity”** only *(no distributions)*. Under the actual Cooperative Wealth Governance Agreement, the Partner COO can convert vested entitlement into assets held in the Partner COO’s own name at each Liquidity Event Date *(every three years)*, via the Liquidity formula:
 
 **Liquidity Settlement Amount (Section 7.3.4):**  
 `max(0, (Vehicle Account value × Partner COO Allocation %) − (B Distribution Ledger))`
 
-Then, per Section 7.3.7, the B Distribution Ledger increases by the amount distributed, ensuring no double counting at future liquidity events or final termination unwind.
+Then, per Section 7.3.7, the **B Distribution Ledger** increases by the amount distributed, ensuring **no double counting** at future liquidity events or final termination unwind.
 
-Below is a 15-year illustration using the same baseline assumptions as Scenario A, but now with the Partner COO electing a liquidity distribution every 3-year window (Years 3, 6, 9, 12, 15). The “Partner COO Personal Account” compounds at the same 7% rate (for illustration), and is held in the Partner COO’s own name—this is what makes the wealth actually liquid and sovereign, not merely an in-account claim.
+Below is a 15-year illustration using the same baseline assumptions as Scenario A, but now with the Partner COO electing a liquidity distribution every 3-year window *(Years 3, 6, 9, 12, 15)*. The **Partner COO Personal Account** compounds at the same 7% rate *(for illustration)*, and is held in the Partner COO’s own name—this is what makes the wealth actually **liquid and sovereign**, not merely an in-account claim.
 
 | Year | Funding Partner Contributions (cum) | Vehicle Value (post-event) | Partner COO Vested % | Liquidity Draw (this year) | Partner COO Personal Account (liquid) | Partner COO Claim on Vehicle if Unwind Now (net of ledger) | Partner COO Net Worth (Liquid + Claim) | Total Combined Wealth (Vehicle + Partner COO) |
 |---:|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -274,35 +197,35 @@ Below is a 15-year illustration using the same baseline assumptions as Scenario 
 
 **What this table shows (and why it matters):**
 
-- **Liquidity is real:** at each 3-year anniversary, the Partner COO’s “then-earned” entitlement is transferred into an account in the Partner COO’s name (in-kind by default, cash fallback).
-- **The ledger prevents double counting:** immediately after a Liquidity Event, the Partner COO’s additional claim on the Vehicle Account often goes to $0 because they already received their net settlement.
-- **Between Liquidity Events, new claim can re-appear:** as the Vehicle Account grows, the Partner COO’s allocation share can again exceed the ledger, creating a temporary additional claim until the next Liquidity Event (or final unwind).
-- **Total wealth is conserved (in this simplified model):** absent taxes/fees/slippage, distributing earlier doesn’t change the total combined wealth; it changes where the wealth lives (shared vehicle vs the Partner COO’s sovereign account)—which is the entire point of Liquidity Events.
+- **Liquidity is real:** every 3 years, the Partner COO’s then-earned entitlement is transferred into a **personal, sovereign account**.  
+- **The ledger prevents double counting:** after a Liquidity Event, incremental in-vehicle claim often resets to **$0** because it has been settled.  
+- **New claim can re-appear between events:** as the Vehicle grows, allocation can exceed the ledger, creating a temporary claim until the next event.  
+- **Total wealth is conserved (simplified model):** distributions change **where** the wealth lives, not the combined total *(ignoring taxes/fees/slippage)*.
 
-### Scenario B: The Break-Even Failsafe ($5,000/mo)
+### Scenario B: The Break-Even Failsafe *($5,000/mo)*
 
-**Important note:** Child support cannot be contracted away. The CWA is not a replacement for statutory obligations to a child, and it does not attempt to waive them. However, in the legacy family-court environment, the child is often functionally weaponized as a leverage instrument—used to justify financial extraction from the Funding Partner while simultaneously incentivizing disengagement, reduced cooperation, and even strategic separation as a form of “price discovery.” For this reason, it is analytically useful to model state-mandated child support cashflows against the CWA’s compounded wealth outcomes.
+**Important note:** Child support cannot be contracted away. The CWA is **not** a replacement for statutory obligations to a child, and it does not attempt to waive them. However, in the legacy family-court environment, the child is often functionally weaponized as a leverage instrument—used to justify financial extraction from the Funding Partner while simultaneously incentivizing disengagement, reduced cooperation, and even strategic separation as a form of **“price discovery.”** For this reason, it is analytically useful to model state-mandated child support cashflows against the CWA’s compounded wealth outcomes.
 
-**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year which would make a $5,000 monthly CWA contribution sustainable, in California (Partner COO income = $0, 50/50 custody for 2 children), state-mandated child support yields roughly $40,000 to $47,000 per year in depreciating fiat.
+**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year which would make a $5,000 monthly CWA contribution sustainable, in California *(Partner COO income = $0, 50/50 custody for 2 children)*, state-mandated child support yields roughly **$40,000 to $47,000 per year** in depreciating fiat.
 
-**The CWA Yield (same window):** The deeper point is incentive dominance over time: even if child support is X, the expected compounding after the 50% vesting cap often exceeds X beyond year ~N (illustratively, around Year 6–8 in this model). Concretely, comparing Year 7 → Year 8:
+**The CWA Yield (same window):** The deeper point is incentive dominance over time: even if child support is *X*, the expected compounding after the 50% vesting cap often exceeds *X* beyond year ~N *(illustratively, around Year 6–8 in this model)*. Concretely, comparing **Year 7 → Year 8**:
 
-- Partner COO’s share at Year 7: $269,363  
-- Partner COO’s share at Year 8: $319,344  
-- Implied one-year CWA “yield” on the Partner COO’s share (Year 7 → Year 8):  
-  $319,344 − $269,363 = $49,981 per year
+- Partner COO’s share at Year 7: **$269,363**  
+- Partner COO’s share at Year 8: **$319,344**  
+- Implied one-year CWA “yield” on the Partner COO’s share:  
+  **$319,344 − $269,363 = $49,981 per year**
 
-So in that same interval, the cooperative path’s passive wealth increase for the Partner COO (~$49,981/year) exceeds the modeled state extraction band ($40,000–$47,000/year), flipping the incentive gradient toward cooperation rather than adversarial dissolution.
+So in that same interval, the cooperative path’s passive wealth increase for the Partner COO (**~$49,981/year**) exceeds the modeled state extraction band (**$40,000–$47,000/year**), flipping the incentive gradient toward **cooperation** rather than adversarial dissolution.
 
 ### The Schelling Point of Cooperation
 
-The CWA does not attempt to contract away child-support law. It mathematically outcompetes the extraction incentives by making cooperative compounding the dominant expected-value path. If state child support yields roughly $40,000/year, but the passive compounding of the Partner COO’s capped 50% CWA share yields roughly $50,000/year (illustratively, $49,981/year in the Year 7 → 8 window above), the Schelling point shifts. It becomes less economically rational for the Partner COO to treat the child-support system as a primary cashflow strategy, because the dominant expected-value path is to maintain the cooperative wealth engine.
+The CWA does not attempt to contract away child-support law. It mathematically outcompetes the extraction incentives by making **cooperative compounding** the dominant expected-value path. If state child support yields roughly **$40,000/year**, but the passive compounding of the Partner COO’s capped 50% CWA share yields roughly **$50,000/year**, the Schelling point shifts. It becomes less economically rational for the Partner COO to treat the child-support system as a primary cashflow strategy, because the dominant expected-value path is to maintain the cooperative wealth engine.
 
-In that regime, child support is pulled back toward its intended role: a safety backstop to ensure the child’s needs are met, rather than a proxy mechanism for the ex-partner’s financial survival.
+In that regime, child support is pulled back toward its intended role: a **safety backstop** to ensure the child’s needs are met, rather than a proxy mechanism for the ex-partner’s financial survival.
 
 *(Note: with Liquidity Events, the same economic value can be realized earlier into the Partner COO’s own-name account; the logic remains an incentive comparison between cooperative compounding and adversarial cashflow extraction.)*
 
-### Scenario C: The Mid-Earning Professional ($2,000/mo Contribution)
+### Scenario C: The Mid-Earning Professional *($2,000/mo Contribution)*
 
 To illustrate the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Funding Partner earning approximately $150,000 per year which make a $2,000 per month CWA sustainable.
 
@@ -324,44 +247,44 @@ To illustrate the CWA is a scalable macroeconomic tool, we model a mid-market sc
 | 14 | $336,000 | $561,520 | 50% | $280,760 | $280,760 |
 | 15 | $360,000 | $625,728 | 50% | $312,864 | $312,864 |
 
-**Analysis:** By Year 15, the Partner COO has accumulated nearly $313,000 in sovereign vested wealth. When paired with scheduled Liquidity Events, this vested wealth can be progressively converted into sovereign liquid wealth in the Partner COO’s own-name account.
+**Analysis:** By Year 15, the Partner COO has accumulated nearly **$313,000** in sovereign vested wealth. When paired with scheduled Liquidity Events, this vested wealth can be progressively converted into **sovereign liquid wealth** in the Partner COO’s own-name account.
 
-### Tiering (Non-Apex Scalability)
+### Tiering *(Non-Apex Scalability)*
 
 As Scenario C suggests, CWAs can be implemented across multiple financial tiers—defined by contribution rate, starting capital base, and/or liquidity cadence. The mechanism is scalable: the domestic equity price signal can exist at different contribution levels, not only at an apex tier.
 
 ### Scenario D: The Mid-Market Break-Even Failsafe
 
-- **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support for one child, Partner COO income = $0, 50/50 custody yields roughly $18,000 to $21,000 per year.
-- **The CWA Yield:** By Year 7, the Partner COO’s equity in the CWA is passively growing by $19,993 per year, safely neutralizing the state’s gravitational pull. Stated differently, once the Partner COO has reached the 50% cap (Year 5 in this model), a $2,000/month gross CWA contribution functions as roughly a $1,000/month net “transfer” incentive (because half of each marginal dollar remains the Funding Partner’s). That ~$1,000/month net contribution neutralizes roughly $1,500–$1,800/month in state incentives—meaning the CWA is capital-efficient as an incentive counterweight.
+- **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support for one child *(Partner COO income = $0, 50/50 custody)* yields roughly **$18,000 to $21,000 per year**.
+- **The CWA Yield:** By Year 7, the Partner COO’s equity in the CWA is passively growing by **$19,993 per year**, safely neutralizing the state’s gravitational pull. Stated differently, once the Partner COO has reached the 50% cap *(Year 5 in this model)*, a $2,000/month gross CWA contribution functions as roughly a **$1,000/month net “transfer” incentive** (because half of each marginal dollar remains the Funding Partner’s). That **~$1,000/month** net contribution neutralizes roughly **$1,500–$1,800/month** in state incentives—meaning the CWA is **capital-efficient** as an incentive counterweight.
 
-### Scenario E: Capital Resilience (The 6-Month Income Interruption)
+### Scenario E: Capital Resilience *(The 6-Month Income Interruption)*
 
 A common anxiety in traditional dual-income households is that a sudden job loss threatens the mortgage and immediate lifestyle, causing panic. The CWA inherently absorbs this shock via accumulated mass.
 
 Assume a Funding Partner in the $5,000/mo scenario experiences an income interruption in Year 4 and must pause contributions for 6 months.
 
-- By the end of Year 3, the LLC holds $200,132.
-- During the 6-month pause, even with $0 added, the underlying capital continues to compound, generating roughly $7,000 in passive growth.
-- Crucially, this temporary cessation of funding does not constitute a breach of agreement. Because the Partner COO is vested, their equity continues to grow passively even while the Funding Partner’s active income is zero. The momentum of the accumulated capital sustains the relationship’s orbit until income resumes, effectively eliminating both legal jeopardy and financial panic.
+- By the end of Year 3, the LLC holds **$200,132**.
+- During the 6-month pause, even with $0 added, the underlying capital continues to compound, generating roughly **$7,000** in passive growth.
+- Crucially, this temporary cessation of funding does **not** constitute a breach of agreement. Because the Partner COO is vested, their equity continues to grow passively even while the Funding Partner’s active income is zero. The momentum of the accumulated capital sustains the relationship’s orbit until income resumes, effectively eliminating both legal jeopardy and financial panic.
 
-### Scenario F: The Opportunity Cost (CWA vs. The Corporate Path)
+### Scenario F: The Opportunity Cost *(CWA vs. The Corporate Path)*
 
 Critics argue that foregoing a traditional career for the Partner COO role constitutes a “loss of financial independence.” That objection ignores a core reality: the salary path is an attrition engine once you include taxes and cost-of-living, and even disciplined saving compounds from a relatively small base.
 
-Let’s stress-test this by giving the corporate path a generous advantage. We compare a $5,000/month CWA contribution path against a single woman starting at $75,000/year, receiving a guaranteed 5% raise every year for 15 years, saving an unusually aggressive 20% of gross income, and earning 7% annual investment returns.
+Let’s stress-test this by giving the corporate path every conceivable advantage. We compare a $5,000/month CWA contribution path against a single woman starting at $75,000/year, receiving a guaranteed 5% raise every year for 15 years, saving an unusually aggressive 20% of gross income, and earning 7% annual investment returns.
 
 **The Corporate Grind (maximally favorable assumptions)**
 
-- Year 1 salary: $75,000
-- Year 15 salary: ~ $148,495
-- Savings rate: 20% of gross, invested monthly
-- Year 1 savings: $15,000/year ($1,250/month)
-- Year 15 savings: ~ $29,699/year (~$2,475/month)
-- Corporate investment account value at Year 15: ~ $529,218
+- Year 1 salary: **$75,000**
+- Year 15 salary: **~ $148,495**
+- Savings rate: **20%** of gross, invested monthly
+- Year 1 savings: **$15,000/year** (**$1,250/month**)
+- Year 15 savings: **~ $29,699/year** (**~ $2,475/month**)
+- Corporate investment account value at Year 15: **~ $529,218**
 
 **Salary/Savings Table (15-year calculation)**  
-Assumptions: 7% annual returns compounded monthly; savings contributed monthly (1/12 of annual savings per month).
+*Assumptions:* 7% annual returns compounded monthly; savings contributed monthly (1/12 of annual savings per month).
 
 | Year | Gross Salary | Annual Savings (20%) | Cumulative Contributions | Account Value (7% growth) |
 |---:|---:|---:|---:|---:|
@@ -383,117 +306,112 @@ Assumptions: 7% annual returns compounded monthly; savings contributed monthly (
 
 **The CWA Leverage**
 
-- Partner COO invests $0 of her own capital
-- Funding Partner contributes $5,000/month
-- 1% monthly vesting with a 50% cap (cap reached early Year 5)
-- Both accounts compound at 7%
+- Partner COO invests **$0** of her own capital
+- Funding Partner contributes **$5,000/month**
+- **1% monthly vesting** with a **50% cap** *(cap reached early Year 5)*
+- Both accounts compound at **7%**
 
 **Results (same assumptions as the CWA model):**
 
-- Joint account value at Year 15: ~ $1,564,319
-- Partner COO vested net worth at Year 15 (50% cap): ~ $782,159
+- Joint account value at Year 15: **~ $1,564,319**
+- Partner COO vested net worth at Year 15 (50% cap): **~ $782,159**
 
 **Bottom line (correct comparison):**
 
-- Corporate woman net worth (Year 15): ~ $529,218
-- Partner COO vested net worth (Year 15): ~ $782,159
-- Gap: ~ $252,941
+- Corporate woman net worth (Year 15): **~ $529,218**
+- Partner COO vested net worth (Year 15): **~ $782,159**
+- Gap: **~ $252,941**
 
 ---
 
-## How the CWA narrows the dispute surface (it’s technical documentation for account withdrawal events)
+## Part V.5: Obvious Objections *(and Direct Answers)*
 
-*Not legal advice. This explains design intent: reduce the number of things a court could plausibly adjudicate.*
+This paper is proposing a mechanism. Any mechanism that touches money, intimacy, and long-term life planning will draw predictable critiques. The goal here is not to “win” a moral debate, but to clarify **scope**, **tradeoffs**, and **failure modes** up front.
 
-### 0) “Nothing is owed” (the CWA is governance-only)
+### 1) “Is this commodification?”
 
-At its core, the CWA is engineered to be the opposite of a traditional relationship contract:
+**Answer:** It prices **one narrow dimension that already exists**; it does not reduce the relationship to that dimension.
 
-- Nothing is obligated. The Funding Partner is not obligated to fund. The Partner COO is not obligated to perform, behave, cohabit, or provide anything.
-- Nothing is owed. There are no arrears, no “promised payments,” and no claim on anything outside the ring-fenced Vehicle Account.
-- Therefore, in the default state, there is nothing to litigate: there is no debt, no arrears, no claim outside the ring-fenced pool—only an event-driven distribution path if capital exists.
+In modern systems, domestic contribution is already economically priced—just inconsistently, adversarially, and usually under duress (divorce, separation, litigation). The CWA does not invent the idea that domestic life has economic consequences; it makes the wealth component **explicit**, **legible**, and *optionally liquid* on a schedule.
 
-If a dispute exists at all, it collapses to a narrow technical question:
+The Gravity Model is not a total theory of love or intimacy. It is an **incentive lens**. The CWA is not a replacement for trust, affection, compatibility, or shared meaning. It is a **risk-reduction and incentive-alignment chassis** for the wealth layer that already contaminates outcomes in the legacy system.
 
-Is the account’s event-driven withdrawal mechanism working as specified (valuation time, allocation %, and ledger netting), and did the Independent Administrator execute the correct formula?
+### 2) “Does this incentivize strategic behavior?”
 
-### 0.5) What actually holds it together: mutual consensus (not enforceable duties)
+**Answer:** **Yes—by design.** The point is to channel strategy into **cooperation** rather than adversarial extraction.
 
-Because the CWA avoids creating ongoing obligations, the structure is held together by mutual consent:
+All legal and financial systems create strategic behavior. Marriage and family court already produce strategy: hidden assets, narrative warfare, forum shopping, leverage games, and “price discovery” through conflict. The CWA tries to move strategic incentives into a simpler space:
 
-- Consensus to fund: the Funding Partner funds only if they continue to choose to.
-- Consensus to stay engaged: the Partner COO participates only if they continue to choose to.
-- Consensus for shared withdrawals/joint assets: any non-event withdrawals are joint-instruction only.
+- If you want upside, you stay cooperative longer (**vesting + compounding**).
+- If you exit early, you get less (**lost compounding window**).
+- If you try to double count, the **distribution ledger nets it out**.
+- If you want unilateral access, you can’t get it (**administrator-controlled withdrawals**).
 
-The system’s “glue” is not a promise a court must police—it’s continued voluntary alignment. The contract simply defines what happens if money exists in the vehicle and an event occurs (Liquidity Event or termination).
+This does not eliminate strategic behavior; it changes the payoff matrix so that the **highest expected-value strategy** is to keep the cooperative wealth engine running.
 
-### 0.6) “Ghost protocol” on paper, but a price signal when it is verifiable
+### 3) “What about low-income couples?”
 
-If the CWA is never made operative (no administrator acceptance, no restricted Vehicle Account, no funded pool), it can sit on paper as a dormant protocol. In that state there is little to dispute because there is no capital inside the vehicle and no ongoing duties to enforce.
+**Answer:** The mechanism is **tierable**. The clearinghouse concept is not “apex only,” even if the apex tier is the most visible.
 
-But the matching market does not respond to paper promises. It responds to mechanisms that can be verified and executed.
+A core point of the Gravity Model is that a visible, verifiable apex reward can reshape aspiration and norms (**tournament dynamics**). That does not require everyone to fund the apex version. It requires that standardized, legible domestic equity mechanisms exist across tiers.
 
-Once the structure is actually implemented and capital is present, the CWA can emit a real price signal because it defines, in advance and in writing:
+A low- or mid-income implementation can be:
 
-- a defined vehicle (a ring-fenced pool),
-- a defined accrual convention (Allocation %),
-- a defined liquidity cadence (Liquidity Events),
-- and a defined unwind procedure (ledger netting + formulaic distribution), executed by a neutral administrator.
+- lower monthly contributions,
+- longer vesting timelines,
+- smaller caps,
+- different liquidity cadence *(e.g., every 2–4 years)*,
+- or a hybrid structure where both partners contribute.
 
-So even if the legal posture is “nothing is owed” in the abstract, the economic posture is: if capital is present and the setup is verifiable, then liquidity is an event-driven procedure, not a negotiation. That legibility is what turns domestic equity from adversarial “price discovery” into a market-visible signal.
+The **minimum viable product** is not “wealth”; it is **legibility**: a defined pool, defined allocation, and defined unwind procedure. The economic magnitude scales with income, but the price-signal benefit (**clarity + enforceability + liquidity cadence**) still exists.
 
-### Key design points (summary)
+### 4) “What about abuse/coercion risk?”
 
-1. **No promises, no duties, no arrears**
-   - The Funding Partner is never obligated to fund the Vehicle Account. “Targets” are non-binding; no arrears exist if funding stops.
-   - The Partner COO is never obligated to do anything (no services, behavior, cohabitation, exclusivity, intimacy, or “domestic performance”).
-   - So there is nothing to enforce as support, wages, or ongoing payment—if the account is unfunded, the system is inert.
+**Answer:** This is a serious concern. The design intent is to **reduce entrapment**, not create it—while acknowledging that no paper mechanism can fully solve coercion in the real world.
 
-2. **At-will by design**
-   - The entire structure is at-will: either Partner can terminate at any time by notice.
-   - Termination triggers a deterministic unwind (freeze + distribution by formula), not a discretionary “relationship accounting.”
+Two principles matter:
 
-3. **Ring-fenced asset pool; no recourse outside it**
-   - The Partner COO’s rights are limited to assets actually inside the Vehicle Account (and proceeds of Joint Assets bought with that money).
-   - No recourse to the Funding Partner’s separate property.
-   - No clawback / no negative entitlement (the Partner COO never “owes back” due to market moves).
-   - This caps the dispute surface to one defined pool.
+- First, the CWA is drafted to be **governance-only** and **at-will**. There are no enforceable performance duties, no “services owed,” and no requirement to remain in the relationship. Either party can trigger termination at any time.
+- Second, the liquidity cadence plus continuous vesting is an **anti-entrapment feature**. The Partner COO’s wealth is not deferred to an end-state event. It is periodically realizable into a **sovereign account**, which can function as a personal safety buffer.
 
-4. **Pure math replaces narrative**
-   - At Liquidity Events or termination, payout is just:  
-     `max(0, (Vehicle Value × Allocation %) − B Distribution Ledger)`
-   - No “fairness” story required—just a valuation time, a percentage, and a ledger balance.
+However, the honest limit is that coercion is not primarily a contractual problem; it is a human behavior problem. Any real implementation should incorporate practical safeguards such as **independent counsel**, **cooling-off periods**, **administrator independence standards**, and explicit **anti-duress representations**.
 
-5. **No unilateral access; administrator executes events**
-   - Neither Partner can unilaterally withdraw. The Independent Administrator controls transfers-out and processes only:
-     - Liquidity Events,
-     - termination unwind,
-     - narrow dispute holdbacks.
+The CWA reduces some failure modes (financial cornering, opaque unwind fights), but it cannot guarantee safety in all interpersonal dynamics.
 
-6. **The honest limit**
-   - Courts can still address fraud/duress/unconscionability, child-related statutory issues, and anything created by real-world commingling. The point is narrower: the CWA minimizes claim surface by being non-obligatory, at-will, and confined to a controlled account with withdrawal procedures.
+### 5) “What happens if markets are flat for a decade?”
+
+**Answer:** Then the wealth engine produces a **weaker price signal**—but the core advantage (**legibility and sovereign vesting**) remains.
+
+The illustrative tables assume 7% annualized returns to show the mechanism in a friendly regime. If returns are low or flat for extended periods, the Partner COO’s realized wealth growth will be lower. That is not a special flaw of the CWA; it is the universal reality of investing.
+
+Two clarifications:
+
+- The CWA’s core “signal” is not **guaranteed high returns**. The signal is that domestic equity is **defined**, **trackable**, and **periodically liquid**, rather than discoverable only under conflict.
+- In a flat market, the incentive gradient changes. The “compounding outcompetes adversarial extraction” argument weakens, and the CWA functions more as a **clarity and risk-management tool** than as an alpha claim.
+
+A robust implementation can further reduce reliance on rosy market assumptions by using **diversified allocations**, adopting **conservative return expectations** in marketing, and explicitly framing the CWA as **governance and signal clarity**, not a guaranteed investment outcome.
 
 ---
 
-## Part VI: Market Visibility (The Dock and the Ship)
+## Part VI: Market Visibility *(The Dock and the Ship)*
 
-Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*, the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism (vehicle + allocation + liquidity + unwind) that a counterparty can inspect. However, a ship is useless if it cannot be found.
+Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*, the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism *(vehicle + allocation + liquidity + unwind)* that a counterparty can inspect. However, **a ship is useless if it cannot be found**.
 
-### The Current Zeitgeist (The Mimetic Beach)
+### The Current Zeitgeist *(The Mimetic Beach)*
 
-Today, there is no constructed dock. People line up on the shore claiming to be viable partners with “ships.” Because counterparties cannot closely inspect the real ships moored off in the distance, claimants adopt superficial, mimetic signs to signal they have a ship in waiting (curated photo albums, rented cars, adopted mannerisms). In this chaotic environment, the swiftest “least worst” signal becomes fame and social proof. This is a highly inefficient market plagued by the “Lemons Problem.”
+Today, there is no constructed dock. People line up on the shore claiming to be viable partners with “ships.” Because counterparties cannot closely inspect the real ships moored off in the distance, claimants adopt superficial, mimetic signs to signal they have a ship in waiting *(curated photo albums, rented cars, adopted mannerisms)*. In this chaotic environment, the swiftest “least worst” signal becomes **fame and social proof**. This is a highly inefficient market plagued by the **Lemons Problem**.
 
 ### The Passenger’s Adaptation: Behavioral Stress Testing
 
-To survive the Lemons Problem on the “Beach,” counterparties have developed a high-friction filtering adaptation colloquially known as the “shit test” (behavioral stress testing). Because a person cannot verify the existence or seaworthiness of another’s Ship, they instead introduce friction. These are impromptu, arbitrary stress tests designed to introduce unnecessary difficulty into the interaction, attempting to force the claimant to drop their mimetic facade and reveal some measure of their baseline competency.
+To survive the Lemons Problem on the “Beach,” counterparties have developed a high-friction filtering adaptation colloquially known as the “shit test” *(behavioral stress testing)*. Because a person cannot verify the existence or seaworthiness of another’s Ship, they instead introduce friction. These are impromptu, arbitrary stress tests designed to introduce unnecessary difficulty into the interaction, attempting to force the claimant to drop their mimetic facade and reveal some measure of their baseline competency.
 
 While this heuristic succeeds in intimidating and filtering out some false claimants, it creates a massive false-positive problem. Genuine, high-agency partners—people who actually possess the resources and discipline to run a Ship—often have low tolerance for arbitrary friction and disrespect. The behavioral stress testing successfully repels the imposters, but it simultaneously annoys and repels the exact real partners the counterparty is trying to find. Consequently, the Beach remains a hostile, low-trust environment crippled by deadweight loss.
 
-### The Solution (The Clearinghouse)
+### The Solution *(The Clearinghouse)*
 
 The second half of the solution is the Clearinghouse—the metaphorical “Dock.” The Dock provides the visibility required to bypass behavioral stress testing entirely.
 
-1. Prospective partners gather at the Dock to inspect the Ships (verified CWA term sheets backed by proof of capital).
+1. Prospective partners gather at the Dock to inspect the Ships *(verified CWA term sheets backed by proof of capital)*.
 2. Because the financial competency is already mathematically verified, behavioral stress testing becomes obsolete. The parties can simply interview each other for actual soft-skills compatibility.
 3. If there is a mutual fit, the parties execute the CWA.
 
@@ -501,11 +419,11 @@ The second half of the solution is the Clearinghouse—the metaphorical “Dock.
 
 ## Part VII: Macro-Sociological Impact and Structural Defenses
 
-If the Gravity Model is adopted and the Cooperative Wealth Agreement becomes a standard market alternative, the reduction in acute psychological and financial trauma across society would be staggering. By fixing the base economic incentives, the CWA cures downstream sociological rot while defending itself against macro-level critiques:
+If the Gravity Model is adopted and the Cooperative Wealth Agreement becomes a standard market alternative, the reduction in acute psychological and financial trauma across society would be staggering. By fixing the base economic incentives, the CWA cures downstream sociological rot while defending itself against macro-level critiques.
 
 ### 1) Tournament Theory and the Cultural Pipeline
 
-A critique of the CWA is that because only a minority of high-net-worth people can afford to underwrite it, it will fail to shift the broader behavioral patterns of the dating market. This critique fundamentally misunderstands Tournament Theory.
+A critique of the CWA is that because only a minority of high-net-worth people can afford to underwrite it, it will fail to shift the broader behavioral patterns of the dating market. This critique fundamentally misunderstands **Tournament Theory**.
 
 Consider the economics of professional sports. Millions of young athletes dedicate their early lives to training for the NBA or NFL. Statistically, only a fraction of a percent will ever sign a lucrative professional contract. However, the mere existence of that outsized reward at the apex of the market dictates the behavior, daily habits, and aspirations of the millions at the base.
 
@@ -522,9 +440,9 @@ Because the CWA tournament successfully incentivizes a percentage of highly comp
 Critics will argue that if someone foregoes the corporate workforce to “train” for the CWA league but fails to secure a top-tier Funding Partner, their downside risk is catastrophic. This objection ignores the high utilitarian floor of the domestic sphere and severely underestimates the mutually exclusive, catastrophic risks of the alternatives.
 
 - **The High Utilitarian Floor and Preserved Optionality:** The skills acquired in the domestic pipeline—household logistics, emotional regulation, child-rearing efficiency—have immense intrinsic value that directly improves lived experience. Furthermore, the domestic skillset is non-exclusive. Developing these operational skills does not disqualify a person from concurrently or subsequently participating in the corporate sphere. They preserve optionality. Participation can also be hybrid and negotiated rather than total. A Partner COO may:
-  - split time between the domestic sphere and the Workforce Career sphere (e.g., part-time, seasonal, consulting, or remote work),
+  - split time between the domestic sphere and the Workforce Career sphere *(e.g., part-time, seasonal, consulting, or remote work)*,
   - maintain a personal career track for redundancy, autonomy, or identity,
-  - adjust workload and contribution expectations over time as circumstances change (children, relocation, health, or income volatility).
+  - adjust workload and contribution expectations over time as circumstances change *(children, relocation, health, or income volatility)*.
 
   In Gravity Model terms, the Domestic sphere does not need to “beat” the Career sphere 100% of the time. A tiered, hybrid approach can still raise the domestic sphere’s effective price signal by making domestic equity explicit, enforceable, and periodically liquid, while preserving workforce optionality.
 
@@ -544,20 +462,20 @@ The state-sponsored family court system is frequently gamed to produce scorched-
 
 If the only way someone can secure a high-quality, dedicated Partner COO is to programmatically prove they have the capital and discipline to fund a CWA, it redirects energy away from mimetic posturing and digital distractions. It forces people to become actual, disciplined builders of capital.
 
-### 7) The Pivot in Digital Signaling (The End of Attention Farming)
+### 7) The Pivot in Digital Signaling *(The End of Attention Farming)*
 
 Currently, social media use is heavily skewed toward self-sexualization and “attention farming.” As established in the Gravity Model, this is a highly rational response to the clear price signals of the Attention Economy sphere. However, as the CWA establishes a new, verifiable apex reward, the required market signaling fundamentally changes. To attract a verified Funding Partner, the aspirational pipeline of people will naturally pivot their public-facing digital footprints. The focus will shift away from attention-farming content—which often reads as higher-risk and lower-interoperability to a prospective partner—and toward the demonstration of high-level utility, emotional regulation, and operational competency. Social media will transition from a marketplace of superficial mimetic validation into a verifiable resume of domestic and managerial excellence.
 
 ---
 
-## Part VIII: Falsifiable Predictions (What Would Validate or Falsify the Model?)
+## Part VIII: Falsifiable Predictions *(What Would Validate or Falsify the Model?)*
 
 If the Gravity Model is directionally correct, then making domestic equity explicit and liquid on a schedule should produce measurable shifts. These are not moral claims; they are testable predictions.
 
 If CWAs + a credible Clearinghouse are adopted at meaningful scale, we should observe:
 
 1. **Lower breakup rates after vesting cap**  
-   Once the Partner COO hits the cap (e.g., 50%), the relationship becomes a parity compounding machine. The model predicts a downshift in separations after the cap versus before the cap, controlling for age, income, and children.
+   Once the Partner COO hits the cap *(e.g., 50%)*, the relationship becomes a parity compounding machine. The model predicts a downshift in separations after the cap versus before the cap, controlling for age, income, and children.
 
 2. **Reduced litigation intensity around assets governed by the CWA**  
    Deterministic unwind + ledger accounting should reduce “narrative warfare” incentives. The model predicts:
@@ -566,7 +484,7 @@ If CWAs + a credible Clearinghouse are adopted at meaningful scale, we should ob
    - narrower dispute surface area.
 
 3. **Earlier household formation among a targeted subgroup**  
-   In a population where a verified CWA is a credible option, the model predicts some portion will form households earlier (or with less prolonged “auditioning”), because downside protection and price discovery are no longer deferred to crisis.
+   In a population where a verified CWA is a credible option, the model predicts some portion will form households earlier *(or with less prolonged “auditioning”)*, because downside protection and price discovery are no longer deferred to crisis.
 
 4. **Measurable substitution away from attention-economy monetization among women competing for verified CWAs**  
    If the apex reward becomes “verified domestic equity + liquidity,” then in the subgroup competing for that lane, the model predicts:
@@ -574,7 +492,7 @@ If CWAs + a credible Clearinghouse are adopted at meaningful scale, we should ob
    - increased signaling of domestic/operational competence,
    - a re-weighting of effort away from attention capture toward utility demonstration.
 
-If these shifts do not occur (or occur in the opposite direction), the model is wrong, incomplete, or missing key constraints.
+If these shifts do not occur *(or occur in the opposite direction)*, the model is wrong, incomplete, or missing key constraints.
 
 ---
 
