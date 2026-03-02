@@ -314,7 +314,7 @@ Once the structure is actually implemented and capital is present, the CWA can e
 - a defined liquidity cadence (Liquidity Events),
 - and a defined unwind procedure (ledger netting + formulaic distribution), executed by a neutral administrator.
 
-So even if the legal posture is “nothing is owed” in the abstract, the economic posture is: if capital is present and the setup is verifiable, then liquidity is an event-driven procedure, not a negotiation. That legibility is what turns domestic equity from adversarial “price discovery” into a market-visible signal.
+So even if the legal posture is “nothing is owed” in the abstract, the economic posture is: if capital is present and the setup is verifiable, **then liquidity is an event-driven procedure, not a negotiation. That legibility is what turns domestic equity from adversarial “price discovery” into a market-visible signal.**
 
 ### Key design points (summary)
 1) **No promises, no duties, no arrears**
