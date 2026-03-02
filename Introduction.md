@@ -332,18 +332,18 @@ Because the CWA avoids creating ongoing obligations, the structure is held toget
 
 The system’s “glue” is not a promise a court must police—it’s **continued voluntary alignment**. The contract simply defines what happens *if* money exists in the vehicle and an **event** occurs (Liquidity Event or termination).
 
-### 0.6) “Ghost protocol” to a court, but a real price signal to the market
-To a court, the CWA can look like an “empty” agreement: it imposes no ongoing duties, creates no arrears, and may govern nothing at all if the Vehicle Account is never funded. In that sense it is a **ghost protocol**—a rule-set that can remain dormant.
+### 0.6) “Ghost protocol” on paper, but a price signal when it is verifiable
+If the CWA is never made operative (no administrator acceptance, no restricted Vehicle Account, no funded pool), it can sit on paper as a dormant protocol. In that state there is little to dispute because there is no capital inside the vehicle and no ongoing duties to enforce.
 
-But markets don’t price “duties.” Markets price **credible mechanisms**.
+But the matching market does not respond to paper promises. It responds to mechanisms that can be *verified* and *executed*.
 
-The CWA still emits a price signal because it publicly (or verifiably) commits to:
-- a defined vehicle (ring-fenced pool),
-- a defined vesting schedule (Allocation %),
-- defined liquidity cadence (Liquidity Events),
-- and defined unwind math (ledger netting + deterministic formula).
+Once the structure is actually implemented and capital is present, the CWA can emit a real price signal because it defines, in advance and in writing:
+- a defined vehicle (a ring-fenced pool),
+- a defined accrual convention (Allocation %),
+- a defined liquidity cadence (Liquidity Events),
+- and a defined unwind procedure (ledger netting + formulaic distribution), executed by a neutral administrator.
 
-So even if the legal posture is “nothing is owed,” the economic posture is: **if capital is present, the withdrawal path is explicit, legible, and enforceable as a mechanical procedure.** That legibility is exactly what turns domestic equity from adversarial “price discovery” into a market-visible signal.
+So even if the legal posture is “nothing is owed” in the abstract, the economic posture is: if capital is present and the setup is verifiable, the withdrawal path is explicit and executable as an event-driven procedure. That legibility is what turns domestic equity from adversarial “price discovery” into a market-visible signal.
 
 ---
 
