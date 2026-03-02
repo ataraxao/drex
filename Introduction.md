@@ -312,6 +312,25 @@ Neither party can unilaterally withdraw. The Independent Administrator controls 
 6) **The honest limit**
 Courts can still address fraud/duress/unconscionability, child-related statutory issues, and anything created by real-world commingling. The point is narrower: the CWA minimizes claim surface by being non-obligatory, at-will, and confined to a controlled account with withdrawal procedures.
 
+### 0) “Nothing is owed” (the CWA is an anti-contract)
+At its core, the CWA is engineered to be the opposite of a traditional relationship contract:
+
+- **Nothing is obligated.** Party A is not obligated to fund. Party B is not obligated to perform, behave, cohabit, or provide anything.
+- **Nothing is owed.** There are no arrears, no “promised payments,” and no claim on anything outside the ring-fenced Vehicle Account.
+- Therefore, in the default state, there is **nothing to litigate** because there is no enforceable performance duty and no debt-like obligation.
+
+If a dispute exists at all, it collapses to a narrow technical question:
+
+> **Is the account’s event-driven withdrawal mechanism working as specified (valuation time, allocation %, and ledger netting), and did the Independent Administrator execute the correct formula?**
+
+### 0.5) What actually holds it together: mutual consensus (not enforceable duties)
+Because the CWA avoids creating ongoing obligations, the structure is held together by **mutual consent**:
+
+- **Consensus to fund:** Party A funds only if they continue to choose to.
+- **Consensus to stay engaged:** Party B participates only if they continue to choose to.
+- **Consensus for shared withdrawals/joint assets:** any non-event withdrawals are joint-instruction only.
+
+The system’s “glue” is not a promise a court must police—it’s **continued voluntary alignment**. The contract simply defines what happens *if* money exists in the vehicle and an **event** occurs (Liquidity Event or termination).
 ---
 
 ## Part VI: Market Visibility (The Dock and The Ship)
