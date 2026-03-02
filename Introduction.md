@@ -62,25 +62,27 @@ Up to this point, the Gravity Model is a **descriptive lens**: it explains and p
 ## Part IV: The Structural Solution (The CWA)
 The **Cooperative Wealth Agreement (CWA)** is the instrument that underwrites an explicit price signal for the domestic sphere.
 
-The CWA is not a lifestyle mandate or a relationship playbook. It is a **chassis**: a set of playing-field rules designed to produce cooperative outcomes through individually aligned self-interest.
+The CWA is not a lifestyle mandate or a relationship playbook. It is a **chassis**: a pre-committed economic rule-set that makes cooperation the dominant strategy.
 
 In the context of the CWA, the two functional roles are:
 
-- **Primary Earner (Capital Base):** the party funding the Vehicle Account contributions.
-- **Domestic COO (Household Manager):** the party receiving a vesting equity claim in the cooperative vehicle.
+- **Funding Partner (Funding Party):** the party funding the Vehicle Account contributions.
+- **Partner COO (Allocation Party):** the party receiving a vesting equity claim in the cooperative vehicle.
 
 These roles are **elective and reversible**, and the model applies regardless of gender. Either person can occupy either role depending on the relationship. The core point is not hierarchy; it is incentive alignment and the creation of legible domestic equity.
 
 The agreement generates financial growth in the equity markets to capture value for the Domestic COO, but with a structural advantage: the growth does not start from their existing small savings base. It uses the Primary Earner’s much larger accumulated capital base and/or contribution stream as the starting point.
 
-### The Mechanics of the Carry Trade
-The mechanics of the CWA rest on a powerful fusion: an interest-free "carry trade" combined directly with the systematic vesting of that trade. This fusion jump-starts returns that would otherwise take the Domestic COO a decade or more to accumulate on their own. This graded asset vesting mechanism takes the massive leverage of the Primary Earner’s capital and pairs it with a timeline that promotes long-term, aligned financial incentives.
 
-### The Forced Savings Engine
-While the CWA creates sovereign wealth for the Domestic COO, it simultaneously acts as a **Forced Savings Engine** for the Primary Earner. Because the Domestic COO’s equity is permanently capped at 50%, every dollar the Primary Earner contributes to the LLC is fundamentally an investment in their own net worth. They are not "spending" money on lifestyle inflation; they are aggressively saving it, knowing that at least half of the principal and half of the compounding yield remains legally theirs. This enforces financial discipline and aggressive capital aggregation.
+### The Mechanics of the “Carry Trade” effect
+The CWA fuses an interest-free "carry trade" combined with the systematic vesting of that trade. The result is simple: the Partner COO vests into a pool that is already massive (or becomes massive quickly), rather than compounding from a small starting principle. This graded asset vesting mechanism takes the massive leverage of the Primary Earner’s capital and pairs it with a timeline that promotes long-term, aligned financial incentives.
+
+
+### The Structured Savings Effect
+While the CWA creates sovereign wealth for the Partner COO, it simultaneously acts as a **Forced Savings Engine** for the Funding Partner. Because the Partner COO’s equity is permanently capped at 50%, every dollar the Funding Partner contributes to the LLC is fundamentally an investment in their own net worth. They are not "spending" money on lifestyle inflation; they are aggressively saving it, knowing that at least half of the principal and half of the compounding yield remains legally theirs. This enforces financial discipline and aggressive capital aggregation.
 
 ### The Deterministic Unwind (At-Will Termination)
-A critical feature of the CWA is that it remains a strictly "at-will" agreement. If at any point either party wishes to terminate, they possess the absolute sovereign right to do so. Unlike the legacy marriage system, which requires a subjective judge to untangle commingled assets, the CWA features a **Deterministic Unwind**. Because the ledger is mapped to explicit event procedures, the vested equity is computed at defined valuation times. Upon termination, an Independent Administrator executes the formulaic unwind, distributing the legally vested share to the Domestic COO and returning the remaining balance to the Primary Earner. It replaces legal warfare with a programmatic financial transaction.
+A critical feature of the CWA is that it remains a strictly "at-will" agreement. If at any point either party wishes to terminate, they can terminate at will. Unlike the legacy marriage system, which requires a subjective judge to untangle commingled assets, the CWA features a **Deterministic Unwind**. Because the ledger is mapped to explicit event procedures, the vested equity is computed at defined valuation times. Upon termination, an Independent Administrator executes the formulaic unwind, distributing the legally vested share to the Domestic COO and returning the remaining balance to the Primary Earner. For the governed pool, it replaces legal warfare with a programmatic financial transaction.
 
 **Design note:** the CWA is drafted to be governance-only and event-driven, narrowing the dispute surface to the account and the formula.
 
@@ -172,7 +174,7 @@ Below is a 15-year illustration using the same baseline assumptions as Scenario 
 So in that same interval, the cooperative path’s passive wealth increase for Party B (**~$49,981/year**) exceeds the modeled state extraction band (**$40,000–$47,000/year**), flipping the incentive gradient toward cooperation rather than adversarial dissolution.
 
 #### The Schelling Point of Cooperation
-The CWA does not attempt to illegally bypass state-mandated child support. Instead, it **mathematically outcompetes** it. If state child support yields roughly **$40,000/year**, but the passive compounding of Party B’s capped 50% CWA share yields roughly **$50,000/year** (illustratively, **$49,981/year** in the Year 7 → 8 window above), the **Schelling point** shifts. It becomes less economically rational for Party B to treat the child-support system as a primary cashflow strategy, because the dominant expected-value path is to maintain the cooperative wealth engine.
+The CWA does not attempt to contract away child-support law. It **mathematically outcompetes** the extraction incentives by making cooperative compounding the dominant expected-value path. If state child support yields roughly **$40,000/year**, but the passive compounding of Party B’s capped 50% CWA share yields roughly **$50,000/year** (illustratively, **$49,981/year** in the Year 7 → 8 window above), the **Schelling point** shifts. It becomes less economically rational for Party B to treat the child-support system as a primary cashflow strategy, because the dominant expected-value path is to maintain the cooperative wealth engine.
 
 In that regime, child support is pulled back toward its intended role: a **safety backstop to ensure the child’s needs are met**, rather than a proxy mechanism for the ex-partner’s financial survival.
 
@@ -283,12 +285,12 @@ Results (same assumptions as the CWA model):
 
 *Not legal advice. This explains design intent: reduce the number of things a court could plausibly adjudicate.*
 
-### 0) “Nothing is owed” (the CWA is an anti-contract)
+### 0) “Nothing is owed” (the CWA is governance-only)
 At its core, the CWA is engineered to be the opposite of a traditional relationship contract:
 
 - **Nothing is obligated.** Party A is not obligated to fund. Party B is not obligated to perform, behave, cohabit, or provide anything.
 - **Nothing is owed.** There are no arrears, no “promised payments,” and no claim on anything outside the ring-fenced Vehicle Account.
-- Therefore, in the default state, there is **nothing to litigate** because there is no enforceable performance duty and no debt-like obligation.
+- Therefore, in the default state, there is nothing to litigate: there is no debt, no arrears, no claim outside the ring-fenced pool—only an event-driven distribution path if capital exists.
 
 If a dispute exists at all, it collapses to a narrow technical question:
 
@@ -397,7 +399,8 @@ Critics will argue that if someone foregoes the corporate workforce to "train" f
 Currently, one of the greatest sources of silent suffering in the West is individuals trapped in toxic or abusive marriages because they sacrificed their peak earning years to manage the domestic sphere. The CWA eradicates this systemic entrapment. Because of periodic Liquidity Events and a continuous vesting schedule, the Domestic COO builds an independent, sovereign war chest. They are never financially cornered. They stay in the relationship because they *want* to, not because they *have* to.
 
 ### 5. The Eradication of Family Court Trauma
-The state-sponsored family court system is frequently gamed to produce scorched-earth tactics, false accusations, and the weaponization of children to secure favorable asset splits. The CWA bypasses this arena entirely. By making the unwind deterministic—algorithmically enforced by an Independent Administrator down to the penny—breakups become painless, programmatic financial transactions rather than decade-long blood feuds.
+The state-sponsored family court system is frequently gamed to produce scorched-earth tactics, false accusations, and the weaponization of children to secure favorable asset splits. The CWA bypasses this theater. By making the unwind deterministic—algorithmically executed by a neutral administrator down to the penny—breakups collapse from narrative warfare into a programmatic transaction.
+
 
 ### 6. Aligning Young People Toward Productive Ends
 If the only way someone can secure a high-quality, dedicated Domestic COO is to programmatically prove they have the capital and discipline to fund a CWA, it redirects energy away from mimetic posturing and digital distractions. It forces people to become actual, disciplined builders of capital.
