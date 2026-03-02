@@ -62,7 +62,7 @@ Up to this point, the Gravity Model is a **descriptive lens**: it explains and p
 ## Part IV: The Structural Solution (The CWA)
 The **Cooperative Wealth Agreement (CWA)** is the instrument that underwrites an explicit price signal for the domestic sphere.
 
-The CWA is not a lifestyle mandate or a relationship playbook. It is a **chassis**: a set of playing-field rules designed to incentivize mutually beneficial behavior through aligned self-interest.
+The CWA is not a lifestyle mandate or a relationship playbook. It is a **chassis**: a set of playing-field rules designed to produce cooperative outcomes through individually aligned self-interest.
 
 In the context of the CWA, the two functional roles are:
 
