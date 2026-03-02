@@ -303,15 +303,13 @@ This caps the dispute surface to one defined pool.
 **max(0, (Vehicle Value × Allocation %) − B Distribution Ledger)**  
 - No “fairness” story required—just a valuation time, a percentage, and a ledger balance.
 
-5) **No unilateral access; administrator executes events**
-
+5) **No unilateral access; administrator executes events**;
 Neither party can unilaterally withdraw. The Independent Administrator controls transfers-out and processes only:
 - Liquidity Events,
 - termination unwind,
 - narrow dispute holdbacks.
 
-6) **The honest limit**
-
+6) **The honest limit**;
 Courts can still address fraud/duress/unconscionability, child-related statutory issues, and anything created by real-world commingling. The point is narrower: the CWA minimizes claim surface by being non-obligatory, at-will, and confined to a controlled account with withdrawal procedures.
 
 ### 0) “Nothing is owed” (the CWA is an anti-contract)
