@@ -395,7 +395,7 @@ A robust implementation can further reduce reliance on rosy market assumptions b
 
 ## Part VI: Market Visibility *(The Dock and the Ship)*
 
-Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*, the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism *(vehicle + allocation + liquidity + unwind)* that a counterparty can inspect. However, **a ship is useless if it cannot be found**.
+Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*[^1], the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism *(vehicle + allocation + liquidity + unwind)* that a counterparty can inspect. However, **a ship is useless if it cannot be found**.
 
 ### The Current Zeitgeist *(The Mimetic Beach)*
 *A trust commons failure: cheap signaling degrades the signal-to-noise ratio.*
