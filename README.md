@@ -1,9 +1,13 @@
-# README.md
-
 # Cooperative Wealth Agreement (CWA) — Public Template (CC0 1.0)
 
 **Status:** Public domain template (CC0 1.0).  
 **Disclaimer:** **NOT LEGAL OR TAX ADVICE.** This repository contains conceptual templates for educational and informational purposes only. Laws regarding property rights, LLCs, arbitration, securities custody, partnership characterization, and taxation vary heavily by jurisdiction. **Each party must consult independent legal counsel and independent tax counsel** before using or executing any document here.
+
+## Start here (recommended reading order)
+
+1) `introduction.md` — the explanatory whitepaper (“Gravity Model”) motivating the mechanism.  
+2) `cooperative_wealth_agreement.md` — the contract template (the instrument).  
+3) `docs/` — reviewer pack / supporting documents for evaluation and implementation.
 
 ## What this repository contains
 
@@ -15,10 +19,14 @@
   - periodic Liquidity Events,
   - a minimal Joint Asset protocol,
   - an event-only B Distribution Ledger (anti-double-counting),
-  - and tight dispute-resolution / holdback mechanics.
+  - and dispute-resolution + holdback mechanics.
 
 - `introduction.md`  
-  The explanatory whitepaper (“Gravity Model”) that motivates the design: **make domestic equity legible via an explicit, verifiable mechanism**.
+  The “Gravity Model” paper: **make domestic equity legible via an explicit, verifiable mechanism**.
+
+- `docs/`  
+  Reviewer-facing materials and implementation-oriented helpers (e.g., mechanism summary, admin role spec, term sheet / review notes, etc.).  
+  *Goal:* reduce “intellectual overhead” for professional reviewers and focus critique on fillability + attack surface.
 
 - `LICENSE.md`  
   CC0 1.0 Universal Public Domain Dedication.
@@ -29,7 +37,7 @@ This template is designed to reduce the “dispute surface” by keeping the agr
 
 - **No relationship obligations.** No duties to cohabit, perform services, or maintain a relationship.
 - **No funding obligation.** Any funding targets are non-binding; there are **no arrears**.
-- **No unilateral withdrawals.** The account is set up so neither party can “smash-and-grab.”
+- **No unilateral withdrawals.** The account is set up so neither party can unilaterally transfer-out.
 - **Event-driven distributions only.** Transfers-out occur only on:
   - Liquidity Events (if elected), or
   - Termination unwind, or
@@ -68,7 +76,7 @@ In `cooperative_wealth_agreement.md`, fill in:
 ### Step 2 — Select an implementation path (make it real)
 The agreement is **not operative** until the account is actually implemented with the required control split.
 
-Use the Appendix (“Implementation Paths”) to pick a feasible custody/control setup, such as:
+Use the contract’s Appendix (“Implementation Paths”) to pick a feasible custody/control setup, such as:
 - LLC brokerage + administrator LPOA + transfer/recipient locks, or
 - directed trust / escrow-style custody, or
 - institutional/RIA custody with controlled disbursements.
@@ -123,6 +131,19 @@ Upon termination:
 - **This is not a tax strategy.** The template explicitly does not promise any tax characterization.
 - **This is not child support avoidance.** Child-related statutory rights and obligations are not waivable by private contract.
 
+## How to review / provide feedback (high-signal critique welcome)
+
+If you’re reviewing as a lawyer, custodian ops, trust/escrow admin, mediator, or tax professional, the highest-value feedback is:
+
+- **Fillability:** can your custody stack actually implement the authority split and recipient restrictions?
+- **Attack surface:** where would a court/arbitrator expand beyond “account + formula + ledger”?
+- **Recharacterization risk:** partnership/support optics and how to reduce them without adding obligations.
+- **Administrator viability:** event-only workload, fee realism, refusal/transition conditions.
+
+Best ways to contribute:
+- Open a GitHub Issue with your critique (small, specific, actionable).
+- Or submit a PR with suggested edits and short rationale.
+
 ## Contributing / forks
 
 This repo is CC0. You are free to fork and adapt. If you publish improvements, consider keeping:
@@ -136,5 +157,3 @@ since those are the core dispute-surface minimizers.
 
 Attribution is not required under CC0, but if you reference the origin:
 - “Cooperative Wealth Governance Agreement (CWA) — CC0 public template.”
-
----
