@@ -40,6 +40,8 @@ The Parties intend this Agreement to be a financial governance arrangement only.
 ### 1.5 No Funding Obligation; No Reliance; No Arrears
 Except as expressly stated in a signed amendment, neither Party is obligated to fund the Vehicle Account. Any references to target or intended contributions are non-binding. Neither Party may claim reliance damages, expectation damages, arrears, or “promised payments” based solely on the other Party’s decision to fund or not fund the Vehicle Account.
 
+**For avoidance of doubt, voluntary payments or assistance by either Party for the other Party’s personal expenses—whether from separate property or otherwise—do not create any obligation to continue such payments or assistance and do not modify this Agreement unless expressly set forth in a signed written amendment.**
+
 ### 1.6 Scope Boundary (Not Household / Not Support)
 This Agreement governs only the establishment, control, allocation mechanics, liquidity mechanics, and termination unwind of the Vehicle Account (and any Joint Assets purchased with Vehicle Account funds). This Agreement does not govern living arrangements, household budgeting, personal support, or relationship expectations, and any such matters (if addressed) are handled only in separate written instruments that are not incorporated into this Agreement unless this Agreement expressly states otherwise.
 
@@ -457,6 +459,15 @@ Except for the Independent Administrator’s rights and protections expressly st
 
 ### 10.10 Non-Binding Summary
 Exhibit 5 (Key Terms Summary) is provided for convenience only. If there is any inconsistency, this Agreement controls.
+
+### 10.11 No Waiver; No Course-of-Performance Modification; Voluntary Acts Not Obligations
+(a) **No Waiver by Conduct.** No failure, delay, or omission by any Party in exercising any right, remedy, power, or privilege under this Agreement shall operate as a waiver. No waiver shall be effective unless set forth in a written instrument signed by the waiving Party and expressly identified as a waiver of a specified provision.
+
+(b) **No Implied Amendment / No Course-of-Performance Modification.** The Parties agree that their course of performance, course of dealing, or any informal practice (including voluntary payments, assistance, gifts, shared purchases, or any conduct outside this Agreement) shall **not** amend, modify, expand, or limit this Agreement, and shall **not** create arrears, reliance/expectation damages, or any support-like obligation, except to the extent a modification is made by a written amendment in accordance with Section 10.2 or is required by a final arbitration award, court order, or applicable law.
+
+(c) **Outside Payments / Assistance.** Any payment or benefit provided by one Party to the other Party outside the Vehicle Account (or not executed as a B Distribution under this Agreement) is presumed to be voluntary and non-precedential and shall not be used to imply an obligation to continue such payments or benefits.
+
+(d) **Reservation of Rights.** All rights and remedies of the Parties under this Agreement are cumulative and may be exercised as often as deemed necessary, subject to the dispute resolution provisions herein.
 
 ---
 
