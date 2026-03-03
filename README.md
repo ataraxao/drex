@@ -17,7 +17,7 @@
   - an event-only B Distribution Ledger (anti-double-counting),
   - and tight dispute-resolution / holdback mechanics.
 
-- `Introduction.md`  
+- `introduction.md`  
   The explanatory whitepaper (“Gravity Model”) that motivates the design: **make domestic equity legible via an explicit, verifiable mechanism**.
 
 - `LICENSE.md`  
