@@ -424,6 +424,19 @@ Custodians may impose withholding, fees, and transaction costs and may require l
 ### 9.6 No Tax Advice
 Each Party acknowledges they have been advised to consult independent tax counsel regarding reporting obligations arising from deposits, trading activity, allocations, and distributions, including any potential gift tax reporting, income tax reporting, and nominee/beneficial-owner reporting if applicable.
 
+### 9.7 Gift Return Cooperation; Reporting Support (If Applicable)
+The Parties acknowledge that one or more deposits, allocations, or distributions under this Agreement (including any **B Distribution**) may, depending on facts and applicable law, be characterized as a **gift** for federal and/or state tax purposes.
+
+(a) **No Characterization Promise.** Nothing in this Agreement constitutes a representation or guarantee of gift treatment or any other tax treatment.
+
+(b) **Filing Responsibility (If Applicable).** If, as determined by Party A in consultation with Party A’s independent tax counsel, any gift tax return or similar filing is required with respect to any transfer or distribution under this Agreement, Party A shall be responsible for preparing and filing such return(s) and for any donor-side reporting obligations that may apply.
+
+(c) **Cooperation.** Party B agrees to reasonably cooperate with Party A’s reporting efforts to the extent reasonably necessary for accurate filings, including by timely providing Party B’s taxpayer identification information and confirming the amount and date of any **B Distributions** received (cash or in-kind) as reflected on custodian records and/or the B Distribution Ledger.
+
+(d) **Information from Independent Administrator.** Upon written request by either Party, the Independent Administrator may provide a copy or extract of the **B Distribution Ledger** entries for a specified period for reporting convenience. Any time and costs incurred by the Independent Administrator in providing such copy/extract may be treated as an administrative cost payable from the Vehicle Account consistent with Exhibit 1.
+
+(e) **No Tax Advice.** Each Party acknowledges they have been advised to consult independent tax counsel regarding any reporting or filing obligations that may arise under this Agreement.
+
 ---
 
 ## ARTICLE X — MISCELLANEOUS
