@@ -46,7 +46,7 @@ Using the Gravity Model, the seemingly chaotic behaviors of the modern relations
 
 **Career-maxing**, **attention monetization**, and “**attention farming**” aren’t cultural accidents. They’re predictable responses to a market where **Career** and the **Attention Economy** offer **clearer**, **faster**, and **more frequent feedback** than the domestic path. In that incentive field, choosing a **domestic-first lane** requires unusually strong **preference alignment** and **risk tolerance** versus the default pull of the other two wells.
 
-### The “Passport Bro” *(Cross-Border Dating)* Phenomenon
+### Cross-Border Dating (The “Passport Bro” Phenomenon)
 
 In underdeveloped economies, the price signals for women in the Workforce Career Sphere are relatively **weak**. Consequently, the **Domestic** and **Attention Economy** spheres stand relatively **strong**. This cleanly models why women in these regions maintain traditionally family-minded reputations, while some of those same destinations also support robust **sex-tourism markets**.
 
@@ -398,10 +398,11 @@ A robust implementation can further reduce reliance on rosy market assumptions b
 Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*, the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism *(vehicle + allocation + liquidity + unwind)* that a counterparty can inspect. However, **a ship is useless if it cannot be found**.
 
 ### The Current Zeitgeist *(The Mimetic Beach)*
+*A trust commons failure: cheap signaling degrades the signal-to-noise ratio.*
 
 Today, there is no constructed dock. People line up on the shore claiming to be viable partners with “ships.” Because counterparties cannot closely inspect the real ships moored off in the distance, claimants adopt superficial, mimetic signs to signal they have a ship in waiting *(curated photo albums, rented cars, adopted mannerisms)*. In this chaotic environment, the swiftest “least worst” signal becomes **fame and social proof**. This is a highly inefficient market plagued by the **Lemons Problem**.
 
-### The Passenger’s Adaptation: Behavioral Stress Testing
+### The Counterparty’s Adaptation: Behavioral Stress Testing
 
 To survive the Lemons Problem on the “Beach,” counterparties have developed a high-friction filtering adaptation colloquially known as the “shit test” *(behavioral stress testing)*. Because a person cannot verify the existence or seaworthiness of another’s Ship, they instead introduce friction. These are impromptu, arbitrary stress tests designed to introduce unnecessary difficulty into the interaction, attempting to force the claimant to drop their mimetic facade and reveal some measure of their baseline competency.
 
