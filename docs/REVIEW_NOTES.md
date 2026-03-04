@@ -3,10 +3,11 @@
 
 ## How to review (what we want)
 We are seeking critique on:
-1) custody/control **fillability**
+1) custody/control **fillability** (including permission-change control, recipient restrictions, and operative-date gating)
 2) legal **attack surface** (unconscionability/duress, implied obligations, recharacterization risk)
-3) dispute-surface minimization (does it truly narrow disputes to account + formula?)
-4) admin role viability (cost, burden, refusal modes)
+3) dispute-surface minimization (does it truly narrow disputes to account + formula + ledger?)
+4) admin role viability (cost, burden, refusal modes, successor/transition practicality)
+5) edge-case remedies (misappropriation, bypass, and narrow restitution carve-out behavior)
 
 ## Reviewer (optional)
 - Name / org: [optional]
@@ -27,7 +28,17 @@ We are seeking critique on:
 ## Notes on implementation
 - Custody path feasibility notes:
   - [ ]
+- Operative-date gating / checklist feasibility notes:
+  - [ ]
 - Admin role feasibility notes:
+  - [ ]
+- Recipient restriction / designated-account change feasibility notes:
+  - [ ]
+
+## Notes on optional features
+- Discretionary Gift Top-Ups: feasibility / optics / operational concerns:
+  - [ ]
+- Restitution carve-out (intentional dissipation not prevented by controls): enforceability / risk:
   - [ ]
 
 ## Follow-up questions
