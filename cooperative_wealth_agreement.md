@@ -120,6 +120,8 @@ For purposes of this Agreement:
 
 (u) **“Admin Reserve”** means the minimum cash reserve maintained in the Vehicle Account to pay the Independent Administrator’s fees and costs.
 
+(v) **“Discretionary Top-Up”** means a Discretionary Gift Top-Up authorized by Party A under Section 5.4.
+
 ### 2.4 Notices; Deemed Delivery; Address Updates; Fallback Channel (Anti-Evasion)
 (a) **Notice Contact Information.** Each Party shall designate in writing to the other Party and to the Independent Administrator: (i) a Notice Email address (“**Notice Email**”), (ii) a physical mailing address (“**Notice Address**”), and (iii) an optional mobile number and/or messaging handle for the Fallback Channel (“**Fallback Contact**”). The Parties’ initial Notice Email, Notice Address, and Fallback Contact (if any) are set forth in Exhibit 0.
 
@@ -284,6 +286,19 @@ If any portion of a Shared Withdrawal is expressly designated as a B Distributio
 
 ### 5.3 Joint Asset Purchases; Title and Governance
 If Vehicle Account funds are used to purchase a Joint Asset, that Joint Asset shall be titled as Tenants in Common (or closest equivalent) with ownership percentages matching the Allocation Percentage at the applicable Valuation Time, unless the Parties agree otherwise in a signed writing (including titling to the Vehicle LLC). Governance, carrying costs, buyout rights, and sale procedures are governed by Exhibit 2.
+
+### 5.4 Discretionary Gift Top-Up (Optional; Non-Owed; Not Consideration)
+(a) **Discretionary Top-Up Authority.** Party A may, at Party A’s sole discretion, authorize one or more additional distributions to Party B (each, a “Discretionary Top-Up”) from the Vehicle Account during the Term.
+
+(b) **Form; Destination; Administrator Processing.** Any Discretionary Top-Up must be initiated by Party A by written instruction delivered to the Independent Administrator and copied to Party B, specifying the amount (or in-kind equivalent) and confirming the destination as Party B’s B Designated Account. The Independent Administrator may process a Discretionary Top-Up only to Party B’s B Designated Account and subject to Custodian Constraints.
+
+(c) **Not Earned; Not Reliance; No Obligation.** A Discretionary Top-Up is voluntary, non-owed, and may be made or not made in Party A’s sole discretion. Party B acknowledges that no Discretionary Top-Up is promised or expected, and Party B shall have no claim for reliance, expectation damages, arrears, or specific performance with respect to any Discretionary Top-Up.
+
+(d) **Not Compensation; No Services; No Consideration.** The Parties intend that any Discretionary Top-Up is not wages, compensation, or payment for services and is not consideration for any personal conduct, companionship, cohabitation, intimacy, or other services. No Party shall represent to any third party that a Discretionary Top-Up is a payment for services.
+
+(e) **Ledger Treatment (Anti-Double-Counting).** Each Discretionary Top-Up shall be treated as a **B Distribution** and recorded in the B Distribution Ledger at the applicable Valuation Time, and shall reduce (dollar-for-dollar) any future Liquidity Settlement Amounts and Party B’s Share at Termination under Sections 7.3 and 7.2, to prevent double counting.
+
+(f) **No Effect on Allocation Percentage.** Discretionary Top-Ups do not modify the Allocation Percentage accrual schedule, the Allocation Cap, or any other formula in this Agreement unless amended in a signed writing by both Parties under Section 10.2.
 
 ---
 
@@ -847,73 +862,3 @@ Before declaring the Agreement operative, the Independent Administrator should r
 - Signed LPOA/control instrument (if used).  
 - Statement delivery method for Party B (view access or direct statements).  
 - Successor/transition instructions (who holds what records; where ledger lives).
-
----
-
-# SEPARATE PRIVATE DOCUMENT (NOT PART OF THE AGREEMENT)
-
-## HOUSEHOLD BUDGET & SHARED EXPENSE ACCOUNT MEMO (v1-Lite)
-*Month-to-Month; Not Incorporated; No Effect on Wealth Governance*
-
-> **TEMPLATE NOTICE: NOT LEGAL OR TAX ADVICE.**  
-> This Memo is a practical arrangement for day-to-day shared expenses. It is not legal advice.
-
-### 1. Date; Parties
-Date: [Date]  
-Party A: [Legal Name]  
-Party B: [Legal Name]
-
-### 2. Purpose; Independence From Any Wealth Agreement
-This Household Budget & Shared Expense Account Memo (this “Memo”) is for routine shared expenses only. This Memo is not part of any Cooperative Wealth Governance Agreement or similar wealth agreement, is not incorporated by reference, and does not modify any wealth agreement’s allocation mechanics, ledger rules, liquidity events, or termination/unwind procedures.
-
-### 3. Household Account (Separate Checking Account)
-The Parties will maintain a separate checking account (the “Household Account”) used primarily for Shared Household Costs.  
-Bank/Institution: [__________]  
-Account Name/Title: [__________]  
-Authorized Users / Access: [A only / B only / both]  
-Debit Card(s): [A / B / both]
-
-### 4. Shared Household Costs (Simple Definition)
-“Shared Household Costs” are ordinary, recurring expenses the Parties mutually consider household/common life expenses, such as groceries, shared utilities, internet, and routine household supplies.  
-Anything unusual or large should be discussed in advance when practical.
-
-### 5. Contributions (Choose One)
-
-**Option A — Fixed Monthly Contributions (recommended)**  
-Effective [Start Date], contributions to the Household Account are:  
-Party A: $[____] per month  
-Party B: $[____] per month  
-Due on the [1st] of each month (or first business day thereafter).
-
-**Option B — Flexible Funding Target**  
-Effective [Start Date], the Parties intend (but are not obligated) to keep the Household Account funded at approximately $[____] and will top up as needed in the approximate split of:  
-Party A: [__]%  
-Party B: [__]%
-
-### 6. Large Purchases / Recurring Charges (Optional Guardrail)
-Optional rule (check one):  
-- [ ] Either Party may spend up to $[____] per transaction without prior discussion.  
-- [ ] No spending limit; use best efforts to communicate on large items.
-
-Optional rule for new recurring charges:  
-- [ ] New recurring charges above $[____]/month should be discussed in advance.  
-- [ ] No rule.
-
-### 7. True-Up (Optional)
-Optional check-in frequency: [monthly / quarterly / as-needed].  
-If contributions feel consistently unfair, either Party may request a review and adjustment.
-
-### 8. Reimbursements (Optional)
-If one Party pays a Shared Household Cost personally, reimbursement is:  
-- [ ] optional and handled case-by-case  
-- [ ] expected within [30] days if agreed in writing (text/email is fine)
-
-### 9. No Support; No Employment; No Equity
-This Memo is for cost sharing only. It is not wages, compensation, or support; it does not create equity in any property; and it does not modify separate property rights.
-
-### 10. Term; Termination
-This Memo is month-to-month and may be changed or terminated at any time by either Party with written notice (including email/text). Termination of this Memo does not affect any separate wealth agreement.
-
-### 11. Signatures (Optional but Helpful)
-Party A: _______________________________  Date: _______________  
-Party B: _______________________________  Date: _______________
