@@ -11,6 +11,7 @@ The CWA is a **wealth-only, event-driven governance wrapper** for a **ring-fence
 - A structure with **no unilateral transfers-out** by either party.
 - A formula for **allocation accrual**, with **periodic Liquidity Events** and **deterministic termination unwind**.
 - A mechanism where a neutral **Independent Administrator** executes “events” and maintains an event-only ledger.
+- An optional mechanism for **Discretionary Gift Top-Ups** initiated solely by the Funding Partner and executed to Party B’s designated account, recorded in the ledger to prevent double counting.
 
 ### It is *not*
 - A relationship mandate, cohabitation agreement, or lifestyle/behavior contract.
@@ -26,6 +27,7 @@ The CWA is a **wealth-only, event-driven governance wrapper** for a **ring-fence
 - **Trading Authority:** ability to trade within the account, **not** to withdraw/transfer out.
 - **Allocation Percentage:** accrues over time (whole months only), capped (e.g., 50%).
 - **B Distribution Ledger:** records only actual B Distributions (event-only) to prevent double counting.
+- **Discretionary Gift Top-Up:** an optional, Funding-Partner-initiated distribution to Party B’s designated account that is recorded as a B Distribution (and therefore nets against later Liquidity/Termination payouts) without changing Allocation %.
 
 ## 4) The formulas (the whole point)
 All entitlement calculations are **in-pool, event-driven, and net of the ledger**.
@@ -37,7 +39,7 @@ All entitlement calculations are **in-pool, event-driven, and net of the ledger*
 `max(0, (Vehicle Value × Allocation %) − B Distribution Ledger)`
 with the remainder to Party A (net of permitted fees/withholding).
 
-**Key property:** the ledger prevents double counting across multiple Liquidity Events and final unwind.
+**Key property:** the ledger prevents double counting across multiple Liquidity Events, discretionary distributions recorded as B Distributions, and final unwind.
 
 ## 5) The “Operative Date” gating (what makes it real)
 The Agreement is **not operative** until the custody/control structure is actually implemented such that, in substance:
@@ -55,6 +57,11 @@ If the custodian cannot satisfy a requirement, the Agreement remains non-operati
 - Party A may trade inside guardrails.
 - No one unilaterally withdraws/transfers out.
 - Shared withdrawals require joint instruction.
+
+### Discretionary Gift Top-Up (optional)
+- Party A may instruct the Administrator to distribute an additional amount (cash or in-kind) to Party B’s designated account.
+- The distribution is recorded in the B Distribution Ledger as a B Distribution to prevent double counting.
+- It does not change Allocation % or vesting mechanics.
 
 ### Liquidity Event (every N years; default 3) — optional
 - Party B may elect a distribution during the Liquidity Window.
