@@ -15,10 +15,12 @@
   The **Cooperative Wealth Governance Agreement**: a wealth-only, event-driven governance wrapper for a **ring-fenced pool** (a restricted brokerage account held by a Vehicle LLC), with:
   - voluntary (non-enforceable) funding,
   - an **Independent Administrator** who controls transfers-out/distributions,
+  - an **operative-date gating** requirement with an **implementation control checklist**,
   - a deterministic termination unwind,
   - periodic Liquidity Events,
   - a minimal Joint Asset protocol,
   - an event-only B Distribution Ledger (anti-double-counting),
+  - optional **Discretionary Gift Top-Ups** (Funding Partner optional; ledgered and netted),
   - and dispute-resolution + holdback mechanics.
 
 - `introduction.md`  
@@ -41,7 +43,8 @@ This template is designed to reduce the “dispute surface” by keeping the agr
 - **Event-driven distributions only.** Transfers-out occur only on:
   - Liquidity Events (if elected), or
   - Termination unwind, or
-  - dispute holdback + release of undisputed amounts.
+  - dispute holdback + release of undisputed amounts,
+  - plus optional **Discretionary Gift Top-Ups** initiated solely by the Funding Partner (recorded as B Distributions for anti-double-counting).
 - **Deterministic math.** Payouts are formulaic and netted against the B Distribution Ledger to prevent double counting.
 
 ## Who this template is for
@@ -74,7 +77,7 @@ In `cooperative_wealth_agreement.md`, fill in:
 - **Guardrail threshold**: max single-stock exposure (if any)
 
 ### Step 2 — Select an implementation path (make it real)
-The agreement is **not operative** until the account is actually implemented with the required control split.
+The agreement is **not operative** until the account is actually implemented with the required control split and the Independent Administrator provides an **Implementation Confirmation**.
 
 Use the contract’s Appendix (“Implementation Paths”) to pick a feasible custody/control setup, such as:
 - LLC brokerage + administrator LPOA + transfer/recipient locks, or
@@ -88,7 +91,7 @@ The Independent Administrator must:
 - accept the **event-only** role,
 - agree to recipient restrictions (only the designated accounts + fees/withholding),
 - maintain the event-only **B Distribution Ledger**,
-- and provide an **Implementation Confirmation** once the custody setup is correct.
+- and provide an **Implementation Confirmation** once the custody setup satisfies the implementation control checklist.
 
 ### Step 4 — Form the Vehicle LLC and open the restricted Vehicle Account
 - Party A forms the Vehicle LLC (single-member by default in this template).
@@ -109,6 +112,7 @@ The agreement becomes operative only after the Independent Administrator confirm
 - The vehicle remains invested within guardrails.
 - Joint withdrawals require joint instruction.
 - Joint assets purchased from the vehicle follow the Joint Asset protocol.
+- Optional: Party A may authorize **Discretionary Gift Top-Ups** to Party B (processed by the administrator to Party B’s designated account and recorded in the ledger).
 
 ### Step 8 — Liquidity Events (optional, every 3 years)
 During each Liquidity Window, Party B may elect a Liquidity Distribution:
@@ -128,14 +132,16 @@ Upon termination:
 
 - **Fillability matters.** The “paper” agreement is not the mechanism; the custody/control implementation is.
 - **Expect custodian constraints.** Many custodians have strict rules about permissions and disbursement controls. Work with counsel and the administrator to pick a feasible path.
-- **This is not a tax strategy.** The template explicitly does not promise any tax characterization.
+- **This is not a tax strategy.** The template explicitly does not promise any tax characterization; certain transfers may be treated as gifts depending on facts and law.
 - **This is not child support avoidance.** Child-related statutory rights and obligations are not waivable by private contract.
+- **Administrator transition exists.** The contract includes resignation and replacement mechanics (including replacement by joint instruction), plus dispute-resolution tools to preserve the control structure during transitions.
+- **Narrow restitution carve-out exists.** The contract contains a narrow outside-the-pool restitution remedy for intentional dissipation not prevented by the controls (as determined by a final award).
 
 ## How to review / provide feedback (high-signal critique welcome)
 
 If you’re reviewing as a lawyer, custodian ops, trust/escrow admin, mediator, or tax professional, the highest-value feedback is:
 
-- **Fillability:** can your custody stack actually implement the authority split and recipient restrictions?
+- **Fillability:** can your custody stack actually implement the authority split, permission-change control, and recipient restrictions?
 - **Attack surface:** where would a court/arbitrator expand beyond “account + formula + ledger”?
 - **Recharacterization risk:** partnership/support optics and how to reduce them without adding obligations.
 - **Administrator viability:** event-only workload, fee realism, refusal/transition conditions.
@@ -150,6 +156,7 @@ This repo is CC0. You are free to fork and adapt. If you publish improvements, c
 - the event-driven architecture,
 - recipient restrictions,
 - operative-date gating,
+- permission-change controls,
 - and ledger anti-double-counting,
 since those are the core dispute-surface minimizers.
 
