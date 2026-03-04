@@ -2,12 +2,13 @@
 *Conceptual template. Not legal or tax advice.*
 
 ## 1) Role summary
-The Independent Administrator is a neutral party who **controls transfers-out/distributions/freeze actions** for a restricted Vehicle Account and executes only **Administrator Events** (Liquidity Events, Termination unwind, and dispute holdback/release of undisputed amounts). The Administrator is not a portfolio manager, relationship mediator, or fact finder.
+The Independent Administrator is a neutral party who **controls transfers-out/distributions/freeze actions** for a restricted Vehicle Account and executes only **Administrator Events** (Liquidity Events, Termination unwind, Discretionary Gift Top-Ups (if instructed), and dispute holdback/release of undisputed amounts). The Administrator is not a portfolio manager, relationship mediator, or fact finder.
 
 ## 2) Administrator Events (the only actions the role performs)
 1) **Liquidity Event distribution** (only if Party B makes a valid Liquidity Election during the Liquidity Window)
 2) **Termination unwind** (upon effective termination notice or deemed termination trigger)
-3) **Dispute holdback + release of undisputed amounts** (when notified of a dispute affecting distribution amounts)
+3) **Discretionary Gift Top-Up** (only upon Party A’s written instruction, and only to Party B’s B Designated Account)
+4) **Dispute holdback + release of undisputed amounts** (when notified of a dispute affecting distribution amounts)
 
 ## 3) What the Administrator MUST be able to do (capability requirements)
 - Execute transfers-out/distributions **only to permitted recipients**:
@@ -17,7 +18,7 @@ The Independent Administrator is a neutral party who **controls transfers-out/di
 - Freeze transfers-out (subject to custodian constraints)
 - Implement in-kind distributions when practicable (cash fallback allowed)
 - Maintain an **event-only B Distribution Ledger**
-- Provide an **Implementation Confirmation** when the control split is correctly established
+- Provide an **Implementation Confirmation** when the control split is correctly established (including satisfaction of the Agreement’s implementation control checklist, subject to custodian constraints and any written exceptions)
 
 ## 4) What the Administrator must NOT do (explicit non-duties)
 - No investment advice, suitability determinations, or portfolio management
