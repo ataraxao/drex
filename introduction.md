@@ -366,7 +366,7 @@ It does this by converting “relationship finance” from a payment pattern int
 
 - **The mechanism narrows the renegotiation surface.** Allowances re-open negotiation every month. Court outcomes re-open negotiation at exit under maximum conflict. The CWA pushes the wealth layer into defined events (Liquidity Events and termination unwind) with deterministic calculation and ledger netting.
 
-In short: **an allowance is a discretionary pattern; statutory transfer is an adversarial lottery.** The CWA is an attempt to create a third category: a verifiable, event-driven wealth mechanism where neither party holds unilateral leverage over the defined pool, enabling a clearer and more stable domestic price signal.
+In short: **an allowance is a discretionary pattern; statutory transfer is an adversarial lottery.** The CWA is an attempt to create a third category: a verifiable, event-driven wealth mechanism where neither party holds unchecked leverage over the defined pool, enabling a clearer and more stable domestic price signal.
 
 *The CWA does not claim it is the only way to generate a domestic price signal. It is one concrete mechanism design that aims to balance leverage and make outcomes legible and verifiable ex ante.*
 
