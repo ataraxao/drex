@@ -219,7 +219,7 @@ So in that same interval, the cooperative path’s passive wealth increase for t
 
 ### The Nash Equilibrium of Cooperation
 
-The CWA does not attempt to contract away child-support law. It mathematically outcompetes the extraction incentives by making **cooperative compounding** the dominant expected-value path. If state child support yields roughly **$40,000/year**, but the passive compounding of the Recipient Party’s capped 50% CWA share yields roughly **$50,000/year**, the **Nash equilibrium shifts**. It becomes less economically rational for the Recipient Party to treat the child-support system as a primary cashflow strategy, because the dominant expected-value path is to maintain the cooperative wealth engine.
+The CWA does not attempt to contract away child-support law. It mathematically outcompetes the extraction incentives by making **cooperative compounding** the dominant expected-value path. If state child support yields roughly **$40,000/year**, but the passive compounding of the Recipient Party’s capped 50% CWA share yields roughly **$50,000/year** (and increases every passing year), the **Nash equilibrium shifts**. It becomes less economically rational for the Recipient Party to treat the child-support system as a primary cashflow strategy, because the dominant expected-value path is to maintain the cooperative wealth engine.
 
 In that regime, child support is pulled back toward its intended role: a **safety backstop** to ensure the child’s needs are met, rather than a proxy mechanism for the ex-partner’s financial survival.
 
