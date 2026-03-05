@@ -49,6 +49,9 @@ This Agreement governs only the establishment, control, allocation mechanics, li
 
 **For avoidance of doubt,** Allocation Percentage accrual is not conditioned on cohabitation, conduct, services, exclusivity, intimacy, or relationship continuation, and functions solely as a measurement convention for distribution of assets actually held in the Vehicle Account (and Joint Asset proceeds) upon Administrator Events.
 
+### 1.6A Not an Asset-Protection Plan (Separate Property Outside the Pool)
+For avoidance of doubt, this Agreement is a governance mechanism for the Vehicle Account only and is not intended as asset-protection planning for either Party’s separate property outside the Vehicle Account.
+
 ### 1.7 Mutual Consideration; Governance-Only (Non-Service)
 In consideration of the mutual covenants, dispute-resolution, notice, non-recourse, and scope-limiting commitments herein, each Party agrees to be bound by this Agreement’s governance mechanics once operative, including: (a) notice and anti-evasion provisions (Article II), (b) arbitration and enforcement provisions (Article VIII), (c) non-recourse limitation (Section 4.7), (d) mutual release and scope lock (Section 1.9), and (e) reporting cooperation provisions (Article IX), to the maximum extent permitted by law.
 
