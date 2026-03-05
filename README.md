@@ -40,7 +40,7 @@ This work is published under the **CC0 1.0 Universal (Public Domain Dedication)*
   - periodic Liquidity Events,
   - a minimal Joint Asset protocol,
   - an event-only B Distribution Ledger (anti-double-counting),
-  - optional **Discretionary Gift Top-Ups** (Funding Partner optional; ledgered and netted),
+  - optional **Discretionary Top-Ups** (Funding Partner optional; ledgered and netted),
   - and dispute-resolution + holdback mechanics.
 
 - `introduction.md`  
@@ -64,7 +64,7 @@ This template is designed to reduce the “dispute surface” by keeping the agr
   - Liquidity Events (if elected), or
   - Termination unwind, or
   - dispute holdback + release of undisputed amounts,
-  - plus optional **Discretionary Gift Top-Ups** initiated solely by the Funding Partner (recorded as B Distributions for anti-double-counting).
+  - plus optional **Discretionary Top-Ups** initiated solely by the Funding Partner (recorded as B Distributions for anti-double-counting).
 - **Deterministic math.** Payouts are formulaic and netted against the B Distribution Ledger to prevent double counting.
 
 ## Who this template is for
@@ -132,7 +132,7 @@ The agreement becomes operative only after the Independent Administrator confirm
 - The vehicle remains invested within guardrails.
 - Joint withdrawals require joint instruction.
 - Joint assets purchased from the vehicle follow the Joint Asset protocol.
-- Optional: Party A may authorize **Discretionary Gift Top-Ups** to Party B (processed by the administrator to Party B’s designated account and recorded in the ledger).
+- Optional: Party A may authorize **Discretionary Top-Ups** to Party B (processed by the administrator to Party B’s designated account and recorded in the ledger).
 
 ### Step 8 — Liquidity Events (optional, every 3 years)
 During each Liquidity Window, Party B may elect a Liquidity Distribution:
