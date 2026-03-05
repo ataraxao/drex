@@ -171,9 +171,9 @@ The following table models a Funding Party contributing $5,000/month, assuming *
 A fair critique of the baseline table above is: it models **“paper equity”** only *(no distributions)*. Under the actual Cooperative Wealth Governance Agreement, the Recipient Party can convert vested entitlement into assets held in the Recipient Party’s own name at each Liquidity Event Date *(every three years)*, via the Liquidity formula:
 
 **Liquidity Settlement Amount:**  
-`max(0, (Vehicle Account value × Recipient Party Allocation %) − (B Distribution Ledger))`
+`max(0, (Vehicle Account value × Recipient Party Allocation %) − (Recipient Distribution Ledger))`
 
-Then the **B Distribution Ledger** increases by the amount distributed, ensuring **no double counting** at future liquidity events or final termination unwind.
+Then the **Recipient Distribution Ledger** increases by the amount distributed, ensuring **no double counting** at future liquidity events or final termination unwind.
 
 Below is a 15-year illustration using the same baseline assumptions as Scenario A, but now with the Recipient Party electing a liquidity distribution every 3-year window *(Years 3, 6, 9, 12, 15)*. The **Recipient Party Personal Account** compounds at the same 7% rate *(for illustration)*, and is held in the Recipient Party’s own name—this is what makes the wealth actually **liquid and sovereign**, not merely an in-account claim.
 
