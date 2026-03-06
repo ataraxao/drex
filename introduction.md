@@ -577,3 +577,10 @@ We cannot moralize our way out of a macroeconomic crisis. To save the domestic s
 [^5]: Credibility, time inconsistency, and commitment. A core result in macro/policy design is that promises about the future are not automatically credible when incentives can change over time (“time inconsistency”). Kydland and Prescott’s work (recognized by the 2004 Nobel Prize) is foundational in explaining why institutional/structural commitments matter for credibility. The CWA uses a private governance structure (controls + administrator + event procedures) as a practical credibility device for the defined pool.
 
 [^6]: Orion Taraban, *The Value of Others: Understanding the Economic Model of Relationships to Get (and Keep) More of What You Want in the Sexual Marketplace.*
+
+---
+
+The Cooperative Wealth Agreement (CWA) is an open-source mechanism, but the network of builders executing it is private. 
+
+To receive future protocol updates, structural defenses, and ongoing analysis of the relationship marketplace:
+**[Subscribe to Ataraxao on Substack](https://ataraxao.substack.com/p/the-gravity-model-aligning-price)**
