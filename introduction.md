@@ -121,7 +121,7 @@ While the CWA creates **sovereign wealth** for the Recipient Party, it simultane
 
 ### The Deterministic Unwind *(At-Will Termination)*
 
-A critical feature of the CWA is that it remains a strictly **at-will** agreement. If at any point either party wishes to terminate, they can terminate at will. Unlike the legacy marriage system, which requires a subjective judge to untangle commingled assets, the CWA features a **Deterministic Unwind**. Because the ledger is mapped to explicit event procedures, the vested equity is computed at defined valuation times. Upon termination, an Independent Administrator executes the **formulaic unwind**, distributing the legally vested share to the Recipient Party and returning the remaining balance to the Funding Party. For the governed pool, it replaces legal warfare with a **programmatic financial transaction**.
+A critical feature of the CWA is that it remains a strictly **at-will** agreement. If at any point either party wishes to terminate, they can terminate at will. Unlike the legacy marriage system, which requires a subjective judge to untangle commingled assets, the CWA features a **Deterministic Unwind**. Because the ledger is mapped to explicit event procedures, the vested equity is computed at defined valuation times. Upon termination, an Independent Administrator executes the **formulaic unwind**, distributing the legally vested share to the Recipient Party and returning the remaining balance to the Funding Party. For the governed pool, it replaces legal warfare with a **programmatic financial transaction**.[^1]
 
 *Design note:* the CWA is drafted to be **governance-only** and **event-driven**, narrowing the dispute surface to the account and the formula.
 
@@ -206,7 +206,7 @@ Below is a 15-year illustration using the same baseline assumptions as Scenario 
 
 **Important note:** Child support cannot be contracted away. The CWA is **not** a replacement for statutory obligations to a child, and it does not attempt to waive them. However, in the legacy family-court environment, the child is often functionally weaponized as a leverage instrument—used to justify financial extraction from the Funding Party while simultaneously incentivizing disengagement, reduced cooperation, and even strategic separation as a form of **“price discovery.”** For this reason, it is analytically useful to model state-mandated child support cashflows against the CWA’s compounded wealth outcomes.
 
-**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year which would make a $5,000 monthly CWA contribution sustainable, in California *(Recipient Party income = $0, 50/50 custody for 2 children)*, state-mandated child support yields roughly **$41,000 per year**[^1] in depreciating fiat.
+**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year which would make a $5,000 monthly CWA contribution sustainable, in California *(Recipient Party income = $0, 50/50 custody for 2 children)*, state-mandated child support yields roughly **$41,000 per year**[^2] in depreciating fiat.
 
 **The CWA Yield (same window):** The deeper point is incentive dominance over time: even if child support is *X*, the expected compounding after the 50% vesting cap often exceeds *X* beyond year ~N *(illustratively, around Year 6–8 in this model)*. Concretely, comparing **Year 7 → Year 8**:
 
@@ -429,7 +429,7 @@ A robust implementation can further reduce reliance on rosy market assumptions b
 
 ## Part VI: Market Visibility *(The Dock and the Ship)*
 
-Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*[^2], the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism *(vehicle + allocation + liquidity + unwind)* that a counterparty can inspect. However, **a ship is useless if it cannot be found**.
+Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*[^3], the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism *(vehicle + allocation + liquidity + unwind)* that a counterparty can inspect. However, **a ship is useless if it cannot be found**.
 
 ### The Current Zeitgeist *(The Mimetic Beach)*
 *A trust commons failure: cheap signaling degrades the signal-to-noise ratio.*
@@ -539,6 +539,8 @@ We cannot moralize our way out of a macroeconomic crisis. To save the domestic s
 
 ## Footnotes
 
-[^1]: California Department of Child Support Services, “Child Support Guideline Calculator,” accessed March 5, 2026.
+[^1]: Optional crypto-native variant: If the governed pool is held in crypto assets, the same deterministic allocation schedule, ledger netting, and event-driven payout logic can be enforced via smart-contract escrow for the on-chain portion of the pool. This is optional and does not alter any off-chain legal obligations; it is simply an alternate automation rail for parties who prefer crypto-native custody.
 
-[^2]: Orion Taraban, *The Value of Others: Understanding the Economic Model of Relationships to Get (and Keep) More of What You Want in the Sexual Marketplace*.
+[^2]: California Department of Child Support Services, “Child Support Guideline Calculator,” accessed March 5, 2026.
+
+[^3]: Orion Taraban, *The Value of Others: Understanding the Economic Model of Relationships to Get (and Keep) More of What You Want in the Sexual Marketplace*.
