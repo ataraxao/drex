@@ -356,40 +356,40 @@ The Gravity Model is not a total theory of love or intimacy. It is an **incentiv
 
 ### 2) “Isn’t this just a monthly allowance with extra steps?”
 
-**Answer:** No. A monthly allowance is a discretionary cashflow. The CWA is a **verifiable mechanism** designed to produce a **clean domestic price signal** by balancing leverage and reducing discretionary uncertainty on *both* sides.
+**Answer:** No. A monthly allowance is a discretionary cashflow. The CWA is a verifiable mechanism designed to produce a clean domestic price signal by balancing leverage and reducing discretionary uncertainty on both sides.
 
 A discretionary allowance or lifestyle promise can feel like *company scrip*: useful in the moment, but not a portable, sovereign position—because the “asset” is the Funding Party’s ongoing discretion.
 
-A monthly allowance can be generous, but it is a weak price signal for the same core reason that court-adjudicated transfers (divorce/property support outcomes) are weak price signals: **the outcome is not mechanically legible ex ante.** It is contingent—either on the recipient’s leverage through the state, or on the funder’s leverage through discretion. When one side can unilaterally reshape the payoff, a stable market-visible signal cannot form.
+A monthly allowance can be generous, but it is a weak price signal for the same core reason that court-adjudicated transfers (divorce/property support outcomes) are weak price signals: the payoff is not mechanically legible **ex ante**. It is contingent—either on the recipient’s leverage through the state, or on the funder’s leverage through discretion. When one side can unilaterally reshape the payoff, a stable, market-visible signal cannot form.
 
-#### Allowance vs. statutory transfer: the same failure mode at opposite extremes
+#### Allowance vs. statutory transfer: mirror-image failure modes
 
-- **Statutory transfers / divorce outcomes:** the uncertainty is dominated by the *recipient-side* leverage. The eventual payout is mediated by litigation dynamics, fact patterns, and a judge’s discretionary “equity” lens. The funding party cannot pre-commit to a deterministic outcome, and the recipient party cannot reliably price the expected value without an adversarial process. The “signal” is noisy and dispute-driven.
+- **Statutory transfers / divorce outcomes:** uncertainty is dominated by **recipient-side leverage**. The payout is mediated by litigation dynamics, fact patterns, and a judge’s discretionary equity lens. The Funding Party cannot pre-commit to a deterministic outcome, and the Recipient Party cannot reliably price expected value without an adversarial process. The “signal” is noisy and dispute-driven.
 
-- **Monthly allowance:** the uncertainty is dominated by the *funding-side* leverage. The funder can stop, reduce, delay, or renegotiate at will. Even if the funder is sincere, the counterparty cannot verify continuation or enforceability ex ante. The “signal” is cheap to mimic, easy to reverse, and therefore weak as a commitment instrument.
+- **Monthly allowance:** uncertainty is dominated by **funding-side leverage**. The funder can stop, reduce, delay, or renegotiate at will. Even if sincere, the counterparty cannot verify durability or enforceability **ex ante**. The “signal” is cheap to mimic, easy to reverse, and therefore weak as a commitment instrument.
 
-These are mirror-image failure modes: **excess leverage at either extreme prevents a clean price signal from forming.** One side’s payoff is too contingent on a third party (court) or on the other party’s ongoing discretion.
+These are the same problem at opposite ends of the spectrum: excess unilateral leverage prevents a clean price signal from forming.
 
 #### What the CWA is trying to do instead: balance leverage via mechanism
 
-The CWA is an attempt to land in the middle ground where:
-- the payout is not created by a judge’s narrative discretion, and
-- it is not dependent on a funder’s month-to-month goodwill.
+The CWA attempts to land in a middle category where the wealth layer is:
 
-It does this by converting “relationship finance” from a payment pattern into an **implemented process**:
+- **not created by a judge’s narrative discretion**, and  
+- **not dependent on month-to-month goodwill**.
 
-- **Commitment is locked to capital already in the pool.** Once money is inside a properly implemented Vehicle Account, it is governed by recipient restrictions, ledgering, and event procedures. This reduces the ability of either party to unilaterally claw back or redirect committed capital.
+It does this by converting “relationship finance” from a payment pattern into an implemented process:
 
-- **Leverage is balanced by architecture, not vibes.** An Independent Administrator–controlled account with operative-date gating makes the control split real: the funder may have trading authority, but not transfers-out; the administrator controls distributions on defined events; the recipient has statement/view access to verify reality.
+- **Committed capital is governed, not promised.** Once funds are inside a properly implemented Vehicle Account, they are subject to recipient restrictions, ledgering, and event procedures—reducing either party’s ability to claw back or redirect committed capital.
 
-- **The recipient’s upside is not merely promised—it is mechanically anchored.** Even if the funder stops funding, the recipient’s already-accrued allocation continues to reference a live invested pool. The recipient can still (i) earn market exposure on a larger capital base than they could typically assemble and (ii) continue to accrue allocation in whole-month increments (up to the cap), subject to the agreement’s rules.
+- **The control split is structural, not rhetorical.** Operative-date gating + an Independent Administrator makes the constraint real: the funder may have trading authority, but not transfers-out; the administrator controls distributions on defined events; the recipient has statement/view access to verify reality.
 
-- **The mechanism narrows the renegotiation surface.** Allowances re-open negotiation every month. Court outcomes re-open negotiation at exit under maximum conflict. The CWA pushes the wealth layer into defined events (Liquidity Events and termination unwind) with deterministic calculation and ledger netting.
+- **Upside is mechanically anchored.** Even if the funder stops funding, the recipient’s already-accrued allocation continues to reference a live invested pool, and allocation accrual continues by rule (up to the cap). The “asset” is not a promise—it’s a governed position tied to capital already in the pool.
 
-In short: **an allowance is a discretionary pattern; statutory transfer is an adversarial lottery.** The CWA is an attempt to create a third category: a verifiable, event-driven wealth mechanism where neither party holds unchecked leverage over the defined pool, enabling a clearer and more stable domestic price signal.
+- **Renegotiation is pushed to events, not moods.** Allowances reopen negotiation every month; court outcomes reopen negotiation at exit under maximum conflict. The CWA pushes the wealth layer into defined events (Liquidity Events and termination unwind) with deterministic calculation and ledger netting.
 
-*The CWA does not claim it is the only way to generate a domestic price signal. It is one concrete mechanism design that aims to balance leverage and make outcomes legible and verifiable ex ante.*
+**In short:** an allowance is a discretionary pattern; statutory transfer is an adversarial lottery. The CWA is an attempt to create a third category: a verifiable, event-driven wealth mechanism where neither party holds unchecked leverage over the defined pool—enabling a clearer and more stable domestic price signal.
 
+The CWA does not claim it is the only way to generate a domestic price signal. It is one concrete mechanism design that aims to balance leverage and make outcomes legible and verifiable **ex ante**.
 ### 3) “Does this incentivize strategic behavior?”
 
 **Answer:** **Yes—by design.** The point is to channel strategy into **cooperation** rather than adversarial extraction.
