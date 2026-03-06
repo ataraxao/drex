@@ -583,4 +583,4 @@ We cannot moralize our way out of a macroeconomic crisis. To save the domestic s
 The Cooperative Wealth Agreement (CWA) is an open-source mechanism, but the network of builders executing it is private. 
 
 To receive future protocol updates, structural defenses, and ongoing analysis of the relationship marketplace:
-**[Subscribe to ataraxao on Substack](https://ataraxao.substack.com/p/the-gravity-model-aligning-price)**
+**[Subscribe to ataraxao on Substack](https://ataraxao.substack.com)**
