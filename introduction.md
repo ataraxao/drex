@@ -206,7 +206,7 @@ Below is a 15-year illustration using the same baseline assumptions as Scenario 
 
 **Important note:** Child support cannot be contracted away. The CWA is **not** a replacement for statutory obligations to a child, and it does not attempt to waive them. However, in the legacy family-court environment, the child is often functionally weaponized as a leverage instrument—used to justify financial extraction from the Funding Party while simultaneously incentivizing disengagement, reduced cooperation, and even strategic separation as a form of **“price discovery.”** For this reason, it is analytically useful to model state-mandated child support cashflows against the CWA’s compounded wealth outcomes.
 
-**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year which would make a $5,000 monthly CWA contribution sustainable, in California *(Recipient Party income = $0, 50/50 custody for 2 children)*, state-mandated child support yields roughly **$40,000 to $47,000 per year** in depreciating fiat.
+**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year which would make a $5,000 monthly CWA contribution sustainable, in California *(Recipient Party income = $0, 50/50 custody for 2 children)*, state-mandated child support yields roughly **$41,000 per year**[^1] in depreciating fiat.
 
 **The CWA Yield (same window):** The deeper point is incentive dominance over time: even if child support is *X*, the expected compounding after the 50% vesting cap often exceeds *X* beyond year ~N *(illustratively, around Year 6–8 in this model)*. Concretely, comparing **Year 7 → Year 8**:
 
@@ -215,7 +215,7 @@ Below is a 15-year illustration using the same baseline assumptions as Scenario 
 - Implied one-year CWA “yield” on the Recipient Party’s share:  
   **$319,344 − $269,363 = $49,981 per year**
 
-So in that same interval, the cooperative path’s passive wealth increase for the Recipient Party (**~$49,981/year**) exceeds the modeled state extraction band (**$40,000–$47,000/year**), flipping the incentive gradient toward **cooperation** rather than adversarial dissolution.
+So in that same interval, the cooperative path’s passive wealth increase for the Recipient Party (**~$49,981/year**) exceeds the modeled state extraction band (**$40,000–$42,000/year**), flipping the incentive gradient toward **cooperation** rather than adversarial dissolution.
 
 ### The Nash Equilibrium of Cooperation
 
@@ -255,7 +255,7 @@ As Scenario C suggests, CWAs can be implemented across multiple financial tiers�
 
 ### Scenario D: The Mid-Market Break-Even Failsafe
 
-- **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support for one child *(Recipient Party income = $0, 50/50 custody)* yields roughly **$18,000 to $21,000 per year**.
+- **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support for one child *(Recipient Party income = $0, 50/50 custody)* yields roughly **$18,000 to $20,000 per year**.
 - **The CWA Yield:** By Year 7, the Recipient Party’s equity in the CWA is passively growing by **$19,993 per year**, safely neutralizing the state’s gravitational pull. Stated differently, once the Recipient Party has reached the 50% cap *(Year 5 in this model)*, a $2,000/month gross CWA contribution functions as roughly a **$1,000/month net “transfer” incentive** (because half of each marginal dollar remains the Funding Party’s). That **~$1,000/month** net contribution neutralizes roughly **$1,500–$1,800/month** in state incentives—meaning the CWA is **capital-efficient** as an incentive counterweight.
 
 ### Scenario E: Capital Resilience *(The 6-Month Income Interruption)*
@@ -429,7 +429,7 @@ A robust implementation can further reduce reliance on rosy market assumptions b
 
 ## Part VI: Market Visibility *(The Dock and the Ship)*
 
-Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*[^1], the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism *(vehicle + allocation + liquidity + unwind)* that a counterparty can inspect. However, **a ship is useless if it cannot be found**.
+Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*[^2], the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism *(vehicle + allocation + liquidity + unwind)* that a counterparty can inspect. However, **a ship is useless if it cannot be found**.
 
 ### The Current Zeitgeist *(The Mimetic Beach)*
 *A trust commons failure: cheap signaling degrades the signal-to-noise ratio.*
@@ -539,4 +539,6 @@ We cannot moralize our way out of a macroeconomic crisis. To save the domestic s
 
 ## Footnotes
 
-[^1]: Orion Taraban, *The Value of Others: Understanding the Economic Model of Relationships to Get (and Keep) More of What You Want in the Sexual Marketplace*.
+[^1]: California Department of Child Support Services, “Child Support Guideline Calculator,” accessed March 5, 2026.
+
+[^2]: Orion Taraban, *The Value of Others: Understanding the Economic Model of Relationships to Get (and Keep) More of What You Want in the Sexual Marketplace*.
