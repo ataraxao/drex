@@ -1,6 +1,6 @@
 # The Gravity Model: Aligning Price Signals in the Relationship Marketplace
 
-> **System Notice:** This is the open-source text version of *The Gravity Model*. For the canonical formatted version, future mechanism designs, and structural updates to the CWA, read the primary publication at **[Ataraxao on Substack](https://ataraxao.substack.com/p/the-gravity-model-aligning-price)**.
+> **System Notice:** This is the open-source text version of *The Gravity Model*. For the canonical formatted version, future mechanism designs, and structural updates to the CWA, read the primary publication at **[ataraxao on Substack](https://ataraxao.substack.com/p/the-gravity-model-aligning-price)**.
 
 ## Executive Summary
 
@@ -583,4 +583,4 @@ We cannot moralize our way out of a macroeconomic crisis. To save the domestic s
 The Cooperative Wealth Agreement (CWA) is an open-source mechanism, but the network of builders executing it is private. 
 
 To receive future protocol updates, structural defenses, and ongoing analysis of the relationship marketplace:
-**[Subscribe to Ataraxao on Substack](https://ataraxao.substack.com/p/the-gravity-model-aligning-price)**
+**[Subscribe to ataraxao on Substack](https://ataraxao.substack.com/p/the-gravity-model-aligning-price)**
