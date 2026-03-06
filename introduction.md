@@ -1,5 +1,7 @@
 # The Gravity Model: Aligning Price Signals in the Relationship Marketplace
 
+> **System Notice:** This is the open-source text version of *The Gravity Model*. For the canonical formatted version, future mechanism designs, and structural updates to the CWA, read the primary publication at **[Ataraxao on Substack](https://ataraxao.substack.com/p/the-gravity-model-aligning-price)**.
+
 ## Executive Summary
 
 The collapse of domestic household formation in the modern West is not a moral failing; it is the predictable result of **rational economic agents reacting to misaligned incentives**. By modeling macroeconomic price signals as **gravitational pull**, we can map the current relationship marketplace. This paper introduces the **Gravity Model** to explain modern sociological behaviors, predicts the **underperformance of common policy interventions**, and introduces a two-part structural solution: the **Cooperative Wealth Agreement (CWA)** and a verifying **Clearinghouse**, designed to save the domestic sphere through the **privatization and clarification of domestic equity**.
