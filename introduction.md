@@ -256,7 +256,7 @@ As Scenario C suggests, CWAs can be implemented across multiple financial tiers�
 ### Scenario D: The Mid-Market Break-Even Failsafe
 
 - **The Family Court Yield:** Assuming a gross active income of $150,000/year, state-mandated child support for one child *(Recipient Party income = $0, 50/50 custody)* yields roughly **$18,000 to $20,000 per year**.
-- **The CWA Yield:** By Year 7, the Recipient Party’s equity in the CWA is passively growing by **$19,993 per year**, safely neutralizing the state’s gravitational pull. Stated differently, once the Recipient Party has reached the 50% cap *(Year 5 in this model)*, a $2,000/month gross CWA contribution functions as roughly a **$1,000/month net “transfer” incentive** (because half of each marginal dollar remains the Funding Party’s). That **~$1,000/month** net contribution neutralizes roughly **$1,500–$1,800/month** in state incentives—meaning the CWA is **capital-efficient** as an incentive counterweight.
+- **The CWA Yield:** By Year 7, the Recipient Party’s equity in the CWA is passively growing by **$19,993 per year**, safely neutralizing the state’s gravitational pull. Stated differently, once the Recipient Party has reached the 50% cap *(Year 5 in this model)*, a $2,000/month gross CWA contribution functions as roughly a **$1,000/month net “transfer” incentive** (because half of each marginal dollar remains the Funding Party’s). That **~$1,000/month** net contribution neutralizes roughly **$1,500–$1,600/month** in state incentives—meaning the CWA is **capital-efficient** as an incentive counterweight.
 
 ### Scenario E: Capital Resilience *(The 6-Month Income Interruption)*
 
