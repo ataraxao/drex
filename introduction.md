@@ -366,9 +366,11 @@ A monthly allowance can be generous, but it is a weak price signal for the same 
 
 - **Statutory transfers / divorce outcomes:** uncertainty is dominated by **recipient-side leverage**. The payout is mediated by litigation dynamics, fact patterns, and a judge’s discretionary equity lens. The Funding Party cannot pre-commit to a deterministic outcome, and the Recipient Party cannot reliably price expected value without an adversarial process. The “signal” is noisy and dispute-driven.
 
-- **Monthly allowance:** uncertainty is dominated by **funding-side leverage**. The funder can stop, reduce, delay, or renegotiate at will. Even if sincere, the counterparty cannot verify durability or enforceability **ex ante**. The “signal” is cheap to mimic, easy to reverse, and therefore weak as a commitment instrument.
+- **Monthly allowance:** uncertainty is dominated by **funding-side leverage**. The funder can stop, reduce, delay, or renegotiate at will. Even if sincere, the counterparty cannot verify durability or enforceability **ex ante**. The “signal” is cheap to mimic, easy to reverse, and therefore weak as a commitment instrument.[^3]
 
-These are the same problem at opposite ends of the spectrum: excess unilateral leverage prevents a clean price signal from forming.
+These are mirror-image failure modes: excess leverage at either extreme prevents a clean price signal from forming. One side’s payoff is too contingent on a third party (court) or on the other party’s ongoing discretion.
+
+This is a classic hold-up dynamic: when one side can rewrite the payoff after the investment is made, the rational response is under-investment.[^4]
 
 #### What the CWA is trying to do instead: balance leverage via mechanism
 
@@ -379,7 +381,7 @@ The CWA attempts to land in a middle category where the wealth layer is:
 
 It does this by converting “relationship finance” from a payment pattern into an implemented process:
 
-- **Committed capital is governed, not promised.** Once funds are inside a properly implemented Vehicle Account, they are subject to recipient restrictions, ledgering, and event procedures—reducing either party’s ability to claw back or redirect committed capital.
+- **Committed capital is governed, not promised.** Once funds are inside a properly implemented Vehicle Account, they are subject to recipient restrictions, ledgering, and event procedures—reducing either party’s ability to claw back or redirect committed capital.[^5]
 
 - **The control split is structural, not rhetorical.** Operative-date gating + an Independent Administrator makes the constraint real: the funder may have trading authority, but not transfers-out; the administrator controls distributions on defined events; the recipient has statement/view access to verify reality.
 
@@ -449,7 +451,7 @@ A robust implementation can further reduce reliance on rosy market assumptions b
 
 ## Part VI: Market Visibility *(The Dock and the Ship)*
 
-Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*[^3], the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism *(vehicle + allocation + liquidity + unwind)* that a counterparty can inspect. However, **a ship is useless if it cannot be found**.
+Building upon psychologist Dr. Orion Taraban’s framework in *The Value of Others*[^6], the CWA represents the “Ship” itself: a quantitatively specified, pre-committed wealth mechanism *(vehicle + allocation + liquidity + unwind)* that a counterparty can inspect. However, **a ship is useless if it cannot be found**.
 
 ### The Current Zeitgeist *(The Mimetic Beach)*
 *A trust commons failure: cheap signaling degrades the signal-to-noise ratio.*
@@ -563,4 +565,10 @@ We cannot moralize our way out of a macroeconomic crisis. To save the domestic s
 
 [^2]: California Department of Child Support Services, “Child Support Guideline Calculator,” accessed March 5, 2026.
 
-[^3]: Orion Taraban, *The Value of Others: Understanding the Economic Model of Relationships to Get (and Keep) More of What You Want in the Sexual Marketplace*.
+[^3]: **Credible signaling vs. “cheap talk.”** In markets with asymmetric information, signals are only credible when they are *costly to fake* and meaningfully constrain future options. This logic is central to signaling models in information economics (e.g., Spence’s work on signaling, recognized as part of the 2001 Nobel Prize in Economic Sciences). Relatedly, game-theoretic work on “cheap talk” formalizes why costless, easily reversible messages are rationally discounted.
+
+[^4]: **Incomplete contracts and the hold-up problem (relationship-specific investment).** Contract theory emphasizes that many real-world agreements are incomplete: they leave discretion at the exact moment bargaining power shifts. Hart and Holmström’s work (2016 Nobel Prize) explains how allocation of control and pre-specified decision rules can reduce opportunistic renegotiation and “hold-up” dynamics. The CWA does not “complete” the relationship contract; it *narrows* one major incompleteness by making the wealth layer for a defined pool legible ex ante (formula + ledger + event execution).
+
+[^5]: **Credibility, time inconsistency, and commitment.** A core result in macro/policy design is that promises about the future are not automatically credible when incentives can change over time (“time inconsistency”). Kydland and Prescott’s work (recognized by the 2004 Nobel Prize) is foundational in explaining why *institutional/structural commitments* matter for credibility. The CWA uses a private governance structure (controls + administrator + event procedures) as a practical credibility device for the defined pool. 
+
+[^6]: Orion Taraban, *The Value of Others: Understanding the Economic Model of Relationships to Get (and Keep) More of What You Want in the Sexual Marketplace*.
