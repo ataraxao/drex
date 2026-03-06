@@ -129,13 +129,13 @@ A critical feature of the CWA is that it remains a strictly **at-will** agreemen
 
 While either party can trigger the unwind, the math disincentivizes it. By mathematically auditing the outcomes, a critical failsafe emerges: after a certain period (e.g., Year 6), the compounded annual unrealized capital growth from this **base-capital vesting mechanism** can exceed the financial benefits calculated from theoretical state-mandated child support payments. The CWA quantitatively incentivizes a cooperative relationship for the rational economic actor, rather than incentivizing liquidating the relationship in family court for financial reasons.
 
-### The Failure State (Or: Why the CWA Must Be Enforced)
+### The Failure State (Why Enforceability Matters)
 
-A common legal critique is that a judge may refuse to enforce the CWA on public-policy grounds. If that happens, the dispute does not necessarily land in “family court” with a clean statutory estate-splitting framework—especially where the parties are not married and have maintained strict financial separation.
+A common legal critique is that a court may refuse to enforce a private agreement that touches a domestic relationship, citing public policy or unconscionability concerns.
 
-Instead, the conflict often reverts to a **civil court** posture: fact-intensive claims about reliance, contributions, and alleged enrichment (e.g., unjust enrichment/quantum meruit, promissory estoppel, constructive trust, joint venture, partition). That arena is not automatically safer—it is simply a different battlefield, and it can become a narrative-and-evidence war with high variance.
+But if the CWA is voided, the system does not automatically “fall back” to a clean substitute that protects the Recipient Party. In a non-marriage, strict-separation posture, the baseline often reverts toward **separate property**: the Funding Party retains control of their sovereign assets, and any *unvested* expectations the Recipient Party had inside the cooperative mechanism can evaporate. What remains is typically a **high-variance civil battlefield** (equitable claims, fact-intensive narratives, and discretionary outcomes), not a deterministic payout rule.
 
-In that default state, the Funding Party’s separate property posture is often strongest, while the Recipient Party’s *unvested* domestic equity expectations are the most fragile. The CWA is not a “shield for the rich”; it is the deterministic mechanism that makes domestic equity legible and payable by rule rather than by litigation.
+That is the point: **enforceability is not about shielding the wealthy; it is about making domestic equity legible, portable, and predictable.** Remove the mechanism and you often restore uncertainty and leverage games—where domestic contribution can end up priced at zero (or priced only after expensive litigation).
 
 *Before the quantitative treatment, note that the CWA is not a moral theory; it is a mechanism. The most common objections are addressed immediately after the quantitative section.*
 
