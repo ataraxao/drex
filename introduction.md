@@ -358,6 +358,8 @@ The Gravity Model is not a total theory of love or intimacy. It is an **incentiv
 
 **Answer:** No. A monthly allowance is a discretionary cashflow. The CWA is a **verifiable mechanism** designed to produce a **clean domestic price signal** by balancing leverage and reducing discretionary uncertainty on *both* sides.
 
+A discretionary allowance or lifestyle promise can feel like *company scrip*: useful in the moment, but not a portable, sovereign position—because the “asset” is the Funding Party’s ongoing discretion.
+
 A monthly allowance can be generous, but it is a weak price signal for the same core reason that court-adjudicated transfers (divorce/property support outcomes) are weak price signals: **the outcome is not mechanically legible ex ante.** It is contingent—either on the recipient’s leverage through the state, or on the funder’s leverage through discretion. When one side can unilaterally reshape the payoff, a stable market-visible signal cannot form.
 
 #### Allowance vs. statutory transfer: the same failure mode at opposite extremes
