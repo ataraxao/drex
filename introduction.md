@@ -383,7 +383,7 @@ It does this by converting “relationship finance” from a payment pattern int
 
 - **Committed capital is governed, not promised.** Once funds are inside a properly implemented Vehicle Account, they are subject to recipient restrictions, ledgering, and event procedures—reducing either party’s ability to claw back or redirect committed capital.[^5]
 
-- **The control split is structural, not rhetorical.** Operative-date gating + an Independent Administrator makes the constraint real: the funder may have trading authority, but not transfers-out; the administrator controls distributions on defined events; the recipient has statement/view access to verify reality.
+- **The control split is structural, not rhetorical.** Operative-date gating + an Independent Administrator makes the constraint real: the funder may have trading authority, but not transfers-out; the administrator controls distributions on defined events; the recipient has statement/view access to verify reality.[^4]
 
 - **Upside is mechanically anchored.** Even if the funder stops funding, the recipient’s already-accrued allocation continues to reference a live invested pool, and allocation accrual continues by rule (up to the cap). The “asset” is not a promise—it’s a governed position tied to capital already in the pool.
 
