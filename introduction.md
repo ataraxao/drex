@@ -367,7 +367,7 @@ A monthly allowance can be generous, but it is a weak price signal for the same 
 
 - **Statutory transfers / divorce outcomes:** uncertainty is dominated by **recipient-side leverage**. The payout is mediated by litigation dynamics, fact patterns, and a judge’s discretionary equity lens. The Funding Party cannot pre-commit to a deterministic outcome, and the Recipient Party cannot reliably price expected value without an adversarial process. The “signal” is noisy and dispute-driven.
 
-- **Monthly allowance:** uncertainty is dominated by **funding-side leverage**. The funder can stop, reduce, delay, or renegotiate at will. Even if sincere, the counterparty cannot verify durability or enforceability **ex ante**. The “signal” is cheap to mimic, easy to reverse, and therefore weak as a commitment instrument.[^3]
+- **Monthly allowance:** uncertainty is dominated by **funding-side leverage**. The funder can stop, reduce, delay, or renegotiate at will. Even if sincere, the counterparty cannot verify durability or enforceability **ex ante**. The “signal” is cheap to mimic because it doesn’t constrain future options: it can be stopped or resized at will—so it’s discounted as a commitment device.[^3]
 
 These are mirror-image failure modes: excess leverage at either extreme prevents a clean price signal from forming. One side’s payoff is too contingent on a third party (court) or on the other party’s ongoing discretion.
 
