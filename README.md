@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/license-CC0_1.0-green)
 ![Status](https://img.shields.io/badge/status-Active_Deployment-orange)
 
+**Canonical Whitepaper & Protocol Updates:** [ataraxao on Substack](https://ataraxao.substack.com/p/the-gravity-model-aligning-price)
+
 **The CWA is a private, deterministic legal and financial protocol designed to privatize domestic equity.** It functions as a wealth-only, event-driven governance wrapper for a ring-fenced capital pool, replacing subjective family law APIs with strict corporate contract law, algorithmic vesting, and a deterministic unwind.
 
 ---
