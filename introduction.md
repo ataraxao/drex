@@ -361,7 +361,7 @@ The Gravity Model is not a total theory of love or intimacy. It is an **incentiv
 A discretionary allowance or lifestyle promise can feel like *company scrip*: useful in the moment, but not a portable, sovereign position—because the “asset” is the Funding Party’s ongoing discretion.
 
 
-A monthly allowance can be generous, but it is a weak price signal for the same core reason that court-adjudicated transfers (divorce/property support outcomes) are weak price signals: the payoff is not mechanically legible ex ante. It is contingent—either on the recipient’s leverage through the state, or on the funder’s leverage through discretion. **A stable price signal requires that neither side (nor a third party) can rewrite the payoff after the fact; once the outcome is contingent on either court discretion or unilateral goodwill, the signal degrades into noise.** When one side can unilaterally reshape the payoff, a stable, market-visible signal cannot form.
+A monthly allowance can be generous, but it is a weak price signal for the same core reason that court-adjudicated transfers (divorce/property support outcomes) are weak price signals: the payoff is not mechanically legible ex ante. It is contingent—either on the recipient’s leverage through the state, or on the funder’s leverage through discretion. **A stable price signal requires that neither side (nor a third party) can rewrite the payoff after the fact; once the outcome is contingent on either court discretion or unilateral goodwill, the signal degrades into noise.**
 
 #### Allowance vs. statutory transfer: mirror-image failure modes
 
