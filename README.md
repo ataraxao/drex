@@ -203,3 +203,23 @@ since those are the core dispute-surface minimizers.
 
 Attribution is not required under CC0, but if you reference the origin:
 - “Cooperative Wealth Governance Agreement (CWA) — CC0 public template.”
+
+---
+
+## 📡 Protocol Updates
+
+The CWA is an open-source mechanism, but the network of builders executing it is private. 
+
+For macroeconomic analysis of the relationship marketplace, structural defenses of the CWA, and notifications regarding v1.1 protocol updates, subscribe to the primary publication:
+
+**[Join the Clearinghouse on Substack](---
+
+## 📡 Protocol Updates & The Clearinghouse
+
+The CWA is an open-source mechanism, but the network of builders executing it is private. 
+
+For macroeconomic analysis of the relationship marketplace, structural defenses of the CWA, and notifications regarding v1.1 protocol updates, subscribe to the primary publication:
+
+**[ataraxao on Substack](https://ataraxao.substack.com/)**
+
+---
