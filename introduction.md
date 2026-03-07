@@ -74,7 +74,7 @@ This scope condition matters: it prevents the model from being misread as **mora
 
 ## Part III: The Limited Impact of Proposed Interventions
 
-With this model in mind, we can expect **limited impact under stable incentives** of the commonly cited solutions for fixing the relationship marketplace.
+With this model in mind, we can expect **the commonly cited solutions to have limited impact under stable incentives.**
 
 ### Failed Proposal 1: The Legalization of Sex-Work
 
@@ -131,7 +131,7 @@ A critical feature of the CWA is that it remains a strictly **at-will** agreemen
 
 ### Disincentivizing the Early Exit
 
-While either party can trigger the unwind, the math disincentivizes it. By mathematically auditing the outcomes, a critical failsafe emerges: after a certain period (e.g., Year 6), the compounded annual unrealized capital growth from this **base-capital vesting mechanism** can exceed the financial benefits calculated from theoretical state-mandated child support payments. The CWA quantitatively incentivizes a cooperative relationship for the rational economic actor, rather than incentivizing liquidating the relationship in family court for financial reasons.
+While either party can trigger the unwind, the math disincentivizes it. By mathematically auditing the outcomes, a critical failsafe emerges: after a certain period (e.g., Year 6), the compounded annual unrealized capital growth from this **base-capital vesting mechanism** can exceed the financial benefits calculated from theoretical state-mandated child support payments. The CWA quantitatively incentivizes a cooperative relationship for the rational economic actor, rather than incentivizing one to liquidate the relationship in family court for financial reasons.
 
 ### The Failure State (Why Enforceability Matters)
 
@@ -218,7 +218,7 @@ Below is a 15-year illustration using the same baseline assumptions as Scenario 
 
 **Important note:** Child support cannot be contracted away. The CWA is **not** a replacement for statutory obligations to a child, and it does not attempt to waive them. However, in the legacy family-court environment, the child is often functionally weaponized as a leverage instrument—used to justify financial extraction from the Funding Party while simultaneously incentivizing disengagement, reduced cooperation, and even strategic separation as a form of **“price discovery.”** For this reason, it is analytically useful to model state-mandated child support cashflows against the CWA’s compounded wealth outcomes.
 
-**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year which would make a $5,000 monthly CWA contribution sustainable, in California *(Recipient Party income = $0, 50/50 custody for 2 children)*, state-mandated child support yields roughly **$41,000 per year**[^2] in depreciating fiat.
+**The Family Court Yield:** Assuming an individual with a gross active income of $250,000/year, which would make a $5,000 monthly CWA contribution sustainable, in California *(Recipient Party income = $0, 50/50 custody for 2 children)*, state-mandated child support yields roughly **$41,000 per year**[^2] in depreciating fiat.
 
 **The CWA Yield (same window):** The deeper point is incentive dominance over time: even if child support is *X*, the expected compounding after the 50% vesting cap often exceeds *X* beyond year ~N *(illustratively, around Year 6–8 in this model)*. Concretely, comparing **Year 7 → Year 8**:
 
@@ -249,7 +249,7 @@ In that regime, child support is pulled back toward its intended role: a **safet
 
 ### Scenario C: The Mid-Earning Professional *($2,000/mo Contribution)*
 
-To illustrate the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Funding Party earning approximately $150,000 per year which make a $2,000 per month CWA sustainable.
+To illustrate the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Funding Party earning approximately $150,000 per year which would make a $2,000 per month CWA sustainable.
 
 | Year | Funding Party Contributions (cum) | Joint Account Value | Recipient Party Vested % | Recipient Party Share if Separate | Funding Party Share if Separate |
 |---:|---:|---:|---:|---:|---:|
