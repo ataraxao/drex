@@ -44,7 +44,7 @@ The fundamental flaw is that **domestic value is often priced and liquidated und
 
 ## Part II: Explaining Observable Sociological Phenomena
 
-Using the Gravity Model, the seemingly chaotic behaviors of the modern relationship market are easily explained as **rational responses to economic physics**.
+Using the Gravity Model, several recurring behaviors in the modern relationship market can be interpreted as **rational responses to incentive structure**.
 
 ### Modern Western Dating Behaviors
 
