@@ -52,7 +52,7 @@ Using the Gravity Model, several recurring behaviors in the modern relationship 
 
 ### Cross-Border Dating (The “Passport Bro” Phenomenon)
 
-In underdeveloped economies, the price signals for women in the Workforce Career Sphere are relatively **weak**. Consequently, the **Domestic** and **Attention Economy** spheres stand relatively **strong**. This models why women in these regions maintain traditionally family-minded reputations, while some of those same destinations also support robust **attention and sex-tourism markets**.
+In underdeveloped economies, the price signals for women in the Workforce Career Sphere are relatively **weak**. Consequently, the **Domestic** and **Attention Economy** spheres stand relatively **strong**. This helps explain why women in these regions maintain traditionally family-minded reputations, while some of those same destinations also support robust **attention and sex-tourism markets**.
 
 ### Religious/Traditional Societies
 
@@ -82,7 +82,7 @@ Proponents argue that making sex cheap and legally accessible will return levera
 
 ### Failed Proposal 2: Government Subsidization
 
-Activists argue that subsidizing rent, food, or childcare will encourage family formation by addressing the “affordability crisis”. The Gravity Model implies this is **unlikely**. Even if women have more discretionary income, they will not opt for the domestic path in any appreciable way so long as the relative clarity of the Career and Attention Economy price signals **dominates** the opaque domestic signal.
+Activists argue that subsidizing rent, food, or childcare will encourage family formation by addressing the “affordability crisis.” The Gravity Model implies this is **unlikely**. Even if women have more discretionary income, they will not opt for the domestic path in any appreciable way so long as the relative clarity of the Career and Attention Economy price signals **dominates** the opaque domestic signal.
 
 In advanced Western economies with enshrined personal rights and free markets, walking back individual liberties to weaken the Career/Attention Economy spheres is a **non-starter**. Therefore, one viable non-coercive lever is to **drastically increase the price signal clarity** of the Domestic Sphere.
 
@@ -249,7 +249,7 @@ In that regime, child support is pulled back toward its intended role: a **safet
 
 ### Scenario C: The Mid-Earning Professional *($2,000/mo Contribution)*
 
-To illustrate the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Funding Party earning approximately $150,000 per year which would make a $2,000 per month CWA sustainable.
+To illustrate that the CWA is a scalable macroeconomic tool, we model a mid-market scenario. This represents a Funding Party earning approximately $150,000 per year, which would make a $2,000 per month CWA sustainable.
 
 | Year | Funding Party Contributions (cum) | Joint Account Value | Recipient Party Vested % | Recipient Party Share if Separate | Funding Party Share if Separate |
 |---:|---:|---:|---:|---:|---:|
