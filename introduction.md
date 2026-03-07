@@ -44,7 +44,7 @@ The fundamental flaw is that **domestic value is often priced and liquidated und
 
 ## Part II: Explaining Observable Sociological Phenomena
 
-Using the Gravity Model, several recurring behaviors in the modern relationship market can be interpreted as **rational responses to incentive structure**.
+Using the Gravity Model, several recurring behaviors in the modern relationship market can be interpreted as **rational responses to economic physics**.
 
 ### Modern Western Dating Behaviors
 
