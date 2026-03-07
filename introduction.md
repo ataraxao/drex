@@ -288,7 +288,7 @@ Assume a Funding Party in the $5,000/mo scenario experiences an income interrupt
 
 - By the end of Year 3, the LLC holds **$200,132**.
 - During the 6-month pause, even with $0 added, the underlying capital continues to compound, generating roughly **$7,000** in passive growth.
-- Crucially, this temporary cessation of funding does **not** constitute a breach of agreement. Because the Recipient Party is vested, their equity continues to grow passively even while the Funding Party’s active income is zero. The momentum of the accumulated capital sustains the relationship’s orbit until income resumes, effectively eliminating both legal jeopardy and financial panic.
+- Crucially, this temporary cessation of funding does **not** constitute a breach of agreement. Because the Recipient Party is vested, their equity continues to grow passively even while the Funding Party’s active income is zero. The momentum of the accumulated capital sustains the relationship’s orbit until income resumes, avoiding both legal jeopardy and financial panic.
 
 ### Scenario F: The Opportunity Cost *(CWA vs. The Corporate Path)*
 
@@ -474,14 +474,14 @@ While this heuristic succeeds in intimidating and filtering out some false claim
 The second half of the solution is the Clearinghouse—the metaphorical “Dock.” The Dock provides the visibility required to bypass behavioral stress testing entirely.
 
 1. Prospective partners gather at the Dock to inspect the Ships *(verified CWA term sheets backed by proof of capital)*.
-2. Because the financial competency is already mathematically verified, behavioral stress testing becomes obsolete. The parties can simply interview each other for actual soft-skills compatibility.
+2. Because the financial competency is already mathematically verified, there is less reliance on behavioral stress testing. The parties can simply interview each other for actual soft-skills compatibility.
 3. If there is a mutual fit, the parties execute the CWA.
 
 ---
 
 ## Part VII: Macro-Sociological Impact and Structural Defenses *(Speculative)*
 
-If the Gravity Model is adopted and the Cooperative Wealth Agreement becomes a standard market alternative, the reduction in acute psychological and financial trauma across society would be staggering. By fixing the base economic incentives, the CWA cures downstream sociological rot while defending itself against macro-level critiques.
+If the Gravity Model is adopted and the Cooperative Wealth Agreement becomes a standard market alternative, the reduction in acute psychological and financial trauma across society could be significant. By fixing the base economic incentives, the CWA could mitigate downstream sociological rot while defending itself against macro-level critiques.
 
 ### 1) Tournament Theory and the Cultural Pipeline
 
@@ -495,7 +495,7 @@ In the relationship marketplace, the public visibility of the CWA acts as this a
 
 Critics further argue that this dynamic will stratify society—leaving median earners unable to compete with the gravitational pull of a counterparty’s corporate salary. However, this ignores the direct macroeconomic result of the Tournament Theory pipeline.
 
-Because the CWA tournament successfully incentivizes a percentage of highly competent people to voluntarily exit the corporate workforce to pursue the domestic path, it acts as a powerful deflationary pressure on the corporate labor supply. As the labor pool shrinks, corporations are forced to compete for the remaining talent, naturally driving up wages across the board. The top tier of the market shifts the labor supply, creating a rising tide that lifts the median market.
+Because the CWA tournament successfully incentivizes a percentage of highly competent people to voluntarily exit the corporate workforce to pursue the domestic path, a visible domestic alternative could place marginal pressure on labor supply in certain high-skill segments. Whether that effect would be economically meaningful remains an open empirical question.
 
 ### 3) Asymmetric Risk Profiles and Path Interoperability
 
@@ -510,8 +510,8 @@ Critics will argue that if someone foregoes the corporate workforce to “train�
 
 - **The Mutually Exclusive Risk of Sex-Work:** The explicit sex-work subset carries reputational and interoperability risk that can permanently disqualify the participant from securing a high-value domestic partnership and can constrain corporate options. It is a one-way street with a strict biological expiration date.
 
-- **The Cannibalizing Nature of the Corporate Sphere:** Dedicating one’s peak family-formation years purely to a corporate path is highly antagonistic to domestic success. Furthermore, with the rapid advancement of Artificial Intelligence, someone risks climbing a structure that algorithms are actively dismantling, leaving them with neither domestic equity nor corporate utility.
-
+- **The Cannibalizing Nature of the Corporate Sphere:** Dedicating one’s peak family-formation years purely to a corporate path is highly antagonistic to domestic success.
+  
 ### 4) Structural Mitigation of Financial Entrapment
 
 Currently, one of the greatest sources of silent suffering in the West is individuals trapped in toxic or abusive marriages because they sacrificed their peak earning years to manage the domestic sphere. The CWA mitigates this systemic entrapment. Because of periodic Liquidity Events and a continuous vesting schedule, the Recipient Party builds an independent, sovereign war chest. They are never financially cornered. They stay in the relationship because they want to, not because they have to.
@@ -560,7 +560,7 @@ If these shifts do not occur *(or occur in the opposite direction)*, the model i
 
 ## Conclusion
 
-We cannot moralize our way out of a macroeconomic crisis. To save the domestic sphere, we must price it accurately. By utilizing the Cooperative Wealth Agreement and a verified Clearinghouse, we elevate relationship formation from an environment of mimetic deception and legal peril into an operational, verifiable, and highly lucrative reality for rational economic agents.
+We cannot moralize our way out of a macroeconomic crisis. To save the domestic sphere, we must price it accurately. By utilizing the Cooperative Wealth Agreement and a verified Clearinghouse, we elevate relationship formation from an environment of mimetic deception and legal peril into an operational, verifiable reality for rational economic agents.
 
 ---
 
