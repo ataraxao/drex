@@ -12,7 +12,7 @@ Read the full white paper at https://ataraxao.substack.com/p/the-gravity-model-a
 > (1) reduce “payment-for-performance” optics by making funding voluntary and non-enforceable;  
 > (2) implement “anti-smash-and-grab” restrictions (no unilateral transfers-out);  
 > (3) provide deterministic unwind mechanics and periodic Liquidity Events; and  
-> (4) define the Independent Administrator role as “event-only” (Liquidity Events and termination unwind) to reduce operational burden and improve real-world fillability.  
+> (4) define the Independent Administrator role as “event-only” (Liquidity Events, joint pro rata releases, and termination unwind) to reduce operational burden and improve real-world fillability.  
 > **THIS AGREEMENT DOES NOT PROMISE ANY SPECIFIC TAX CHARACTERIZATION.** Tax outcomes depend on facts and law.
 
 ---
@@ -54,8 +54,10 @@ This Agreement governs only the establishment, control, allocation mechanics, li
 ### 1.6A Not an Asset-Protection Plan (Separate Property Outside the Pool)
 For avoidance of doubt, this Agreement is a governance mechanism for the Vehicle Account only and is not intended as asset-protection planning for either Party’s separate property outside the Vehicle Account.
 
-### 1.6B Wealth-Only Version v1; No Shared Withdrawal / No Joint Asset Governance
-This version of the Agreement is intentionally **wealth-only**. It does **not** create any governance framework for Shared Withdrawals, jointly purchased tangible assets, tenants-in-common interests, LLC-titled property, reimbursement for carrying costs, possession/use rights, home purchases, vehicle purchases, or improvements to either Party’s separate property. Any such matter must be addressed, if at all, in a **separate lawyer-managed written agreement or addendum** that expressly states it is being incorporated.
+### 1.6B Wealth-Only Structure; No Shared Withdrawal / No Joint Asset Governance
+This Agreement is intentionally **wealth-only**. It does **not** create any governance framework for shared withdrawals for shared goals, jointly purchased tangible assets, tenants-in-common interests, LLC-titled property, reimbursement for carrying costs, possession/use rights, home purchases, vehicle purchases, or improvements to either Party’s separate property. Any such matter must be addressed, if at all, in a **separate lawyer-managed written agreement or addendum** that expressly states it is being incorporated.
+
+This structure also excludes any **unilateral** or **Party A-directed** in-term discretionary top-up distribution rail. During the Term, value leaves the Vehicle Account only through **Administrator Events** and ordinary custodial/legal deductions expressly permitted by this Agreement.
 
 ### 1.7 Mutual Consideration; Governance-Only (Non-Service)
 In consideration of the mutual covenants, dispute-resolution, notice, non-recourse, and scope-limiting commitments herein, each Party agrees to be bound by this Agreement’s governance mechanics once operative, including: (a) notice and anti-evasion provisions (Article II), (b) arbitration and enforcement provisions (Article VIII), (c) non-recourse limitation (Section 4.7), (d) mutual release and scope lock (Section 1.9), and (e) reporting cooperation provisions (Article IX), to the maximum extent permitted by law.
@@ -83,7 +85,7 @@ All property, accounts, real estate, and business interests owned by either Part
 (c) **Limited Purpose.** The Parties’ rights and obligations are limited to those expressly stated herein.
 
 ### 2.2A Recharacterization; Reporting Conformance (No Economic Change)
-If any governmental authority, custodian, court, or taxing authority characterizes the Vehicle LLC, the Vehicle Account, or any allocation/distribution hereunder as a partnership, joint venture, nominee arrangement, trust relationship, compensation, gift, support, or any other classification for any legal or tax purpose, the Parties agree to (i) cooperate in good faith to make any filings or reporting required by law as advised by their respective independent tax counsel, and (ii) implement any ministerial documentation reasonably required to conform to such characterization, **without changing** the Agreement’s core economic mechanics (Allocation Percentage, B Distribution Ledger, Liquidity Events, and Termination unwind), to the maximum extent permitted by law.
+If any governmental authority, custodian, court, or taxing authority characterizes the Vehicle LLC, the Vehicle Account, or any allocation/distribution hereunder as a partnership, joint venture, nominee arrangement, trust relationship, compensation, gift, support, or any other classification for any legal or tax purpose, the Parties agree to (i) cooperate in good faith to make any filings or reporting required by law as advised by their respective independent tax counsel, and (ii) implement any ministerial documentation reasonably required to conform to such characterization, **without changing** the Agreement’s core economic mechanics (Allocation Percentage, B Distribution Ledger, Liquidity Events, joint pro rata releases, and Termination unwind), to the maximum extent permitted by law.
 
 ### 2.3 Definitions
 For purposes of this Agreement:
@@ -112,7 +114,7 @@ For purposes of this Agreement:
 
 (l) **“B Designated Account”** means a brokerage account in Party B’s own name (or Party B’s revocable trust, if permitted by the custodian and designated in writing) that Party B designates in writing for receipt of in-kind and/or cash distributions under this Agreement.
 
-(m) **“B Distribution”** means a transfer of value from the Vehicle Account to Party B’s B Designated Account (in cash or in-kind securities), executed by the Independent Administrator pursuant to this Agreement. For avoidance of doubt, in **v1** direct payment of Party B’s personal expenses from the Vehicle Account is not permitted.
+(m) **“B Distribution”** means a transfer of value from the Vehicle Account to Party B’s B Designated Account (in cash or in-kind securities), executed by the Independent Administrator pursuant to an **Administrator Event**. For avoidance of doubt, direct payment of Party B’s personal expenses from the Vehicle Account is not permitted.
 
 (n) **“B Distribution Ledger”** means the running dollar ledger maintained by the Independent Administrator reflecting B Distributions actually executed under this Agreement, valued at the applicable Valuation Time for each entry.
 
@@ -122,11 +124,11 @@ For purposes of this Agreement:
 
 (q) **“Liquidity Election”** means Party B’s written election delivered during a Liquidity Window to request a Liquidity distribution under Section 7.3.
 
-(r) **“Administrator Event”** means only: (i) a Liquidity distribution under Section 7.3 upon a valid Liquidity Election; (ii) a Termination unwind under Section 7.2; or (iii) a dispute holdback and distribution of undisputed amounts under Article VIII.
+(r) **“Administrator Event”** means only: (i) a Liquidity distribution under Section 7.3 upon a valid Liquidity Election; (ii) a Termination unwind under Section 7.2; (iii) a dispute holdback and distribution of undisputed amounts under Article VIII; or (iv) a joint pro rata release under Section 5.1.
 
 (s) **“Admin Reserve”** means the minimum cash reserve maintained in the Vehicle Account to pay the Independent Administrator’s fees and costs.
 
-(t) **“Discretionary Top-Up”** means a Discretionary Gift Top-Up authorized by Party A under Section 5.1.
+(t) **“A Designated Account”** means a brokerage account or other custodial account in Party A’s own name (or Party A’s revocable trust, if permitted by the custodian and designated in writing) that Party A designates in writing for receipt of cash and/or in-kind distributions under this Agreement.
 
 ### 2.4 Notices; Deemed Delivery; Address Updates; Fallback Channel (Anti-Evasion)
 (a) **Notice Contact Information.** Each Party shall designate in writing to the other Party and to the Independent Administrator: (i) a Notice Email address (“**Notice Email**”), (ii) a physical mailing address (“**Notice Address**”), and (iii) an optional mobile number and/or messaging handle for the Fallback Channel (“**Fallback Contact**”). The Parties’ initial Notice Email, Notice Address, and Fallback Contact (if any) are set forth in Exhibit 0.
@@ -195,7 +197,7 @@ If the Agreement never becomes operative, neither Party shall have any claim for
 
 1. **Administrator Control Persistence; Non-Unilateral Removal.** The account/control instruments are implemented so that neither Party acting alone can remove the Independent Administrator or materially reduce the Independent Administrator’s authority over withdrawals/transfers-out, freezes, and distributions. Replacement or removal may occur only by: (i) joint written instruction of both Parties delivered in accordance with Section 2.4 and implemented pursuant to Exhibit 1, Section 12, or (ii) a final arbitration award or court order, plus any custodian-required formalities.
 
-2. **Party A = Trading Authority Only.** Party A’s authority is limited to Trading Authority only, with no authority to withdraw, transfer out, distribute, wire/ACH, journal assets out, add payout destinations, or otherwise move value out of the Vehicle Account.
+2. **Party A = Trading Authority Only.** Party A’s authority is limited to Trading Authority only, with no authority to withdraw, transfer out, distribute, wire/ACH, journal assets out, add payout destinations, or otherwise move value out of the Vehicle Account except through the Independent Administrator pursuant to an Administrator Event.
 
 3. **Permission-Change Control.** Changes to authorized users, account permissions, and standing disbursement instructions (including linked bank accounts, ACH/wire profiles, check/debit features, and transfer/journal permissions) require Independent Administrator execution/approval or are restricted by a custodian-supported lock such that neither Party can effect such changes unilaterally.
 
@@ -223,9 +225,8 @@ Any contributions to the Vehicle Account are voluntary. As a non-binding target 
 
 ### 3.5 Withdrawal Controls During Term (Anti-Smash-and-Grab)
 During the Term, neither Party may unilaterally withdraw or transfer assets out of the Vehicle Account. Withdrawals, transfers-out, and distribution-related liquidations may be made only upon:  
-(i) joint written instruction of both Parties delivered to the Independent Administrator; or  
-(ii) ordinary administrative actions required by the custodian (fees, settlement, mandatory withholding required by law); or  
-(iii) actions necessary to implement Administrator Events (including a protective freeze as described in Section 3.1B, transfers-out only).
+(i) ordinary administrative actions required by the custodian (fees, settlement, mandatory withholding required by law); or  
+(ii) actions necessary to implement Administrator Events (including a protective freeze as described in Section 3.1B, transfers-out only).
 
 ### 3.6 Administrator Not Investment Advisor
 The Independent Administrator is an administrative control and processing party only, and is not providing investment advice, tax advice, legal advice, portfolio management, or suitability determinations.
@@ -262,10 +263,10 @@ Party B’s Allocation Percentage shall not exceed a maximum cap of **[50.00]%**
 
 (a) **Cap Inclusive.** If Party B’s Allocation Percentage reaches the Allocation Cap (after rounding under Section 4.2B), it is deemed fully vested at the Allocation Cap and does not accrue further.
 
-(b) **Cap Applied at Calculation Time.** The Allocation Cap is applied each time the Allocation Percentage is used under this Agreement (including Liquidity Events and Termination), as of the applicable Valuation Time.
+(b) **Cap Applied at Calculation Time.** The Allocation Cap is applied each time the Allocation Percentage is used under this Agreement (including Liquidity Events, joint pro rata releases, and Termination), as of the applicable Valuation Time.
 
 ### 4.4 Measurement Rule
-Allocation and entitlements are calculated using the Vehicle Account’s value at the applicable Valuation Time when a calculation is required (including a Liquidity Event or the Termination Date).
+Allocation and entitlements are calculated using the Vehicle Account’s value at the applicable Valuation Time when a calculation is required (including a Liquidity Event, a joint pro rata release, or the Termination Date).
 
 ### 4.5 B Distribution Ledger; Anti-Double-Counting; Event-Only Administration
 (a) **Event-Only Ledger Duty.** The Independent Administrator’s ledger duty is limited to recording B Distributions actually executed under Administrator Events and does not require monthly reconciliations, performance tracking, or valuations outside the Valuation Times used for distributions.  
@@ -281,20 +282,22 @@ All allocations and entitlements in this Agreement are payable solely from asset
 
 ---
 
-## ARTICLE V — OPTIONAL DISCRETIONARY TOP-UPS
+## ARTICLE V — JOINT PRO RATA RELEASE
 
-### 5.1 Discretionary Top-Up (Optional; Non-Owed; Not Consideration)
-(a) **Discretionary Top-Up Authority.** Party A may, at Party A’s sole discretion, authorize one or more additional distributions to Party B (each, a “Discretionary Top-Up”) from the Vehicle Account during the Term.
+### 5.1 Joint Pro Rata Release
+(a) **Joint Release Authority Only.** During the Term, the Parties may jointly authorize a release of cash and/or securities from the Vehicle Account by joint written instruction delivered to the Independent Administrator.
 
-(b) **Form; Destination; Administrator Processing.** Any Discretionary Top-Up must be initiated by Party A by written instruction delivered to the Independent Administrator and copied to Party B, specifying the amount (or in-kind equivalent) and confirming the destination as Party B’s B Designated Account. The Independent Administrator may process a Discretionary Top-Up only to Party B’s B Designated Account and subject to Custodian Constraints.
+(b) **Pro Rata Allocation.** Any release under this Section shall be allocated between the Parties using Party B’s Allocation Percentage at the applicable Valuation Time. The portion allocated to Party B shall be delivered to Party B’s B Designated Account, and the remainder shall be delivered to Party A’s A Designated Account.
 
-(c) **Not Earned; Not Reliance; No Obligation.** A Discretionary Top-Up is voluntary, non-owed, and may be made or not made in Party A’s sole discretion. Party B acknowledges that no Discretionary Top-Up is promised or expected, and Party B shall have no claim for reliance, expectation damages, arrears, or specific performance with respect to any Discretionary Top-Up.
+(c) **No Unilateral Right.** Neither Party has any unilateral right to an in-term distribution, withdrawal, transfer-out, or release from the Vehicle Account under this Section. Any release under this Section requires the affirmative written consent of both Parties.
 
-(d) **Not Compensation; No Services; No Consideration.** The Parties intend that any Discretionary Top-Up is not wages, compensation, or payment for services and is not consideration for any personal conduct, companionship, cohabitation, intimacy, or other services. No Party shall represent to any third party that a Discretionary Top-Up is a payment for services.
+(d) **Destination Restriction.** Any release under this Section may be made only to Party A’s A Designated Account and Party B’s B Designated Account in the pro rata amounts determined under subsection (b). No release under this Section may be made to any third-party payee or for direct payment of either Party’s personal expenses.
 
-(e) **Ledger Treatment (Anti-Double-Counting).** Each Discretionary Top-Up shall be treated as a **B Distribution** and recorded in the B Distribution Ledger at the applicable Valuation Time, and shall reduce (dollar-for-dollar) any future Liquidity Settlement Amounts and Party B’s Share at Termination under Sections 7.3 and 7.2, to prevent double counting.
+(e) **Ledger Treatment.** The portion of any release under this Section allocated to Party B shall be treated as a **B Distribution** and entered on the **B Distribution Ledger** at the applicable Valuation Time. The portion allocated to Party A shall not be entered on the B Distribution Ledger.
 
-(f) **No Effect on Allocation Percentage.** Discretionary Top-Ups do not modify the Allocation Percentage accrual schedule, the Allocation Cap, or any other formula in this Agreement unless amended in a signed writing by both Parties under Section 10.2.
+(f) **Effect on Future Calculations.** A release under this Section does not modify the Allocation Percentage accrual schedule, the Allocation Cap, or any other formula in this Agreement. Future Liquidity and Termination calculations shall be performed using the remaining Vehicle Account value at the applicable Valuation Time after giving effect to any completed release under this Section.
+
+(g) **No Obligation; No Reliance.** Nothing in this Section obligates either Party to consent to any release, and no Party shall have any claim for reliance, expectation damages, arrears, or specific performance based on the absence of any jointly authorized release under this Section.
 
 ---
 
@@ -592,7 +595,7 @@ Independent Administrator: [Name; Email; Address]
 Vehicle LLC: [Name; State of Formation]  
 Vehicle Account Identifier: [Account Number / Custodian]
 
-Party A Designated Account (“A Designated Account”): [Institution; Account Title (Party A); Identifier/Last-4; any custodian-required routing details]  
+Party A Designated Account (“A Designated Account”): [Institution; Account Title (Party A or permitted revocable trust); Identifier/Last-4; any custodian-required routing details]  
 Party B Designated Account (“B Designated Account”): [Institution; Account Title (Party B or permitted revocable trust); Identifier/Last-4; any custodian-required routing details]
 
 Designated Account Documentation. Prior to processing any distribution, the Independent Administrator must have on file documentation reasonably sufficient under custodian policy to confirm each Designated Account is titled to the applicable Party (or permitted trust), such as a custodial statement, confirmation letter, or equivalent.
@@ -619,6 +622,9 @@ Upon receipt of a timely **Liquidity Election** within the Liquidity Window, the
 (iii) distribute per Section 7.3.6 within the timeframe required by Section 7.3.5 to Party B’s B Designated Account, and  
 (iv) update the B Distribution Ledger per Section 7.3.7.
 
+## 5A. Joint Pro Rata Release
+Upon receipt of a joint written instruction signed by both Parties authorizing a release under Section 5.1 of the Agreement, the Independent Administrator may distribute the specified cash amount and/or in-kind securities pro rata between Party A and Party B in accordance with Section 5.1, subject to Custodian Constraints and the Recipient Restrictions in Section 2(d). The portion allocated to Party B shall be treated as a **B Distribution** and entered on the **B Distribution Ledger** at the applicable Valuation Time. The portion allocated to Party A shall not be entered on the B Distribution Ledger.
+
 ## 6. Termination Processing
 Upon receipt of an effective Termination Notice or Deemed Termination Event, the Independent Administrator shall:  
 (i) freeze the Vehicle Account as promptly as administratively possible (subject to Custodian Constraints),  
@@ -637,7 +643,7 @@ All distributions shall be delivered to the applicable Party’s Designated Acco
 ## 9. Fees (Pre-Authorized; Admin Reserve)
 (a) Fee Schedule (choose one or attach a schedule):
 - [ ] Hourly: $[__]/hour plus reasonable out-of-pocket expenses.
-- [ ] Per Event: $[__] per Liquidity distribution; $[__] per Termination unwind; plus expenses.
+- [ ] Per Event: $[__] per Liquidity distribution; $[__] per joint pro rata release; $[__] per Termination unwind; plus expenses.
 - [ ] Attached Schedule: [Attach].
 
 (b) Payment Source. The Parties authorize the Independent Administrator to deduct unpaid, earned fees and expenses attributable to Administrator Events from the Vehicle Account prior to distribution, consistent with custodian policy.  
@@ -673,7 +679,7 @@ Nothing requires the Independent Administrator or custodian to violate applicabl
 
 (b) **Implementation Confirmation (Email Sufficient).** After account opening and configuration (and after receipt of any custodian forms/control instruments needed to establish the authority split), the Independent Administrator may deliver the Implementation Confirmation referenced in Section 3.2A by email to both Parties. The Implementation Confirmation may state substantially:
 
-> “Based on the custodian permissions and/or control instruments provided to me, and subject to Custodian Constraints, the Vehicle Account has been implemented so that: (i) the Independent Administrator controls withdrawals/transfers-out, freezes, and distributions for Administrator Events; (ii) Party A has Trading Authority only and no withdrawals/transfers-out authority; (iii) Party B has view-only access and/or receives statements sufficient to observe holdings and activity; and (iv) changes to permissions/standing disbursement instructions require Independent Administrator approval or are subject to custodian locks preventing unilateral changes.”
+> “Based on the custodian permissions and/or control instruments provided to me, and subject to Custodian Constraints, the Vehicle Account has been implemented so that: (i) the Independent Administrator controls withdrawals/transfers-out, freezes, and distributions for Administrator Events; (ii) Party A has Trading Authority only and no withdrawals/transfers-out authority except through the Independent Administrator pursuant to an Administrator Event; (iii) Party B has view-only access and/or receives statements sufficient to observe holdings and activity; and (iv) changes to permissions/standing disbursement instructions require Independent Administrator approval or are subject to custodian locks preventing unilateral changes.”
 
 (c) **Exceptions.** If any portion of the Implementation Control Checklist cannot be satisfied due to Custodian Constraints, the Independent Administrator may note such limitation in the Implementation Confirmation, and the Agreement will remain non-operative unless a written exception is executed pursuant to Section 3.2A(c).
 
@@ -685,7 +691,7 @@ Independent Administrator (Acceptance): ___________________________  Date: _____
 
 # EXHIBIT 2 — RESERVED FOR SEPARATE LAWYER-MANAGED ADDENDUM
 
-This **v1** Agreement is intentionally **wealth-only**. It does **not** govern:
+This Agreement is intentionally **wealth-only**. It does **not** govern:
 
 - jointly purchased vehicles,
 - jointly purchased real estate,
@@ -744,7 +750,7 @@ The Vehicle LLC’s purpose is limited to holding the Vehicle Account consistent
 
 3. **Authority Split**  
    (a) Party A: Trading Authority only (placing trades within the Vehicle Account), with no authority to withdraw, transfer out, distribute, pledge, encumber, or borrow against Vehicle Account assets.  
-   (b) Independent Administrator: exclusive authority over withdrawals/transfers-out, freezes, distributions, Liquidity Events, termination unwind processing, and maintenance of the B Distribution Ledger, as described in Exhibit 1 and Appendix A (Implementation Paths).
+   (b) Independent Administrator: exclusive authority over withdrawals/transfers-out, freezes, distributions, Liquidity Events, joint pro rata releases, termination unwind processing, and maintenance of the B Distribution Ledger, as described in Exhibit 1 and Appendix A (Implementation Paths).
 
 4. **Anti-Bypass**  
 During the Term, the Vehicle LLC shall not open additional brokerage accounts intended to bypass this Agreement, borrow against Vehicle Account assets, pledge/encumber Vehicle Account assets, dissolve, or transfer ownership, except with Party B’s prior written consent and the Independent Administrator’s written consent (and subject to Custodian Constraints).
@@ -759,7 +765,7 @@ The Independent Administrator’s fee terms in Exhibit 1 are pre-authorized to b
 If the Independent Administrator resigns, the Parties shall use reasonable efforts to appoint a successor within sixty (60) days after the resignation notice date. The Parties may replace the Independent Administrator at any time by joint written instruction signed by both Parties delivered under Section 2.4 and implemented pursuant to Exhibit 1, Section 12. If no successor accepts appointment within the applicable period, withdrawals/transfers-out (other than those required by law or custodian policy) may be restricted as provided in Exhibit 1, Section 12 until a successor accepts appointment or a final arbitration award or court order directs further action.
 
 8. **Reserved**  
-Intentionally omitted in **v1**. This Agreement does not authorize the Vehicle LLC to acquire, hold, or govern tangible Joint Assets.
+This Agreement does not authorize the Vehicle LLC to acquire, hold, or govern tangible Joint Assets.
 
 ---
 
@@ -778,22 +784,26 @@ Party B’s Allocation Percentage accrues at [__]% per **full calendar month** d
 No unilateral withdrawals. Transfers-out/distributions occur only as:
 - Liquidity Events (every 3 years, if elected by Party B), or
 - Termination unwind, or
-- Dispute holdback mechanics.
+- Dispute holdback mechanics, or
+- a joint pro rata release.
 
-This **v1** Agreement does **not** include Shared Withdrawals or Joint Asset purchase governance.
+This Agreement does **not** include shared withdrawals for shared goals, Joint Asset purchase governance, or discretionary in-term top-ups to Party B.
 
 5. **B Distributions Go to B’s Own Account**  
-B Distributions are delivered to Party B’s B Designated Account (cash or in-kind). In **v1**, paying Party B’s personal expenses directly from the Vehicle Account is not permitted.
+B Distributions are delivered to Party B’s B Designated Account (cash or in-kind) only through **Administrator Events**. Paying Party B’s personal expenses directly from the Vehicle Account is not permitted.
 
-6. **Deterministic Unwind**  
+6. **Joint Pro Rata Release Requires Mutual Consent**  
+During the Term, the Parties may release value from the Vehicle Account only by joint written instruction of both Parties. Any such release is allocated pro rata using Party B’s Allocation Percentage at the applicable Valuation Time, with Party B’s portion delivered to Party B’s B Designated Account and entered on the B Distribution Ledger, and Party A’s portion delivered to Party A’s A Designated Account.
+
+7. **Deterministic Unwind**  
 Upon termination, Party B’s payout is:  
 `max(0, (Vehicle Value × Allocation %) − B Distribution Ledger)`  
 with the remainder to Party A (net of fees/withholding as required).
 
-7. **Administrator Role**  
+8. **Administrator Role**  
 Independent Administrator is event-only (no investment advice, no monthly accounting), and may rely on facially valid notices and awards/orders.
 
-8. **Recipient Restrictions (Administrator Transfers-Out)**  
+9. **Recipient Restrictions (Administrator Transfers-Out)**  
 Transfers-out/distributions may be made only to Party A’s A Designated Account, Party B’s B Designated Account, and permitted fee/withholding payees, except as required by a final award/order or law.
 
 ---
@@ -826,7 +836,7 @@ Regardless of the custodian, the implementation should achieve, in substance:
 **Typical pattern:**
 - A trust company or escrow-capable institution holds a brokerage account **as trustee/escrow agent** (legal title or control), with written instructions that mirror Administrator Events.
 - Party A may be permitted to provide **investment directions** (or the trustee may permit a sub-advisor), but the trustee/escrow agent retains **exclusive distribution authority**.
-- Liquidity Events and termination unwind are executed by the trustee/escrow agent pursuant to the Agreement’s formulas and a ledger.
+- Liquidity Events, joint pro rata releases, and termination unwind are executed by the trustee/escrow agent pursuant to the Agreement’s formulas and instructions.
 
 **Strengths:** Strong control integrity; built for restricted distributions.  
 **Constraints:** Higher setup cost; more institutional onboarding; trustee/escrow acceptance varies; may require a separate trust/escrow instrument that incorporates the Agreement’s event logic.
@@ -836,7 +846,7 @@ Regardless of the custodian, the implementation should achieve, in substance:
 - Vehicle Account is held at a qualified custodian via an advisory platform (RIA or institutional channel).
 - Party A (or an advisor) has trading authority within guardrails.
 - Disbursements are restricted by custodian policy such that withdrawals require (i) the Independent Administrator’s approval/signature and (ii) a pre-set recipient whitelist (Designated Accounts only).
-- Administrator Events are processed via a standard operating procedure: receipt of election/notice → valuation time → calculation → in-kind transfer or cash distribution → ledger update.
+- Administrator Events are processed via a standard operating procedure: receipt of election/notice/joint instruction → valuation time if applicable → calculation if applicable → in-kind transfer or cash distribution → ledger update where applicable.
 
 **Strengths:** Often feasible where retail brokerage features are limited; institutional operations can support recipient whitelists and controlled disbursements.  
 **Constraints:** Requires cooperation of the platform/custodian; specific “two-key” disbursement controls are not universal; may increase ongoing administration.
