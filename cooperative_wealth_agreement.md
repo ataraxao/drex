@@ -1,6 +1,6 @@
 # COOPERATIVE WEALTH GOVERNANCE AGREEMENT
 ## (WEALTH-ONLY; EVENT-DRIVEN; RING-FENCED POOL)
-*Independent Administrator–Controlled Restricted LLC Brokerage Account; Deterministic Unwind; Periodic Liquidity Events; Joint Asset Protocol; Minimal Disclosure Process*
+*Independent Administrator–Controlled Restricted LLC Brokerage Account; Deterministic Unwind; Periodic Liquidity Events; Minimal Disclosure Process*
 
 Read the full white paper at https://ataraxao.substack.com/p/the-gravity-model-aligning-price
 
@@ -30,9 +30,8 @@ Party A and Party B may be referred to individually as a “**Party**” and col
 ### 1.2 Purpose
 The Parties desire to establish a cooperative wealth-building vehicle with:  
 (i) a restricted brokerage account held by a Vehicle LLC and controlled for transfers-out and distributions by a neutral Independent Administrator;  
-(ii) deterministic unwind mechanics;  
-(iii) periodic Liquidity Events allowing Party B to receive value into an account in Party B’s own name; and  
-(iv) a minimal joint-asset governance protocol for tangible assets purchased using Vehicle Account funds.
+(ii) deterministic unwind mechanics; and  
+(iii) periodic Liquidity Events allowing Party B to receive value into an account in Party B’s own name.
 
 ### 1.3 Relationship Neutrality; No Personal Obligation
 Nothing in this Agreement creates an obligation for either Party to maintain any personal relationship, shared household, living arrangement, or companionship. Either Party may terminate this Agreement as provided herein.
@@ -46,14 +45,17 @@ Except as expressly stated in a signed amendment, neither Party is obligated to 
 **For avoidance of doubt, voluntary payments or assistance by either Party for the other Party’s personal expenses—whether from separate property or otherwise—do not create any obligation to continue such payments or assistance and do not modify this Agreement unless expressly set forth in a signed written amendment.**
 
 ### 1.6 Scope Boundary (Not Household / Not Support)
-This Agreement governs only the establishment, control, allocation mechanics, liquidity mechanics, and termination unwind of the Vehicle Account (and any Joint Assets purchased with Vehicle Account funds). This Agreement does not govern living arrangements, household budgeting, personal support, or relationship expectations.
+This Agreement governs only the establishment, control, allocation mechanics, liquidity mechanics, and termination unwind of the Vehicle Account. This Agreement does not govern living arrangements, household budgeting, personal support, relationship expectations, shared purchases, co-owned property, vehicles, real estate, or any other off-pool assets.
 
 **No Collateral Agreements; No Interpretive Use.** Any separate writings, understandings, communications, or arrangements between the Parties regarding living arrangements, personal expenses, companionship, or other relationship-adjacent matters (collectively, “**Collateral Arrangements**”) are outside the scope of this Agreement. To the maximum extent permitted by law, Collateral Arrangements (i) shall not be used to interpret, vary, supplement, or contradict this Agreement, (ii) shall not be used to imply any obligation, reliance, entitlement, or “support-like” duty under this Agreement, and (iii) shall not expand remedies beyond those expressly stated herein. No Collateral Arrangement shall be deemed incorporated into this Agreement unless this Agreement expressly states so in a signed writing that specifically identifies the Collateral Arrangement to be incorporated.
 
-**For avoidance of doubt,** Allocation Percentage accrual is not conditioned on cohabitation, conduct, services, exclusivity, intimacy, or relationship continuation, and functions solely as a measurement convention for distribution of assets actually held in the Vehicle Account (and Joint Asset proceeds) upon Administrator Events.
+**For avoidance of doubt,** Allocation Percentage accrual is not conditioned on cohabitation, conduct, services, exclusivity, intimacy, or relationship continuation, and functions solely as a measurement convention for distribution of assets actually held in the Vehicle Account upon Administrator Events.
 
 ### 1.6A Not an Asset-Protection Plan (Separate Property Outside the Pool)
 For avoidance of doubt, this Agreement is a governance mechanism for the Vehicle Account only and is not intended as asset-protection planning for either Party’s separate property outside the Vehicle Account.
+
+### 1.6B Wealth-Only Version v1; No Shared Withdrawal / No Joint Asset Governance
+This version of the Agreement is intentionally **wealth-only**. It does **not** create any governance framework for Shared Withdrawals, jointly purchased tangible assets, tenants-in-common interests, LLC-titled property, reimbursement for carrying costs, possession/use rights, home purchases, vehicle purchases, or improvements to either Party’s separate property. Any such matter must be addressed, if at all, in a **separate lawyer-managed written agreement or addendum** that expressly states it is being incorporated.
 
 ### 1.7 Mutual Consideration; Governance-Only (Non-Service)
 In consideration of the mutual covenants, dispute-resolution, notice, non-recourse, and scope-limiting commitments herein, each Party agrees to be bound by this Agreement’s governance mechanics once operative, including: (a) notice and anti-evasion provisions (Article II), (b) arbitration and enforcement provisions (Article VIII), (c) non-recourse limitation (Section 4.7), (d) mutual release and scope lock (Section 1.9), and (e) reporting cooperation provisions (Article IX), to the maximum extent permitted by law.
@@ -62,7 +64,7 @@ In consideration of the mutual covenants, dispute-resolution, notice, non-recour
 The Parties acknowledge that tax characterization and reporting depend on facts and law. Nothing in this Agreement is a promise, representation, or guarantee that any transfer, distribution, or allocation under this Agreement will be treated as a “gift,” “income,” “compensation,” “support,” “partnership distribution,” or any other specific characterization for tax purposes.
 
 ### 1.9 Mutual Release; Scope Lock (To the Maximum Extent Permitted by Law)
-(a) **Mutual Release (Relationship-Adjacent Claims).** To the maximum extent permitted by applicable law, each Party releases and waives any claim against the other Party’s separate property arising out of or relating to the Parties’ personal relationship (if any), including any claim styled as implied contract, quasi-contract, promissory estoppel, unjust enrichment, reliance/expectation damages, constructive trust, or other “support-like” relief, except for claims (i) expressly arising under this Agreement and payable solely from the Vehicle Account (and Joint Assets purchased with Vehicle Account funds), or (ii) arising from fraud, embezzlement, or intentional misappropriation.
+(a) **Mutual Release (Relationship-Adjacent Claims).** To the maximum extent permitted by applicable law, each Party releases and waives any claim against the other Party’s separate property arising out of or relating to the Parties’ personal relationship (if any), including any claim styled as implied contract, quasi-contract, promissory estoppel, unjust enrichment, reliance/expectation damages, constructive trust, or other “support-like” relief, except for claims (i) expressly arising under this Agreement and payable solely from the Vehicle Account, or (ii) arising from fraud, embezzlement, or intentional misappropriation.
 
 (b) **No Expansion of Remedies; Exclusive Remedies.** The Parties intend that remedies for disputes relating to this Agreement are limited to: (i) specific performance and injunctive relief to preserve or implement the Vehicle Account mechanics; (ii) distribution holdback and release of undisputed amounts; and (iii) in-pool true-ups/setoffs expressly permitted herein, **except as expressly provided in Section 6.3**. No Party may seek damages or recovery against the other Party’s separate property for any entitlement claimed under this Agreement. **Except for the narrow restitution remedy in Section 6.3 and any non-waivable rights preserved by Section 1.9(c), the remedies stated in this Agreement are the Parties’ exclusive remedies with respect to the subject matter of this Agreement.**
 
@@ -73,7 +75,7 @@ The Parties acknowledge that tax characterization and reporting depend on facts 
 ## ARTICLE II — DEFINITIONS; SEPARATE PROPERTY; CHARACTERIZATION; NOTICES; ALTERNATIVE SERVICE
 
 ### 2.1 Separate Property
-All property, accounts, real estate, and business interests owned by either Party prior to the Execution Date, or acquired thereafter in that Party’s individual name (excluding the Vehicle Account and any Joint Assets defined below), shall remain that Party’s sole and separate property.
+All property, accounts, real estate, and business interests owned by either Party prior to the Execution Date, or acquired thereafter in that Party’s individual name (excluding the Vehicle Account), shall remain that Party’s sole and separate property.
 
 ### 2.2 No Partnership; No Fiduciary Duty Between Parties; Limited Purpose
 (a) **No Partnership / Joint Venture.** The Parties intend that this Agreement does not create a general partnership, limited partnership, joint venture, or fiduciary relationship between the Parties.  
@@ -86,7 +88,7 @@ If any governmental authority, custodian, court, or taxing authority characteriz
 ### 2.3 Definitions
 For purposes of this Agreement:
 
-(a) **“Vehicle LLC”** means [Vehicle LLC Name], a [State] limited liability company that is 100% owned by Party A (single-member), formed to hold the Vehicle Account and (optionally) to hold or facilitate acquisition of Joint Assets.
+(a) **“Vehicle LLC”** means [Vehicle LLC Name], a [State] limited liability company that is 100% owned by Party A (single-member), formed to hold the Vehicle Account.
 
 (b) **“Vehicle Account”** means the restricted investment/brokerage account opened in the name of the Vehicle LLC and governed by Article III, controlled as described in Exhibit 1.
 
@@ -110,25 +112,21 @@ For purposes of this Agreement:
 
 (l) **“B Designated Account”** means a brokerage account in Party B’s own name (or Party B’s revocable trust, if permitted by the custodian and designated in writing) that Party B designates in writing for receipt of in-kind and/or cash distributions under this Agreement.
 
-(m) **“B Distribution”** means a transfer of value from the Vehicle Account to Party B’s B Designated Account (in cash or in-kind securities), executed by the Independent Administrator pursuant to an Administrator Event. For avoidance of doubt: (i) a Shared Withdrawal for shared goals is not a B Distribution unless expressly designated as such in a joint written instruction; and (ii) payment of Party B’s personal expenses from the Vehicle Account is not permitted unless both Parties provide a one-time joint written instruction expressly designating such payment as a B Distribution for ledger purposes.
+(m) **“B Distribution”** means a transfer of value from the Vehicle Account to Party B’s B Designated Account (in cash or in-kind securities), executed by the Independent Administrator pursuant to this Agreement. For avoidance of doubt, in **v1** direct payment of Party B’s personal expenses from the Vehicle Account is not permitted.
 
 (n) **“B Distribution Ledger”** means the running dollar ledger maintained by the Independent Administrator reflecting B Distributions actually executed under this Agreement, valued at the applicable Valuation Time for each entry.
 
-(o) **“Shared Withdrawal”** means a withdrawal/distribution from the Vehicle Account jointly agreed by both Parties for shared goals pursuant to Section 5.1.
+(o) **“Liquidity Event Date”** means the third (3rd) anniversary of the Operative Date and each three (3) year anniversary thereafter.
 
-(p) **“Joint Asset”** means any tangible asset acquired in whole or in part using Vehicle Account funds and titled to the Parties as tenants in common (or equivalent), or titled to the Vehicle LLC if the Parties elect that approach in writing, governed by Exhibit 2.
+(p) **“Liquidity Window”** means the thirty (30) day period beginning on each Liquidity Event Date.
 
-(q) **“Liquidity Event Date”** means the third (3rd) anniversary of the Operative Date and each three (3) year anniversary thereafter.
+(q) **“Liquidity Election”** means Party B’s written election delivered during a Liquidity Window to request a Liquidity distribution under Section 7.3.
 
-(r) **“Liquidity Window”** means the thirty (30) day period beginning on each Liquidity Event Date.
+(r) **“Administrator Event”** means only: (i) a Liquidity distribution under Section 7.3 upon a valid Liquidity Election; (ii) a Termination unwind under Section 7.2; or (iii) a dispute holdback and distribution of undisputed amounts under Article VIII.
 
-(s) **“Liquidity Election”** means Party B’s written election delivered during a Liquidity Window to request a Liquidity distribution under Section 7.3.
+(s) **“Admin Reserve”** means the minimum cash reserve maintained in the Vehicle Account to pay the Independent Administrator’s fees and costs.
 
-(t) **“Administrator Event”** means only: (i) a Liquidity distribution under Section 7.3 upon a valid Liquidity Election; (ii) a Termination unwind under Section 7.2; or (iii) a dispute holdback and distribution of undisputed amounts under Article VIII.
-
-(u) **“Admin Reserve”** means the minimum cash reserve maintained in the Vehicle Account to pay the Independent Administrator’s fees and costs.
-
-(v) **“Discretionary Top-Up”** means a Discretionary Gift Top-Up authorized by Party A under Section 5.4.
+(t) **“Discretionary Top-Up”** means a Discretionary Gift Top-Up authorized by Party A under Section 5.1.
 
 ### 2.4 Notices; Deemed Delivery; Address Updates; Fallback Channel (Anti-Evasion)
 (a) **Notice Contact Information.** Each Party shall designate in writing to the other Party and to the Independent Administrator: (i) a Notice Email address (“**Notice Email**”), (ii) a physical mailing address (“**Notice Address**”), and (iii) an optional mobile number and/or messaging handle for the Fallback Channel (“**Fallback Contact**”). The Parties’ initial Notice Email, Notice Address, and Fallback Contact (if any) are set forth in Exhibit 0.
@@ -166,7 +164,7 @@ If a dispute arises under this Agreement and a Party cannot, after reasonable ef
 Within thirty (30) days of the Execution Date, Party A shall use reasonable efforts to form the Vehicle LLC and the Parties shall attempt to establish the Vehicle Account at a major U.S. brokerage, bank, or trust company acceptable to both Parties. Failure to implement within 30 days is not a breach if caused by Custodian Constraints, Independent Administrator availability, or practical implementation delays.
 
 The Vehicle Account must be opened only in a structure that, to the extent permitted by Custodian Constraints:  
-(i) prevents unilateral withdrawals/transfers-out by either Party during the Term; and  
+(i) prevents unilateral withdrawals/transfers-out by either Party during the Term;  
 (ii) enables the Independent Administrator to execute Administrator Events without requiring further consent from either Party once the trigger conditions are met; and  
 (iii) limits Party A’s access to Trading Authority only (no transfers-out, no distributions, no pledges, no borrowing).
 
@@ -221,7 +219,7 @@ Any contributions to the Vehicle Account are voluntary. As a non-binding target 
 (iv) purchase private placements or materially illiquid securities; or  
 (v) hold any single non-index security position exceeding **[__]%** of Vehicle Account value at the applicable Valuation Time.  
 (d) **Default Portfolio.** If the Parties do not agree on changes, the Vehicle Account remains invested in its then-current holdings, and new contributions shall be invested in **[Default Fund/Ticker]** (or a substantially similar successor as the Independent Administrator reasonably determines if the default becomes unavailable).  
-(e) **Guardrail Breach Remedy (Limited to Pool).** If a final arbitration award determines Party A materially breached Section 3.4(c) and such breach materially impaired Vehicle Account value relative to a compliant posture, the arbitrator may order an in-pool true-up or setoff against Party A’s distribution under Section 7.2, limited strictly to assets in the Vehicle Account (and/or Joint Asset proceeds) and without recourse to Party A’s separate property.
+(e) **Guardrail Breach Remedy (Limited to Pool).** If a final arbitration award determines Party A materially breached Section 3.4(c) and such breach materially impaired Vehicle Account value relative to a compliant posture, the arbitrator may order an in-pool true-up or setoff against Party A’s distribution under Section 7.2, limited strictly to assets in the Vehicle Account and without recourse to Party A’s separate property.
 
 ### 3.5 Withdrawal Controls During Term (Anti-Smash-and-Grab)
 During the Term, neither Party may unilaterally withdraw or transfer assets out of the Vehicle Account. Withdrawals, transfers-out, and distribution-related liquidations may be made only upon:  
@@ -264,10 +262,10 @@ Party B’s Allocation Percentage shall not exceed a maximum cap of **[50.00]%**
 
 (a) **Cap Inclusive.** If Party B’s Allocation Percentage reaches the Allocation Cap (after rounding under Section 4.2B), it is deemed fully vested at the Allocation Cap and does not accrue further.
 
-(b) **Cap Applied at Calculation Time.** The Allocation Cap is applied each time the Allocation Percentage is used under this Agreement (including Liquidity Events, Shared Withdrawals, Joint Asset purchases, and Termination), as of the applicable Valuation Time.
+(b) **Cap Applied at Calculation Time.** The Allocation Cap is applied each time the Allocation Percentage is used under this Agreement (including Liquidity Events and Termination), as of the applicable Valuation Time.
 
 ### 4.4 Measurement Rule
-Allocation and entitlements are calculated using the Vehicle Account’s value at the applicable Valuation Time when a calculation is required (including a Liquidity Event, a mutually agreed withdrawal, a Joint Asset purchase, or the Termination Date).
+Allocation and entitlements are calculated using the Vehicle Account’s value at the applicable Valuation Time when a calculation is required (including a Liquidity Event or the Termination Date).
 
 ### 4.5 B Distribution Ledger; Anti-Double-Counting; Event-Only Administration
 (a) **Event-Only Ledger Duty.** The Independent Administrator’s ledger duty is limited to recording B Distributions actually executed under Administrator Events and does not require monthly reconciliations, performance tracking, or valuations outside the Valuation Times used for distributions.  
@@ -277,25 +275,15 @@ Allocation and entitlements are calculated using the Vehicle Account’s value a
 Under no circumstances shall Party B owe money back to Party A, the Vehicle LLC, or the Vehicle Account due to subsequent market declines, valuation changes, or the timing of Liquidity distributions. All entitlement calculations use the `max(0, …)` structure stated in this Agreement.
 
 ### 4.7 No Recourse Outside the Vehicle Account
-All allocations and entitlements in this Agreement are payable solely from assets actually held in the Vehicle Account (or from sale proceeds of Joint Assets purchased with Vehicle Account funds). Neither Party has any recourse against the other Party’s separate property for any claimed entitlement under this Agreement.
+All allocations and entitlements in this Agreement are payable solely from assets actually held in the Vehicle Account. Neither Party has any recourse against the other Party’s separate property for any claimed entitlement under this Agreement.
 
 **Sole Exception.** Notwithstanding the foregoing, Section 6.3 permits a narrow restitution remedy outside the Vehicle Account for intentional dissipation not prevented by the controls, and is the sole exception to this Section 4.7 for recourse outside the Vehicle Account.
 
 ---
 
-## ARTICLE V — VEHICLE ACCOUNT USE; PRO-RATA RULE; JOINT ASSETS
+## ARTICLE V — OPTIONAL DISCRETIONARY TOP-UPS
 
-### 5.1 Mutually Agreed Withdrawals (Shared Goals)
-The Parties may jointly agree to withdraw/distribute funds from the Vehicle Account for shared goals by joint written instruction to the Independent Administrator (a “Shared Withdrawal”).
-
-### 5.2 Pro-Rata Deduction (Ledger Rule)
-Each Shared Withdrawal reduces each Party’s economic interest in the Vehicle Account proportionally based on the Allocation Percentage at the applicable Valuation Time.  
-If any portion of a Shared Withdrawal is expressly designated as a B Distribution, it shall be recorded in the B Distribution Ledger and must be transferred to Party B’s B Designated Account.
-
-### 5.3 Joint Asset Purchases; Title and Governance
-If Vehicle Account funds are used to purchase a Joint Asset, that Joint Asset shall be titled as Tenants in Common (or closest equivalent) with ownership percentages matching the Allocation Percentage at the applicable Valuation Time, unless the Parties agree otherwise in a signed writing (including titling to the Vehicle LLC). Governance, carrying costs, buyout rights, and sale procedures are governed by Exhibit 2.
-
-### 5.4 Discretionary Top-Up (Optional; Non-Owed; Not Consideration)
+### 5.1 Discretionary Top-Up (Optional; Non-Owed; Not Consideration)
 (a) **Discretionary Top-Up Authority.** Party A may, at Party A’s sole discretion, authorize one or more additional distributions to Party B (each, a “Discretionary Top-Up”) from the Vehicle Account during the Term.
 
 (b) **Form; Destination; Administrator Processing.** Any Discretionary Top-Up must be initiated by Party A by written instruction delivered to the Independent Administrator and copied to Party B, specifying the amount (or in-kind equivalent) and confirming the destination as Party B’s B Designated Account. The Independent Administrator may process a Discretionary Top-Up only to Party B’s B Designated Account and subject to Custodian Constraints.
@@ -308,19 +296,12 @@ If Vehicle Account funds are used to purchase a Joint Asset, that Joint Asset sh
 
 (f) **No Effect on Allocation Percentage.** Discretionary Top-Ups do not modify the Allocation Percentage accrual schedule, the Allocation Cap, or any other formula in this Agreement unless amended in a signed writing by both Parties under Section 10.2.
 
-### 5.5 No Separate-Property Improvements Using Personal Funds; No Reliance on Property-Equity Expectations
-(a) **No Separate-Property Improvement Expectation.** Except as expressly set forth in a signed writing that (i) identifies the specific property, (ii) specifies an ownership interest or reimbursement formula, and (iii) is executed contemporaneously with the expenditure, neither Party shall make (and each Party agrees not to request or encourage) material improvements to the other Party’s separate property using the improving Party’s personal funds in reliance on any expectation of reimbursement, equity, or other property interest.
-
-(b) **No Constructive Trust / Unjust Enrichment Theories Based on Improvements.** To the maximum extent permitted by law, each Party waives any claim seeking a constructive trust, equitable lien, or unjust enrichment recovery against the other Party’s separate property based on voluntary expenditures or improvements made in violation of subsection (a), and agrees that any such expenditures are presumed to be voluntary and non-reimbursable absent the signed writing described above.
-
-(c) **Safe Harbor: Use the Joint Asset Protocol Instead.** If the Parties intend that a major expenditure should create a shared economic interest, the Parties agree to use either (i) a Joint Asset purchase governed by this Agreement, or (ii) a separate written co-ownership or reimbursement agreement meeting the requirements of subsection (a).
-
 ---
 
 ## ARTICLE VI — MISAPPROPRIATION; DISPUTE HOLDBACK (NARROW)
 
 ### 6.1 Misappropriation from the Vehicle Account
-If a Party is found by a final arbitration award (Article VIII) to have committed embezzlement, fraud, or intentional misappropriation from the Vehicle Account, the arbitrator may order appropriate reimbursement or setoff from that Party’s distribution, to the maximum extent permitted by law, limited to the Vehicle Account (and/or Joint Asset proceeds) and without recourse to separate property.
+If a Party is found by a final arbitration award (Article VIII) to have committed embezzlement, fraud, or intentional misappropriation from the Vehicle Account, the arbitrator may order appropriate reimbursement or setoff from that Party’s distribution, to the maximum extent permitted by law, limited to the Vehicle Account and without recourse to separate property.
 
 ### 6.2 Independent Administrator Not a Fact Finder
 The Independent Administrator shall not adjudicate misconduct and shall act only upon a facially valid final arbitration award or court order.
@@ -403,7 +384,7 @@ Party B is not required to elect a Liquidity distribution. If Party B does not e
 If either Party disputes any issue that would change the distribution amounts (including alleged misappropriation, guardrail breach remedies under Section 3.4(e), or ledger disputes), the Independent Administrator shall distribute undisputed amounts promptly and hold back only the disputed incremental amount pending resolution.
 
 ### 8.2 Binding Arbitration (AAA; Expedited)
-Any dispute arising out of or relating to this Agreement, the Vehicle Account, the B Distribution Ledger, the Vehicle LLC implementation covenants (including Sections 3.1A–3.1B), Section 3.4(e) remedies, or any Joint Asset purchased with Vehicle Account funds shall be resolved by expedited, binding private arbitration administered by the American Arbitration Association (AAA) under the AAA Commercial Arbitration Rules (including expedited procedures where applicable) in **[County, State]**.
+Any dispute arising out of or relating to this Agreement, the Vehicle Account, the B Distribution Ledger, the Vehicle LLC implementation covenants (including Sections 3.1A–3.1B), or Section 3.4(e) remedies shall be resolved by expedited, binding private arbitration administered by the American Arbitration Association (AAA) under the AAA Commercial Arbitration Rules (including expedited procedures where applicable) in **[County, State]**.
 
 ### 8.2A Small-Claims Carveout
 Notwithstanding Section 8.2, either Party may bring an individual action in small claims court (or equivalent) for disputes within that court’s jurisdictional limit, provided the action seeks only money relief within the limit and does not seek to alter Vehicle Account control other than enforcement of this Agreement’s deterministic formulas.
@@ -702,60 +683,20 @@ Independent Administrator (Acceptance): ___________________________  Date: _____
 
 ---
 
-# EXHIBIT 2 — JOINT ASSET PROTOCOL (INCLUDING LLC-TITLED OPTION)
+# EXHIBIT 2 — RESERVED FOR SEPARATE LAWYER-MANAGED ADDENDUM
 
-## Purpose
-This protocol governs Joint Assets purchased in whole or in part with Vehicle Account funds.
+This **v1** Agreement is intentionally **wealth-only**. It does **not** govern:
 
-Implementation Note (Simplification Preference). LLC-Titled assets are optional “advanced mode.” Default practice is Tenants-in-Common titling where feasible, because it is simpler to implement and audit. If the Parties elect LLC titling, they should ensure the Vehicle LLC documents clearly authorize sale/buyout steps consistent with Appendix A (Implementation Paths) and any custodian requirements.
+- jointly purchased vehicles,
+- jointly purchased real estate,
+- tenants-in-common arrangements,
+- LLC-titled tangible assets,
+- carrying costs or reimbursements,
+- possession/use rights,
+- separate-property improvements, or
+- any other off-pool co-ownership arrangement.
 
-## 1. Definitions
-(a) **Joint Asset** means any vehicle, real estate, or other tangible asset purchased with Vehicle Account funds.  
-(b) **Ownership Percentages** means the Parties’ tenants-in-common percentages set at purchase, matching the Allocation Percentage at the applicable Valuation Time, unless otherwise agreed in writing.  
-(c) **LLC-Titled Asset** means a Joint Asset titled in the name of the Vehicle LLC pursuant to a signed written election by both Parties.
-
-## 2. Titling (Default = Tenants in Common)
-(a) **Default.** Each Joint Asset shall be titled as Tenants in Common (or closest equivalent). If title cannot reflect percentages, the Parties shall sign a memorandum at purchase stating Ownership Percentages and keep it with this Exhibit.  
-(b) **Optional LLC Titling.** The Parties may elect in a signed writing to title a Joint Asset in the name of the Vehicle LLC (an “LLC Titling Election”). If so titled, the asset is an LLC-Titled Asset and Section 7 applies.
-
-## 3. Carrying Costs; Reimbursement (TIC Assets)
-(a) Default: ongoing carrying costs (insurance, taxes, registration, ordinary maintenance) are paid pro rata to Ownership Percentages unless otherwise agreed in writing.  
-(b) Reimbursement: if one Party pays more than their pro rata share, the excess is a reimbursable advance owed by the other Party within thirty (30) days after written notice with documentation, unless netted against sale proceeds.
-
-## 4. Insurance; Liability Control (Vehicles Especially)
-(a) Vehicles must be insured at commercially reasonable levels.  
-(b) The Party primarily operating/possessing the vehicle shall be responsible for tickets, violations, and at-fault deductibles, unless otherwise agreed in writing.  
-(c) Both Parties shall cooperate to keep the vehicle insurable and to avoid uninsured operation.
-
-## 5. Use and Possession (Minimal)
-Unless otherwise agreed in writing:  
-(a) Vehicles: shared reasonable use; if conflict, the Parties agree a schedule; failing agreement, the Party who is the registered/insured primary operator has temporary priority use pending sale/buyout, subject to reasonable access for the other Party.  
-(b) Non-residence real estate: use by mutual agreement; failing agreement, proceed to sale/buyout.
-
-## 6. Termination: Buyout First; Forced Sale Second (TIC Assets)
-Upon Termination Date for a Joint Asset titled as tenants in common:
-
-**Step 1 — Buyout Option (30-day election).** Within 30 days after Termination Date, either Party may elect to buy the other Party’s interest at FMV × selling Party’s Ownership Percentage, less documented reimbursable advances.
-
-**FMV Determination:**
-- Vehicles: average of two reputable valuation sources or a dealer written offer.
-- Real estate/other: one independent appraiser agreed by the Parties; if no agreement within 10 days, each Party selects an appraiser and FMV is the average.
-
-**Closing:** buyout closes within 60 days after FMV is determined.
-
-**Step 2 — Forced Sale.** If no buyout election is made, or buyout does not close on time, the Joint Asset shall be sold to a third party using commercially reasonable methods (broker listing for real estate; dealer/consignment for vehicles), with reasonable price reductions if needed.
-
-**Net Proceeds:** net sale proceeds (after liens, selling costs, taxes attributable to sale, and reimbursable advances) distributed pro rata to Ownership Percentages.
-
-## 7. LLC-Titled Assets (If Titled to Vehicle LLC)
-If an asset is an LLC-Titled Asset:
-
-(a) **Governance.** The Parties agree that the Vehicle LLC holds legal title for administrative convenience only, and the Parties’ economic interests in the net value of the LLC-Titled Asset are tracked by the Allocation Percentage (and the B Distribution Ledger where applicable), consistent with this Agreement.  
-(b) **Sale or Buyout Process.** Upon Termination Date (or upon mutual written agreement), the Independent Administrator is authorized to direct commercially reasonable steps (subject to Custodian Constraints and legal requirements) for the Vehicle LLC to sell the LLC-Titled Asset or to effect a buyout to one Party, and to cause net proceeds (after liens, selling costs, taxes attributable to sale, and reimbursable advances) to be transferred into the Vehicle Account and treated as Vehicle Account value for purposes of Section 7.2 distribution mechanics.  
-(c) **No Separate Equity Claim.** Party B acknowledges that titling an asset to the Vehicle LLC does not make Party B a member of the Vehicle LLC and does not create any ownership interest in the Vehicle LLC itself.
-
-## 8. Negative Equity
-If a Joint Asset is sold for less than outstanding lien(s), the shortfall is borne pro rata to Ownership Percentages unless the lien arose from unilateral borrowing or misconduct by one Party, in which case that Party bears the incremental shortfall.
+If the Parties later wish to govern a specific shared asset or shared purchase, they must do so in a **separate lawyer-managed written addendum or standalone co-ownership agreement** that expressly states it is being incorporated.
 
 ---
 
@@ -799,9 +740,9 @@ These are minimum implementation terms intended to be reflected in the Vehicle L
 Party A is the sole member/owner of the Vehicle LLC. Party B is not a member and has no ownership interest in the Vehicle LLC by virtue of this Agreement.
 
 2. **Purpose Limitation**  
-The Vehicle LLC’s purpose is limited to holding the Vehicle Account and (optionally) acquiring/holding Joint Assets consistent with this Agreement.
+The Vehicle LLC’s purpose is limited to holding the Vehicle Account consistent with this Agreement.
 
-3. **Authority Split**
+3. **Authority Split**  
    (a) Party A: Trading Authority only (placing trades within the Vehicle Account), with no authority to withdraw, transfer out, distribute, pledge, encumber, or borrow against Vehicle Account assets.  
    (b) Independent Administrator: exclusive authority over withdrawals/transfers-out, freezes, distributions, Liquidity Events, termination unwind processing, and maintenance of the B Distribution Ledger, as described in Exhibit 1 and Appendix A (Implementation Paths).
 
@@ -817,8 +758,8 @@ The Independent Administrator’s fee terms in Exhibit 1 are pre-authorized to b
 7. **Successor Mechanism; Replacement**  
 If the Independent Administrator resigns, the Parties shall use reasonable efforts to appoint a successor within sixty (60) days after the resignation notice date. The Parties may replace the Independent Administrator at any time by joint written instruction signed by both Parties delivered under Section 2.4 and implemented pursuant to Exhibit 1, Section 12. If no successor accepts appointment within the applicable period, withdrawals/transfers-out (other than those required by law or custodian policy) may be restricted as provided in Exhibit 1, Section 12 until a successor accepts appointment or a final arbitration award or court order directs further action.
 
-8. **LLC-Titled Asset Authority (If Elected)**  
-If the Parties elect LLC-titling for any Joint Asset under Exhibit 2, the Vehicle LLC’s governing documents shall authorize commercially reasonable sale and/or buyout steps at termination as described in Exhibit 2, Section 7, subject to applicable law and Custodian Constraints, and shall permit the net proceeds to be transferred into the Vehicle Account for treatment under Section 7.2.
+8. **Reserved**  
+Intentionally omitted in **v1**. This Agreement does not authorize the Vehicle LLC to acquire, hold, or govern tangible Joint Assets.
 
 ---
 
@@ -828,7 +769,7 @@ If the Parties elect LLC-titling for any Joint Asset under Exhibit 2, the Vehicl
 Party A is not obligated to fund the Vehicle Account. Target contributions are non-binding. No arrears.
 
 2. **Ring-Fenced Pool Default; Narrow Restitution Exception**  
-Any entitlement is payable solely from assets actually in the Vehicle Account (and Joint Asset proceeds purchased with Vehicle Account funds), subject to Section 6.3 (restitution for intentional dissipation not prevented by controls).
+Any entitlement is payable solely from assets actually in the Vehicle Account, subject to Section 6.3 (restitution for intentional dissipation not prevented by controls).
 
 3. **Allocation Accrual**  
 Party B’s Allocation Percentage accrues at [__]% per **full calendar month** during the Term, capped at [__]%, using the whole-month cutoff rules in Article IV.
@@ -839,8 +780,10 @@ No unilateral withdrawals. Transfers-out/distributions occur only as:
 - Termination unwind, or
 - Dispute holdback mechanics.
 
+This **v1** Agreement does **not** include Shared Withdrawals or Joint Asset purchase governance.
+
 5. **B Distributions Go to B’s Own Account**  
-B Distributions are delivered to Party B’s B Designated Account (cash or in-kind). Paying Party B’s personal expenses from the Vehicle Account is not permitted unless both Parties jointly instruct and expressly designate it as a B Distribution for ledger purposes.
+B Distributions are delivered to Party B’s B Designated Account (cash or in-kind). In **v1**, paying Party B’s personal expenses directly from the Vehicle Account is not permitted.
 
 6. **Deterministic Unwind**  
 Upon termination, Party B’s payout is:  
