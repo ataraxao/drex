@@ -335,7 +335,7 @@ Allocation and entitlements are calculated using the Vehicle Account’s value a
 
 (b) **Non-Trading-Day / After-Close Events.** If a triggering event occurs on a day that is not a Trading Day, or after the relevant market or pricing source has closed, the applicable Valuation Time shall use the most recent Trading Day ending prior to that event.
 
-(c) **NAV / Posting Delay.** If mutual fund NAVs, custodian valuations, or official statements for the applicable Valuation Time are posted after the triggering event date, the Independent Administrator may wait for those official records before completing the calculation and distribution.
+(c) **NAV / Posting Delay.** If mutual fund NAVs, custodian valuations, or official statements for the applicable Valuation Time are posted after the triggering event date, the Independent Administrator may wait for those official records before completing the applicable calculation and distribution.
 
 (d) **No Intraday Valuation Duty.** The Independent Administrator has no duty to calculate or rely on intraday marks, indicative prices, unofficial estimates, or third-party shadow accounting.
 
@@ -364,7 +364,7 @@ All allocations and entitlements in this Agreement are payable solely from asset
 
 (d) **Destination Restriction.** Any release under this Section may be made only to Party A’s A Designated Account and Party B’s B Designated Account in the pro rata amounts determined under subsection (b). No release under this Section may be made to any third-party payee or for direct payment of either Party’s personal expenses.
 
-(e) **Ledger Treatment.** The portion of any release under this Section allocated to Party B shall be treated as a **B Distribution** and entered on the **B Distribution Ledger** at the applicable ValuationTime. The portion allocated to Party A shall not be entered on the B Distribution Ledger.
+(e) **Ledger Treatment.** The portion of any release under this Section allocated to Party B shall be treated as a **B Distribution** and entered on the **B Distribution Ledger** at the applicable Valuation Time. The portion allocated to Party A shall not be entered on the B Distribution Ledger.
 
 (f) **Effect on Future Calculations.** A release under this Section does not modify the Allocation Percentage accrual schedule, the Allocation Cap, or any other formula in this Agreement. Future Liquidity and Termination calculations shall be performed using the remaining Vehicle Account value at the applicable Valuation Time after giving effect to any completed release under this Section.
 
@@ -930,7 +930,7 @@ Any entitlement is payable solely from assets actually in the Vehicle Account, s
 Party B’s Allocation Percentage accrues at [__]% per **full calendar month** during the Term, capped at [__]%, using the whole-month cutoff rules in Article IV.
 
 3A. **Valuation Uses Official Custodian Records**  
-Calculations use the most recent Trading Day ending prior to the triggering event, based on official custodian records rather than intraday or unofficial estimates.
+Calculations use the most recent Trading Day ending prior to the triggering event, based on official custodian records rather than intraday, estimated, or unofficial values.
 
 4. **Event-Only Distributions**  
 No unilateral withdrawals. Transfers-out/distributions occur only as:
