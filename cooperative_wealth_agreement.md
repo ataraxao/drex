@@ -150,25 +150,38 @@ For purposes of this Agreement:
 
 (v) **“Valid Designated Account”** means a Designated Account for which the Independent Administrator has on file documentation reasonably sufficient under custodian policy to confirm that the account is properly titled to the applicable Party (or permitted trust) and is operationally eligible to receive the distribution in question.
 
+(w) **“Business Day”** means any day other than a Saturday, Sunday, or legal holiday on which commercial banks are generally open for ordinary business in the State identified in Section 10.4; provided that, for any act requiring custodian processing, the day must also be a day on which the custodian is generally open for ordinary processing of the relevant instruction.
+
+(x) **“Local Time”** means, unless this Agreement expressly states otherwise, the local time in the State identified in Section 10.4; provided that, for notices under Section 2.4, references to Local Time mean the local time at the recipient’s Notice Address.
+
+### 2.3A Computation of Time
+(a) **General Rule.** In computing any period stated in days, the day of the act, event, notice, or delivery that begins the period is not counted. The last day of the period is counted unless it is not a Business Day, in which event the period continues until the next Business Day.
+
+(b) **Business-Day Periods.** If a period is stated in Business Days, only Business Days are counted.
+
+(c) **Anniversary Dates.** If a date is measured by monthly or annual anniversary and the applicable month does not contain the corresponding calendar day, the anniversary date shall be the last day of that month.
+
+(d) **Windows and Cure Periods.** If a Liquidity Window, cure period, or other response period under this Agreement would end on a day that is not a Business Day, the period extends through the next Business Day.
+
 ### 2.4 Notices; Delivery; Contact Updates; Substantial Compliance
 
 (a) **Notice Contact Information.** Each Party shall designate in writing to the other Party and to the Independent Administrator: (i) a Notice Email address (“**Notice Email**”), (ii) a physical mailing address (“**Notice Address**”), and (iii) an optional mobile number and/or messaging handle for a supplemental fallback channel (“**Fallback Contact**”). The Parties’ initial Notice Email, Notice Address, and Fallback Contact (if any) are set forth in Exhibit 0.
 
 (b) **General Notices.** Except as otherwise provided in subsection (c), any notice required or permitted under this Agreement may be given by email to the recipient’s Notice Email. The sender may also copy the recipient’s Notice Address and/or Fallback Contact, but such additional copy is not required unless expressly stated in this Agreement.
 
-A general notice is effective at the earliest of:
-(i) actual receipt;
-(ii) written acknowledgment by the recipient; or
-(iii) 5:00 p.m. local time on the second (2nd) business day after transmission by email to the recipient’s last-designated Notice Email, provided the sender did not receive an immediate hard bounce or other notice of failed delivery.
+A general notice is effective at the earliest of:  
+(i) actual receipt;  
+(ii) written acknowledgment by the recipient; or  
+(iii) 5:00 p.m. Local Time on the second (2nd) Business Day after transmission by email to the recipient’s last-designated Notice Email, provided the sender did not receive an immediate hard bounce or other notice of failed delivery.
 
-(c) **Major Notices (Termination Notice and Liquidity Election).** A Termination Notice and any Liquidity Election must be sent:
-(i) by email to the recipient’s Notice Email and to the Independent Administrator’s Notice Email; and
+(c) **Major Notices (Termination Notice and Liquidity Election).** A Termination Notice and any Liquidity Election must be sent:  
+(i) by email to the recipient’s Notice Email and to the Independent Administrator’s Notice Email; and  
 (ii) by one additional method, consisting of either: (A) nationally recognized overnight courier, (B) certified mail, or (C) if a Fallback Contact has been designated, the Fallback Contact.
 
-A Major Notice is effective at the earliest of:
-(i) actual receipt;
-(ii) written acknowledgment by the recipient; or
-(iii) 5:00 p.m. local time on the second (2nd) business day after compliant email transmission under subsection (c)(i), provided that the additional copy required by subsection (c)(ii) was sent on the same day or the next business day and the sender did not receive an immediate hard bounce or other notice of failed email delivery.
+A Major Notice is effective at the earliest of:  
+(i) actual receipt;  
+(ii) written acknowledgment by the recipient; or  
+(iii) 5:00 p.m. Local Time on the second (2nd) Business Day after compliant email transmission under subsection (c)(i), provided that the additional copy required by subsection (c)(ii) was sent on the same day or the next Business Day and the sender did not receive an immediate hard bounce or other notice of failed email delivery.
 
 (d) **Updates to Contact Information.** Any update to a Notice Email, Notice Address, or Fallback Contact must itself be given under this Section 2.4 to the other Party and to the Independent Administrator. An update becomes effective when that update notice becomes effective under this Section.
 
@@ -181,7 +194,6 @@ A Major Notice is effective at the earliest of:
 (h) **Copies to Independent Administrator.** Any Termination Notice, Liquidity Election, dispute notice affecting distribution amounts, or other notice that requests or may require action by the Independent Administrator shall be copied to the Independent Administrator. The Independent Administrator may rely on notices that are facially valid and sent in substantial compliance with this Section, unless the Independent Administrator has actual knowledge of a material defect.
 
 ### 2.5 Alternative Service for Disputes (Where Permitted)
-
 If a dispute arises under this Agreement and a Party cannot, after reasonable efforts, be reached using the contact information designated under Section 2.4, the arbitrator (or a court with jurisdiction) may authorize alternative service and notice consistent with applicable law and due process, including service by email-only, messaging-only, service on counsel, service by publication, or any other method reasonably calculated to provide notice under the circumstances.
 
 The Independent Administrator may rely on any facially valid arbitration order, award, or court order authorizing or confirming such alternative service.
@@ -291,7 +303,7 @@ Party B’s Allocation Percentage accrues in **whole calendar months only**. No 
 ### 4.2 Monthly Accrual Rate
 Party B’s Allocation Percentage accrues at a rate of **[1.00]% per full calendar month** during which this Agreement is operative (the “Monthly Accrual Rate”), subject to the cap in Section 4.3.
 
-A “full calendar month” means a month for which the Agreement is operative continuously from **12:00:00 a.m. local time on the first day of the month** through **11:59:59 p.m. local time on the last day of the month**.
+A “full calendar month” means a month for which the Agreement is operative continuously from **12:00:00 a.m. Local Time on the first day of the month** through **11:59:59 p.m. Local Time on the last day of the month**.
 
 ### 4.2A Mid-Month Operative Date; Mid-Month Termination; Cutoff Rule
 (a) **Operative Date Mid-Month.** If the Operative Date occurs after the first day of a calendar month, **no accrual** occurs for that calendar month. Accrual begins on the first day of the next calendar month, provided the Agreement remains operative.
@@ -344,6 +356,8 @@ All allocations and entitlements in this Agreement are payable solely from asset
 
 (g) **No Obligation; No Reliance.** Nothing in this Section obligates either Party to consent to any release, and no Party shall have any claim for reliance, expectation damages, arrears, or specific performance based on the absence of any jointly authorized release under this Section.
 
+(h) **No Implied Cadence; No Precedent.** One or more Joint Pro Rata Releases, whether regular, irregular, patterned, or repeated, shall not create any implied obligation, expected cadence, reliance interest, presumption in favor of future releases, modification of this Agreement, or evidence that the Vehicle Account is intended to function as a support stream, payment program, salary substitute, or ordinary living-expense account.
+
 ---
 
 ## ARTICLE VI — MISAPPROPRIATION; DISPUTE HOLDBACK (NARROW)
@@ -395,6 +409,8 @@ the remaining balance after payment of Party B’s Share and permitted deduction
 #### 7.3.1 Liquidity Event Dates; Liquidity Window
 Beginning on the third (3rd) anniversary of the Operative Date and on each three (3) year anniversary thereafter (each a Liquidity Event Date), Party B shall have a one-time election window of thirty (30) days (the Liquidity Window) to request a distribution of Party B’s then-earned allocated value under this Section 7.3, without terminating this Agreement.
 
+If a Liquidity Window would otherwise end on a day that is not a Business Day, the Liquidity Window remains open through the next Business Day.
+
 #### 7.3.2 Liquidity Election
 Party B may deliver a written election during the Liquidity Window (a Liquidity Election) to the Independent Administrator specifying:  
 (i) Party B’s B Designated Account for any in-kind distribution; and  
@@ -405,7 +421,7 @@ Party B may deliver a written election during the Liquidity Window (a Liquidity 
 
 (b) **Notice of Defect.** If the Independent Administrator determines that a Liquidity Election is defective or incomplete in a manner that reasonably can be cured, the Independent Administrator shall provide notice of the defect to Party B.
 
-(c) **Cure Period.** Party B shall have ten (10) business days after such notice, or such longer period as is reasonably required by Custodian Constraints, to cure the defect.
+(c) **Cure Period.** Party B shall have ten (10) Business Days after such notice, or such longer period as is reasonably required by Custodian Constraints, to cure the defect.
 
 (d) **Effect of Timely Cure.** If the defect is timely cured, the Liquidity Election shall be treated as valid as of the date originally delivered during the Liquidity Window.
 
@@ -484,6 +500,8 @@ In any dispute concerning the resignation, removal, replacement, or unavailabili
 
 ### 9.1 No Promise of Characterization; Forms Follow Titling and Law
 The Parties acknowledge that brokers/custodians and taxing authorities determine tax forms and reporting based on account titling, entity classification, regulations, and facts.
+
+, regulations, and facts.
 
 ### 9.2 Entity Classification and Reporting May Vary
 The Vehicle LLC may be treated as a disregarded entity for certain tax purposes or as a separate reporting entity depending on elections and law. The Parties acknowledge that:  
@@ -709,6 +727,21 @@ Distributions shall be made in cash unless (i) in-kind is required or practicabl
 
 All distributions shall be delivered to the applicable Party’s Designated Account (A Designated Account for Party A; B Designated Account for Party B), subject to the Recipient Restrictions in Section 2(d) and Custodian Constraints.
 
+## 8A. Event Processing Order; Fee Priority
+(a) **General Processing Order.** Unless a final arbitration award, court order, applicable law, or Custodian Constraints require otherwise, the Independent Administrator shall process each Administrator Event in the following order:  
+1. determine whether there are any unpaid, earned administrator fees and reimbursable expenses attributable to the event;  
+2. deduct available cash for such fees and expenses from the Vehicle Account;  
+3. if available cash is insufficient, liquidate the minimum amount reasonably necessary to satisfy such fees and expenses, subject to Custodian Constraints;  
+4. determine the amount available for the applicable distribution, release, holdback, or unwind;  
+5. process the applicable transfer, distribution, release, holdback, or unwind under the Agreement; and  
+6. update the B Distribution Ledger where applicable.
+
+(b) **Fee Priority.** Earned administrator fees and reimbursable expenses attributable to an Administrator Event shall be paid from the Vehicle Account before completing the related event distribution, Joint Pro Rata Release, or Termination unwind, subject to Custodian Constraints.
+
+(c) **Minimum Necessary Liquidation.** Any liquidation to satisfy fees and costs under this Section shall be limited to the minimum amount reasonably necessary, unless Custodian Constraints require a different operational approach.
+
+(d) **No Change to Economic Formula.** This Section affects only event-processing order and fee priority. It does not alter the Allocation Percentage, Liquidity Settlement Amount formula, B Distribution Ledger mechanics, or Termination formula except to the extent that fees, costs, withholding, or required liquidation reduce the net value available for distribution as otherwise provided in this Agreement.
+
 ## 9. Fees (Pre-Authorized; Admin Reserve)
 (a) Fee Schedule (choose one or attach a schedule):
 - [ ] Hourly: $[__]/hour plus reasonable out-of-pocket expenses.
@@ -717,7 +750,8 @@ All distributions shall be delivered to the applicable Party’s Designated Acco
 
 (b) Payment Source. The Parties authorize the Independent Administrator to deduct unpaid, earned fees and expenses attributable to Administrator Events from the Vehicle Account prior to distribution, consistent with custodian policy.  
 (c) Admin Reserve. The Parties intend to maintain Admin Reserve per Section 3.7.  
-(d) Minimum Liquidation. If the Vehicle Account lacks sufficient cash to pay earned fees at the time due, the Independent Administrator may liquidate the minimum amount necessary (subject to Custodian Constraints) to pay such fees and costs.
+(d) Minimum Liquidation. If the Vehicle Account lacks sufficient cash to pay earned fees at the time due, the Independent Administrator may liquidate the minimum amount necessary (subject to Custodian Constraints) to pay such fees and costs.  
+(e) Event Processing Order. The Independent Administrator shall apply the event-processing order in Section 8A before completing any Liquidity distribution, Joint Pro Rata Release, Termination unwind, or other Administrator Event.
 
 ## 10. Reliance; No Duty to Investigate
 The Independent Administrator may rely on facially valid notices, signatures, elections, and awards/orders and has no duty to investigate facts beyond documents received.
@@ -848,6 +882,9 @@ Party A is not obligated to fund the Vehicle Account. Target contributions are n
 1A. **Execution-Date vs. Operative-Date Effect**  
 Notice, dispute resolution, implementation cooperation, anti-stall obligations, disclosure/counsel process, and general interpretive / miscellaneous provisions bind upon execution. Economic allocation, distribution, liquidity, ledger, and unwind mechanics apply only once the Agreement becomes operative under Section 3.2.
 
+1B. **Time Computation Rules**  
+Business Day, Local Time, anniversary-date handling, and end-of-period extensions are defined expressly so that notice timing, cure periods, accrual cutoffs, and Liquidity Windows are computed consistently.
+
 2. **Ring-Fenced Pool Default; Narrow Restitution Exception**  
 Any entitlement is payable solely from assets actually in the Vehicle Account, subject to Section 6.3 (restitution for intentional dissipation not prevented by controls).
 
@@ -872,6 +909,9 @@ A timely Liquidity Election is not lost solely because of an incomplete detail o
 6. **Joint Pro Rata Release Requires Mutual Consent**  
 During the Term, the Parties may release value from the Vehicle Account only by joint written instruction of both Parties. Any such release is allocated pro rata using Party B’s Allocation Percentage at the applicable Valuation Time, with Party B’s portion delivered to Party B’s B Designated Account and entered on the B Distribution Ledger, and Party A’s portion delivered to Party A’s A Designated Account.
 
+6A. **No Implied Future Release Obligation**  
+Past Joint Pro Rata Releases do not create any expected cadence, implied future right, or evidence that the Vehicle Account is meant to operate as an ordinary payment stream or living-expense account.
+
 7. **Deterministic Unwind**  
 Upon termination, Party B’s payout is:  
 `max(0, (Vehicle Value × Allocation %) − B Distribution Ledger)`  
@@ -879,6 +919,9 @@ with the remainder to Party A (net of fees/withholding as required).
 
 8. **Administrator Role**  
 Independent Administrator is event-only (no investment advice, no monthly accounting) and may rely on facially valid notices and awards/orders.
+
+8A. **Fee Priority / Processing Order**  
+For each Administrator Event, earned administrator fees and reimbursable costs are deducted first, with minimum necessary liquidation if needed, before the related distribution or release is completed and before the ledger is updated where applicable.
 
 9. **Recipient Restrictions (Administrator Transfers-Out)**  
 Transfers-out/distributions may be made only to Party A’s A Designated Account, Party B’s B Designated Account, and permitted fee/withholding payees, except as required by a final award/order or law.
