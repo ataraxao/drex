@@ -163,7 +163,7 @@ If a dispute arises under this Agreement and a Party cannot, after reasonable ef
 ## ARTICLE III — THE RESTRICTED WEALTH VEHICLE (VEHICLE LLC + VEHICLE ACCOUNT)
 
 ### 3.1 Vehicle LLC and Vehicle Account; Required Control Structure
-Within thirty (30) days of the Execution Date, Party A shall use reasonable efforts to form the Vehicle LLC and the Parties shall attempt to establish the Vehicle Account at a major U.S. brokerage, bank, or trust company acceptable to both Parties. Failure to implement within 30 days is not a breach if caused by Custodian Constraints, Independent Administrator availability, or practical implementation delays.
+Promptly after the Execution Date, Party A shall use reasonable efforts to form the Vehicle LLC and the Parties shall attempt to establish the Vehicle Account at a major U.S. brokerage, bank, or trust company acceptable to both Parties, subject to the implementation process in Section 3.2B.
 
 The Vehicle Account must be opened only in a structure that, to the extent permitted by Custodian Constraints:  
 (i) prevents unilateral withdrawals/transfers-out by either Party during the Term;  
@@ -206,6 +206,21 @@ If the Agreement never becomes operative, neither Party shall have any claim for
 (b) **Implementation Confirmation.** The Agreement becomes operative only upon the Independent Administrator delivering a written confirmation (email sufficient) to both Parties stating that, subject to Custodian Constraints, the Implementation Control Checklist has been satisfied (the “Implementation Confirmation”). The Operative Date is the date/time of that Implementation Confirmation.
 
 (c) **Custodian Constraints; Exceptions; Minimum Viable Controls.** If any checklist item cannot be satisfied due to Custodian Constraints, the Parties and the Independent Administrator shall use reasonable efforts to implement the closest practicable alternative controls consistent with this Agreement’s intent. The Agreement remains non-operative unless the Parties and the Independent Administrator sign a written exception describing (i) the constraint, (ii) the alternative controls, and (iii) any compensating restrictions (including recipient locks, permission-change locks, or transfer-profile locks) that achieve, in substance, the anti-bypass and anti-unilateral-transfer objectives.
+
+### 3.2B Implementation Cooperation; Timeline; Extension; Anti-Stall
+(a) **Good-Faith Cooperation Duty.** Each Party shall cooperate in good faith to complete implementation of the Vehicle LLC, Vehicle Account, Independent Administrator acceptance, Designated Account setup, authority split, and required custodian/control documentation contemplated by this Agreement.
+
+(b) **No Unreasonable Delay or Obstruction.** Neither Party shall unreasonably withhold, delay, or obstruct implementation, including by failing to provide reasonably requested information, signatures, onboarding materials, account-opening documents, or other items reasonably necessary to complete the implementation contemplated by this Agreement.
+
+(c) **Initial Implementation Period.** The Parties intend that implementation be completed within sixty (60) days after the Execution Date (the “Initial Implementation Period”), recognizing that actual completion remains subject to Custodian Constraints, administrator onboarding, compliance review, and other third-party operational factors.
+
+(d) **Status Update Request.** If the Agreement has not become operative by the end of the Initial Implementation Period, either Party may deliver a written request for an implementation status update to the other Party and the Independent Administrator. The Parties shall then cooperate in good faith to identify the principal outstanding items preventing operability.
+
+(e) **Extension for Documented Good-Faith Progress.** If, at the end of the Initial Implementation Period, the Parties and the Independent Administrator are making documented good-faith progress and the remaining delay is primarily attributable to Custodian Constraints, administrator onboarding, compliance review, or similar third-party operational factors, the implementation period shall extend for an additional thirty (30) days (the “Extension Period”).
+
+(f) **Failure to Become Operative; Walk-Away Right.** If the Agreement has not become operative by the end of the Initial Implementation Period, as extended by subsection (e) if applicable, either Party may terminate this Agreement by written notice. If terminated under this subsection, neither Party shall have any claim for reliance damages, expectation damages, equitable relief, arrears, or projected future funding based solely on the Agreement’s failure to become operative.
+
+(g) **Narrow Remedy for Bad-Faith Obstruction.** If a final arbitration award determines that a Party intentionally and in bad faith obstructed implementation, the arbitrator may award narrow relief reasonably tailored to such obstruction, including: (i) an order compelling cooperation; (ii) termination-related relief; (iii) reimbursement of documented third-party setup costs caused by the obstruction; (iv) reasonable arbitration costs; and (v) if bad faith is found, reasonable attorneys’ fees to the maximum extent permitted by law. No relief under this subsection shall include expectation damages, arrears, or any claim based solely on projected future funding.
 
 ### 3.3 Voluntary Funding; Target Contributions (Non-Binding)
 Any contributions to the Vehicle Account are voluntary. As a non-binding target only, Party A may contribute up to **$[Monthly Deposit Amount]** per month commencing on **[Start Date]**, but Party A may reduce, pause, or stop contributions at any time without breach.  
@@ -682,6 +697,8 @@ Nothing requires the Independent Administrator or custodian to violate applicabl
 > “Based on the custodian permissions and/or control instruments provided to me, and subject to Custodian Constraints, the Vehicle Account has been implemented so that: (i) the Independent Administrator controls withdrawals/transfers-out, freezes, and distributions for Administrator Events; (ii) Party A has Trading Authority only and no withdrawals/transfers-out authority except through the Independent Administrator pursuant to an Administrator Event; (iii) Party B has view-only access and/or receives statements sufficient to observe holdings and activity; and (iv) changes to permissions/standing disbursement instructions require Independent Administrator approval or are subject to custodian locks preventing unilateral changes.”
 
 (c) **Exceptions.** If any portion of the Implementation Control Checklist cannot be satisfied due to Custodian Constraints, the Independent Administrator may note such limitation in the Implementation Confirmation, and the Agreement will remain non-operative unless a written exception is executed pursuant to Section 3.2A(c).
+
+(d) **Implementation Status Notice (Optional Administrative Courtesy).** Before delivering the Implementation Confirmation, the Independent Administrator may, upon written request from either Party copied to the other Party, provide a short written status notice identifying whether acceptance has occurred and any material outstanding onboarding or control-document items known to the Independent Administrator. Any such status notice is an administrative courtesy only, does not create any duty to investigate or opine on legal sufficiency, and may be relied upon only as a good-faith summary of implementation status at the time given.
 
 Party A: ___________________________  Date: ___________  
 Party B: ___________________________  Date: ___________  
