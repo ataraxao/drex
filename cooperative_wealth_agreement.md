@@ -140,11 +140,15 @@ For purposes of this Agreement:
 
 (q) **“Liquidity Election”** means Party B’s written election delivered during a Liquidity Window to request a Liquidity distribution under Section 7.3.
 
-(r) **“Administrator Event”** means only: (i) a Liquidity distribution under Section 7.3 upon a valid Liquidity Election; (ii) a Termination unwind under Section 7.2; (iii) a dispute holdback and distribution of undisputed amounts under Article VIII; or (iv) a joint pro rata release under Section 5.1.
+(r) **“Defective Liquidity Election”** means a Liquidity Election that is timely delivered during the Liquidity Window but is incomplete, contains an immaterial error, omits operational details, or is accompanied by missing or outdated Designated Account documentation that can reasonably be cured without changing the substance of the election.
 
-(s) **“Admin Reserve”** means the minimum cash reserve maintained in the Vehicle Account to pay the Independent Administrator’s fees and costs.
+(s) **“Administrator Event”** means only: (i) a Liquidity distribution under Section 7.3 upon a valid Liquidity Election; (ii) a Termination unwind under Section 7.2; (iii) a dispute holdback and distribution of undisputed amounts under Article VIII; or (iv) a joint pro rata release under Section 5.1.
 
-(t) **“A Designated Account”** means a brokerage account or other custodial account in Party A’s own name (or Party A’s revocable trust, if permitted by the custodian and designated in writing) that Party A designates in writing for receipt of cash and/or in-kind distributions under this Agreement.
+(t) **“Admin Reserve”** means the minimum cash reserve maintained in the Vehicle Account to pay the Independent Administrator’s fees and costs.
+
+(u) **“A Designated Account”** means a brokerage account or other custodial account in Party A’s own name (or Party A’s revocable trust, if permitted by the custodian and designated in writing) that Party A designates in writing for receipt of cash and/or in-kind distributions under this Agreement.
+
+(v) **“Valid Designated Account”** means a Designated Account for which the Independent Administrator has on file documentation reasonably sufficient under custodian policy to confirm that the account is properly titled to the applicable Party (or permitted trust) and is operationally eligible to receive the distribution in question.
 
 ### 2.4 Notices; Delivery; Contact Updates; Substantial Compliance
 
@@ -396,6 +400,17 @@ Party B may deliver a written election during the Liquidity Window (a Liquidity 
 (i) Party B’s B Designated Account for any in-kind distribution; and  
 (ii) any reasonable operational preferences permitted by Custodian Constraints.
 
+#### 7.3.2A Defective or Incomplete Liquidity Election; Cure Right
+(a) **Timely Election Preserved.** A Liquidity Election timely delivered during the Liquidity Window shall not fail solely because it is a Defective Liquidity Election.
+
+(b) **Notice of Defect.** If the Independent Administrator determines that a Liquidity Election is defective or incomplete in a manner that reasonably can be cured, the Independent Administrator shall provide notice of the defect to Party B.
+
+(c) **Cure Period.** Party B shall have ten (10) business days after such notice, or such longer period as is reasonably required by Custodian Constraints, to cure the defect.
+
+(d) **Effect of Timely Cure.** If the defect is timely cured, the Liquidity Election shall be treated as valid as of the date originally delivered during the Liquidity Window.
+
+(e) **Failure to Cure.** If the defect is not cured within the applicable period, the Liquidity Election shall lapse for that Liquidity Window only and shall not accelerate, waive, reduce, or otherwise affect future Liquidity Event rights.
+
 #### 7.3.3 Liquidity Valuation
 For Liquidity Events, Valuation Time is measured as of the most recent trading day ending prior to the Liquidity Event Date.
 
@@ -406,10 +421,21 @@ Upon a timely Liquidity Election, the Independent Administrator shall calculate:
 #### 7.3.5 Mandatory Processing Upon Election
 Upon a timely Liquidity Election, the Independent Administrator shall distribute the Liquidity Settlement Amount within thirty (30) days (or as soon as reasonably practicable if delayed by settlement cycles or Custodian Constraints), without requiring further consent from Party A.
 
+If a timely Liquidity Election has been made but Party B has not yet provided a Valid Designated Account, the Independent Administrator shall hold the Liquidity Settlement Amount pending cure under Section 7.3.2A and Section 7.3.6A rather than reallocating it to Party A or treating it as waived, except as provided in Section 7.3.2A(e).
+
 #### 7.3.6 Form of Liquidity Distribution (Own-the-Asset Default; Custodian Constraints Control)
 (a) **Default In-Kind (If Practicable).** Unless impracticable due to Custodian Constraints, the Liquidity Settlement Amount shall be distributed in kind (securities) to the B Designated Account.  
 (b) **Cash Fallback.** If in-kind distribution is not practicable, the Independent Administrator may liquidate the minimum amount necessary and distribute cash to the B Designated Account.  
 (c) **Pro-Rata / Reasonable Equalization.** In-kind distributions should be pro rata across holdings to the extent reasonably practicable, with reasonable rounding or cash-in-lieu for fractional shares.
+
+#### 7.3.6A Designated Account Failure; Pending Distribution
+(a) **Pending Status, Not Forfeiture.** If Party B has made a timely Liquidity Election but the B Designated Account is not a Valid Designated Account on the intended processing date, the Independent Administrator shall hold the Liquidity Settlement Amount pending updated account information or documentation from Party B rather than forfeiting, reallocating, or recharacterizing the amount.
+
+(b) **No Reallocation.** No delay caused solely by the absence of a Valid Designated Account shall increase Party A’s share or reduce Party B’s Liquidity Settlement Amount, except to the extent of fees, market movements, withholding, or transaction costs resulting from Custodian Constraints or from the need to maintain or reprocess the pending distribution.
+
+(c) **Party-B-Caused Delay Costs.** To the extent the delay is caused by Party B’s failure to maintain or timely provide a Valid Designated Account, any incremental administrative costs reasonably attributable to that delay may be charged against the pending amount otherwise distributable to Party B, to the extent permitted by Custodian Constraints.
+
+(d) **Processing After Cure.** Once Party B provides a Valid Designated Account, the Independent Administrator shall process the pending Liquidity distribution as soon as reasonably practicable, subject to Custodian Constraints.
 
 #### 7.3.7 Ledger Update; No Double Counting
 The Independent Administrator shall increase the B Distribution Ledger by the Liquidity Settlement Amount (valued at Liquidity Valuation Time) immediately upon completing the Liquidity distribution.
@@ -641,6 +667,8 @@ Party B Designated Account (“B Designated Account”): [Institution; Account T
 
 Designated Account Documentation. Prior to processing any distribution, the Independent Administrator must have on file documentation reasonably sufficient under custodian policy to confirm each Designated Account is titled to the applicable Party (or permitted trust), such as a custodial statement, confirmation letter, or equivalent.
 
+If a distribution is otherwise due but the applicable Designated Account is not yet a Valid Designated Account, the Independent Administrator may hold the amount pending updated documentation or replacement account details in accordance with the Agreement.
+
 ## 2. Authority During Term (Event-Only)
 (a) **Exclusive Transfers-Out / Distributions.** Except as expressly permitted herein, no withdrawal, transfer-out, liquidation for distribution, or distribution shall be processed unless the Independent Administrator executes it pursuant to an Administrator Event.  
 (b) **Party A Trading Authority Only.** Party A may have Trading Authority only. Party A shall have no authority to withdraw, transfer out, distribute, pledge, encumber, borrow against, or otherwise move value out of the Vehicle Account.  
@@ -651,7 +679,6 @@ Designated Account Documentation. Prior to processing any distribution, the Inde
 (e) **Designated Account Change Procedure (Joint Instruction + Documentation).** Any change to the A Designated Account or B Designated Account requires joint written instruction signed by both Parties delivered under Section 2.4 of the Agreement and copied to the Independent Administrator. Any such change becomes effective only after the Independent Administrator has received documentation reasonably sufficient under custodian policy to confirm the new account is titled to the applicable Party (or permitted trust).
 
 ## 3. Notices; Delivery; Substantial Compliance
-
 The Independent Administrator may rely on the delivery and effectiveness standards in Section 2.4 of the Agreement, including substantial compliance under Section 2.4(g), and is not required to confirm actual receipt unless the Independent Administrator has actual knowledge of a material delivery defect. If the Independent Administrator receives an arbitration order, award, or court order authorizing or confirming alternative service under Section 2.5, the Independent Administrator may rely on notices, orders, or awards delivered using such authorized method.
 
 ## 4. Ledger Duty (Event-Only)
@@ -661,7 +688,7 @@ The Independent Administrator shall maintain the **B Distribution Ledger** by re
 Upon receipt of a timely **Liquidity Election** within the Liquidity Window, the Independent Administrator shall:  
 (i) determine Vehicle Account value at Liquidity Valuation Time,  
 (ii) calculate the Liquidity Settlement Amount per Section 7.3.4,  
-(iii) distribute per Section 7.3.6 within the timeframe required by Section 7.3.5 to Party B’s B Designated Account, and  
+(iii) distribute per Sections 7.3.6 and 7.3.6A within the timeframe required by Section 7.3.5 to Party B’s B Designated Account (or hold the amount pending cure if the B Designated Account is not yet a Valid Designated Account), and  
 (iv) update the B Distribution Ledger per Section 7.3.7.
 
 ## 5A. Joint Pro Rata Release
@@ -838,6 +865,9 @@ This Agreement does **not** include shared withdrawals for shared goals, Joint A
 
 5. **B Distributions Go to B’s Own Account**  
 B Distributions are delivered to Party B’s B Designated Account (cash or in-kind) only through **Administrator Events**. Paying Party B’s personal expenses directly from the Vehicle Account is not permitted.
+
+5A. **Defective Liquidity Elections Are Curable**  
+A timely Liquidity Election is not lost solely because of an incomplete detail or missing Designated Account paperwork if the defect is timely cured. If Party B has not yet provided a Valid Designated Account, the distribution may be held pending cure rather than forfeited or reallocated.
 
 6. **Joint Pro Rata Release Requires Mutual Consent**  
 During the Term, the Parties may release value from the Vehicle Account only by joint written instruction of both Parties. Any such release is allocated pro rata using Party B’s Allocation Percentage at the applicable Valuation Time, with Party B’s portion delivered to Party B’s B Designated Account and entered on the B Distribution Ledger, and Party A’s portion delivered to Party A’s A Designated Account.
