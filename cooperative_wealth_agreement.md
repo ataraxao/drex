@@ -164,7 +164,6 @@ For purposes of this Agreement:
 (d) **Windows and Cure Periods.** If a Liquidity Window, cure period, or other response period under this Agreement would end on a day that is not a Business Day, the period extends through the next Business Day.
 
 ### 2.4 Notices; Delivery; Contact Updates; Substantial Compliance
-
 (a) **Notice Contact Information.** Each Party shall designate in writing to the other Party and to the Independent Administrator: (i) a Notice Email address (“**Notice Email**”), (ii) a physical mailing address (“**Notice Address**”), and (iii) an optional mobile number and/or messaging handle for a supplemental fallback channel (“**Fallback Contact**”). The Parties’ initial Notice Email, Notice Address, and Fallback Contact (if any) are set forth in Exhibit 0.
 
 (b) **General Notices.** Except as otherwise provided in subsection (c), any notice required or permitted under this Agreement may be given by email to the recipient’s Notice Email. The sender may also copy the recipient’s Notice Address and/or Fallback Contact, but such additional copy is not required unless expressly stated in this Agreement.
@@ -209,6 +208,8 @@ The Vehicle Account must be opened only in a structure that, to the extent permi
 (i) prevents unilateral withdrawals/transfers-out by either Party during the Term;  
 (ii) enables the Independent Administrator to execute Administrator Events without requiring further consent from either Party once the trigger conditions are met; and  
 (iii) limits Party A’s access to Trading Authority only (no transfers-out, no distributions, no pledges, no borrowing).
+
+For avoidance of doubt, the operational duties and processing mechanics of the Independent Administrator are governed primarily by **Exhibit 1**, and the Vehicle LLC implementation requirements are governed primarily by **Exhibit 4**, in each case subject to the main body of this Agreement.
 
 ### 3.1A Vehicle LLC Anti-Bypass Covenant (Implementation Integrity)
 During the Term, Party A shall not, without Party B’s prior written consent and the Independent Administrator’s written consent:  
@@ -500,8 +501,6 @@ In any dispute concerning the resignation, removal, replacement, or unavailabili
 
 ### 9.1 No Promise of Characterization; Forms Follow Titling and Law
 The Parties acknowledge that brokers/custodians and taxing authorities determine tax forms and reporting based on account titling, entity classification, regulations, and facts.
-
-, regulations, and facts.
 
 ### 9.2 Entity Classification and Reporting May Vary
 The Vehicle LLC may be treated as a disregarded entity for certain tax purposes or as a separate reporting entity depending on elections and law. The Parties acknowledge that:  
@@ -845,7 +844,7 @@ Party B: ___________________________  Date: ___________
 # EXHIBIT 4 — VEHICLE LLC MINIMUM TERMS (IMPLEMENTATION REQUIREMENTS)
 
 ## Purpose
-These are minimum implementation terms intended to be reflected in the Vehicle LLC’s governing documents and/or related control instruments to prevent bypass of this Agreement.
+These are minimum implementation terms intended to be reflected in the Vehicle LLC’s governing documents and/or related control instruments to prevent bypass of this Agreement. This Exhibit is intended to state **minimum LLC-level implementation requirements only** and does not restate all operational duties of the Independent Administrator, which are governed by **Exhibit 1**.
 
 1. **Ownership; Membership**  
 Party A is the sole member/owner of the Vehicle LLC. Party B is not a member and has no ownership interest in the Vehicle LLC by virtue of this Agreement.
@@ -854,20 +853,20 @@ Party A is the sole member/owner of the Vehicle LLC. Party B is not a member and
 The Vehicle LLC’s purpose is limited to holding the Vehicle Account consistent with this Agreement.
 
 3. **Authority Split**  
-   (a) Party A: Trading Authority only (placing trades within the Vehicle Account), with no authority to withdraw, transfer out, distribute, pledge, encumber, or borrow against Vehicle Account assets.  
-   (b) Independent Administrator: exclusive authority over withdrawals/transfers-out, freezes, distributions, Liquidity Events, joint pro rata releases, termination unwind processing, and maintenance of the B Distribution Ledger, as described in Exhibit 1 and Appendix A (Implementation Paths).
+   (a) Party A: Trading Authority only (placing trades within the Vehicle Account), with no authority to withdraw, transfer out, distribute, pledge, encumber, or borrow against Vehicle Account assets, except as expressly permitted by the Agreement through the Independent Administrator.  
+   (b) Independent Administrator: the control party for withdrawals/transfers-out, freezes, and distributions as provided in the Agreement and **Exhibit 1**. The Vehicle LLC governing documents shall not conflict with, narrow, or bypass that authority.
 
 4. **Anti-Bypass**  
 During the Term, the Vehicle LLC shall not open additional brokerage accounts intended to bypass this Agreement, borrow against Vehicle Account assets, pledge/encumber Vehicle Account assets, dissolve, or transfer ownership, except with Party B’s prior written consent and the Independent Administrator’s written consent (and subject to Custodian Constraints).
 
 5. **Administrator Reliance**  
-The Independent Administrator may rely on facially valid notices and awards/orders and has no duty to investigate facts beyond documents received.
+The Vehicle LLC governing documents and related control instruments shall permit the Independent Administrator to rely on facially valid notices, elections, and awards/orders to the same extent provided in the Agreement and Exhibit 1, without imposing any inconsistent investigative duty.
 
 6. **Fees**  
-The Independent Administrator’s fee terms in Exhibit 1 are pre-authorized to be paid from the Vehicle Account consistent with custodian policy.
+The Vehicle LLC governing documents and related control instruments shall permit payment of the Independent Administrator’s earned fees and reimbursable expenses from the Vehicle Account to the extent provided in the Agreement and Exhibit 1, including the event-processing order and fee-priority mechanics.
 
 7. **Successor Mechanism; Replacement**  
-If the Independent Administrator resigns, the Parties shall use reasonable efforts to appoint a successor within sixty (60) days after the resignation notice date. The Parties may replace the Independent Administrator at any time by joint written instruction signed by both Parties delivered under Section 2.4 and implemented pursuant to Exhibit 1, Section 12. If no successor accepts appointment within the applicable period, withdrawals/transfers-out (other than those required by law or custodian policy) may be restricted as provided in Exhibit 1, Section 12 until a successor accepts appointment or a final arbitration award or court order directs further action.
+The Vehicle LLC governing documents and related control instruments shall permit resignation, replacement, successor appointment, transition cooperation, and interim restriction mechanics to the extent provided in the Agreement and **Exhibit 1, Section 12**, and shall not require any inconsistent approval standard or additional consent right.
 
 8. **Reserved**  
 This Agreement does not authorize the Vehicle LLC to acquire, hold, or govern tangible Joint Assets.
@@ -923,6 +922,9 @@ Independent Administrator is event-only (no investment advice, no monthly accoun
 8A. **Fee Priority / Processing Order**  
 For each Administrator Event, earned administrator fees and reimbursable costs are deducted first, with minimum necessary liquidation if needed, before the related distribution or release is completed and before the ledger is updated where applicable.
 
+8B. **Administrator Mechanics Are Centralized**  
+Operational administrator duties are stated primarily in Exhibit 1, while Exhibit 4 supplies minimum LLC implementation terms only. This is intended to reduce duplication and avoid wording drift across sections.
+
 9. **Recipient Restrictions (Administrator Transfers-Out)**  
 Transfers-out/distributions may be made only to Party A’s A Designated Account, Party B’s B Designated Account, and permitted fee/withholding payees, except as required by a final award/order or law.
 
@@ -930,6 +932,8 @@ Transfers-out/distributions may be made only to Party A’s A Designated Account
 
 # APPENDIX A — IMPLEMENTATION PATHS (ILLUSTRATIVE; NON-ADVICE)
 *This appendix is a practical “how it’s actually done” menu. Availability varies by custodian and jurisdiction. The Parties and Independent Administrator should confirm feasibility with the chosen custodian and counsel. This Appendix does not promise that any specific provider will support a given configuration.*
+
+This Appendix is illustrative only. If any example or path description appears inconsistent with the main body, **Exhibit 1**, or **Exhibit 4**, the main body controls first, then Exhibit 1 and Exhibit 4 control according to Section 10.7.
 
 ## A.1 Implementation Goal (What Must Be True in Substance)
 Regardless of the custodian, the implementation should achieve, in substance:
