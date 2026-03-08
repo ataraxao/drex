@@ -1,31 +1,31 @@
 # Cooperative Wealth Agreement (CWA) — Public Template
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
+![Version](https://img.shields.io/badge/version-v1.4-blue)
 ![License](https://img.shields.io/badge/license-CC0_1.0-green)
 ![Status](https://img.shields.io/badge/status-Active_Deployment-orange)
 
 **Canonical Whitepaper & Protocol Updates:** [ataraxao on Substack](https://ataraxao.substack.com/p/the-gravity-model-aligning-price)
 
-**The CWA is a private, deterministic legal and financial protocol designed to privatize domestic equity.** It functions as a wealth-only, event-driven governance wrapper for a ring-fenced capital pool, replacing subjective family law APIs with strict corporate contract law, algorithmic vesting, and a deterministic unwind.
+**The CWA is a private, deterministic legal and financial protocol designed to make domestic equity legible through a ring-fenced capital pool.** It is a **wealth-only, event-driven governance wrapper** for a restricted brokerage account held through a Vehicle LLC, with operative-date gating, administrator-controlled transfers-out, deterministic unwind logic, and a narrow dispute surface.
 
 ---
 
 ## ⚠️ SYSTEM NOTICE: READ BEFORE DEPLOYMENT
 
-> **1. NOT LEGAL, TAX, OR FINANCIAL ADVICE**
-> This repository and its contents (The CWA Protocol v1.0) are conceptual templates provided for educational and informational purposes only. The Author is a systems designer, not a provider of legal, tax, or fiduciary services. No attorney-client or fiduciary relationship is created by your use of these documents.
+> **1. NOT LEGAL, TAX, OR FINANCIAL ADVICE**  
+> This repository and its contents are conceptual templates provided for educational and informational purposes only. The Author is a systems designer, not a provider of legal, tax, fiduciary, brokerage, custody, or investment-advisory services. No attorney-client, tax-advisor, fiduciary, or investment-advisory relationship is created by your use of these materials.
 
-> **2. JURISDICTIONAL VARIATION**
-> Standard legal frameworks regarding property rights, LLC characterization, domestic partnerships, and the equitable distribution of assets vary significantly by jurisdiction. This protocol has not been audited for compliance with the specific laws of any state or country. Users are responsible for ensuring local legal compliance.
+> **2. JURISDICTIONAL VARIATION**  
+> Legal treatment of property rights, LLCs, arbitration, domestic relationships, separate property, equitable claims, asset characterization, and tax reporting varies significantly by jurisdiction. This protocol has not been audited for compliance with the specific laws of any state or country. Users are responsible for local legal compliance.
 
-> **3. FINANCIAL HYGIENE AND EXECUTION RISK**
-> The effectiveness of the CWA depends entirely on the user's ability to maintain strict financial separation. **WARNING:** Routine commingling (treating the Vehicle Account/LLC like a spending account, paying lifestyle expenses, or blurring account ownership and recipient controls) can materially increase legal and tax risk, and may undermine the dispute-surface minimization intended by this structure.
+> **3. FINANCIAL HYGIENE AND EXECUTION RISK**  
+> The effectiveness of the CWA depends heavily on disciplined implementation and strict separation between the Vehicle Account and ordinary lifestyle spending. **WARNING:** commingling, support-like side deals, recurring off-pool payments, shared expense blurring, informal promises, or treating the Vehicle LLC/account like a lifestyle wallet can materially increase litigation and tax risk and may undermine the wealth-only posture of the structure.
 
-> **4. INDEPENDENT COUNSEL (STRONGLY ENCOURAGED)**
-> These documents should not be executed without professional oversight. Each party is strongly encouraged to consult with independent legal and tax counsel to review and adapt these templates to their specific financial situation and jurisdiction. It is ideal to work with professionals familiar with LLC account control structures, arbitration provisions, and relevant gift tax reporting.
+> **4. INDEPENDENT COUNSEL (STRONGLY ENCOURAGED)**  
+> These documents should not be executed without professional review. Each party is strongly encouraged to consult independent legal counsel and independent tax counsel before signing, implementing, funding, or relying on these templates. This is especially important where there is substantial wealth disparity, cross-state or cross-border exposure, marriage risk, or unusual custody/control arrangements.
 
-> **5. PUBLIC DOMAIN (CC0 1.0) / "AS-IS"**
-> This work is published under the CC0 1.0 Universal (Public Domain Dedication). It is provided "AS-IS" without warranty of any kind. By using this repository, you acknowledge that you are managing your assets through private contract and assume all associated risks.
+> **5. PUBLIC DOMAIN (CC0 1.0) / "AS-IS"**  
+> This work is published under the CC0 1.0 Universal (Public Domain Dedication). It is provided **AS-IS**, without warranty of any kind. By using this repository, you accept that you are implementing a private contract mechanism at your own risk.
 
 ---
 
@@ -33,184 +33,329 @@
 
 Start here (recommended reading order):
 
-```text
-├── introduction.md                 # The explanatory whitepaper (“Gravity Model”) motivating the mechanism.
-├── cooperative_wealth_agreement.md # The core legal contract template (the instrument).
-├── docs/                           # Reviewer pack / supporting documents for evaluation and implementation.
-└── LICENSE.md
-```
+1. `introduction.md`  
+   The conceptual overview and whitepaper-level framing for the mechanism.
+
+2. `cooperative_wealth_agreement.md`  
+   The core **Cooperative Wealth Governance Agreement** template.
+
+3. `docs/`  
+   Reviewer-facing support materials, summaries, implementation notes, admin-role notes, and other explanatory documents.
+
+4. `LICENSE.md`  
+   CC0 1.0 Universal Public Domain Dedication.
+
+---
 
 ## What this repository contains
 
 - `cooperative_wealth_agreement.md`  
-  The **Cooperative Wealth Governance Agreement**: a wealth-only, event-driven governance wrapper for a **ring-fenced pool** (a restricted brokerage account held by a Vehicle LLC), with:
-  - voluntary (non-enforceable) funding,
-  - an **Independent Administrator** who controls transfers-out/distributions,
-  - an **operative-date gating** requirement with an **implementation control checklist**,
-  - a deterministic termination unwind,
+  The core **Cooperative Wealth Governance Agreement**: a **wealth-only**, **event-driven**, **ring-fenced** governance wrapper for a restricted brokerage account held through a Vehicle LLC, with:
+  - voluntary, non-enforceable funding,
+  - no arrears,
+  - operative-date gating,
+  - an implementation control checklist,
+  - an **Independent Administrator** controlling transfers-out/distributions,
+  - deterministic termination unwind,
   - periodic Liquidity Events,
-  - a minimal Joint Asset protocol,
-  - an event-only B Distribution Ledger (anti-double-counting),
-  - optional **Discretionary Top-Ups** (Funding Partner optional; ledgered and netted),
-  - and dispute-resolution + holdback mechanics.
+  - an event-only **B Distribution Ledger**,
+  - administrator event priority rules,
+  - record-retention / successor-handoff mechanics,
+  - and arbitration + holdback mechanics.
 
 - `introduction.md`  
-  The “Gravity Model” paper: **make domestic equity legible via an explicit, verifiable mechanism**.
+  The broader mechanism thesis: make domestic equity legible through a verifiable, low-discretion structure.
 
 - `docs/`  
-  Reviewer-facing materials and implementation-oriented helpers (e.g., mechanism summary, admin role spec, term sheet / review notes, etc.).  
-  *Goal:* reduce “intellectual overhead” for professional reviewers and focus critique on fillability + attack surface.
+  Reviewer-facing materials and implementation-oriented helpers intended to reduce overhead for legal, tax, custody, and operational review.
 
 - `LICENSE.md`  
   CC0 1.0 Universal Public Domain Dedication.
 
+---
+
 ## Design intent (plain English)
 
-This template is designed to reduce the “dispute surface” by keeping the agreement **governance-only** and **ring-fenced**:
+This template is designed to reduce the **dispute surface** by keeping the mechanism:
 
-- **No relationship obligations.** No duties to cohabit, perform services, or maintain a relationship.
-- **No funding obligation.** Any funding targets are non-binding; there are **no arrears**.
-- **No unilateral withdrawals.** The account is set up so neither party can unilaterally transfer-out.
-- **Event-driven distributions only.** Transfers-out occur only on:
-  - Liquidity Events (if elected), or
-  - Termination unwind, or
-  - dispute holdback + release of undisputed amounts,
-  - plus optional **Discretionary Top-Ups** initiated solely by the Funding Partner (recorded as B Distributions for anti-double-counting).
-- **Deterministic math.** Payouts are formulaic and netted against the B Distribution Ledger to prevent double counting.
+- **wealth-only,**
+- **pool-only,**
+- **event-driven,**
+- **non-support-like,**
+- and **operationally legible**.
+
+Core design choices:
+
+- **No relationship obligations.**  
+  No duty to cohabit, perform services, maintain a relationship, or continue any personal arrangement.
+
+- **No funding obligation.**  
+  Funding is voluntary. There are no arrears, no back-payments, and no expectation damages based solely on stopped or reduced funding.
+
+- **No unilateral withdrawals.**  
+  The structure is designed so neither party can unilaterally transfer value out of the Vehicle Account.
+
+- **Event-driven distributions only.**  
+  Transfers-out occur only through defined **Administrator Events**:
+  - a Liquidity Event election,
+  - a Termination unwind,
+  - dispute holdback / release of undisputed amounts,
+  - or a joint pro rata release.
+
+- **Deterministic math.**  
+  Payouts are formulaic and netted against the **B Distribution Ledger** to prevent double counting.
+
+- **No off-pool governance.**  
+  This template does **not** govern homes, vehicles, lifestyle expenses, shared purchases, reimbursements, or general household economics.
+
+- **No implied expansion from conduct.**  
+  Informal payments, lifestyle help, side promises, or relationship-adjacent conduct are not supposed to reinterpret the pool as support, salary, or a domestic partnership asset stream.
+
+---
+
+## What this template is — and is not
+
+### It is:
+- a private contract template,
+- a governance wrapper for a restricted capital pool,
+- a system for allocation, liquidity, and unwind of a defined pool,
+- a way to make transfers-out rule-based rather than discretionary.
+
+### It is not:
+- a marriage substitute,
+- a family-law waiver kit,
+- a child-support workaround,
+- an employment agreement,
+- a lifestyle support contract,
+- a household budgeting agreement,
+- an asset-protection plan for off-pool separate property,
+- or legal/tax advice.
+
+---
 
 ## Who this template is for
 
 This template is for parties who want:
 
-- a **verifiable wealth mechanism** (not a relationship contract),
+- a **verifiable wealth mechanism**, not a relationship playbook,
 - clear rules for **allocation, liquidity, and unwind** of a defined pool,
-- an administrator-controlled structure that reduces negotiation at exit.
+- an administrator-controlled structure that reduces negotiation at exit,
+- and a contract that is intentionally narrower than a general domestic arrangement.
 
-It is **not** intended to replace family law, waive child-related statutory rights, or create employment/compensation arrangements.
+It is most useful for people who are willing to maintain strict financial hygiene and actually implement the custody/control mechanics.
 
-## Quickstart: How to use this template (recommended workflow)
+It is a poor fit for people who want:
+- informal flexibility,
+- merged household finances,
+- recurring lifestyle support,
+- or broad shared-asset governance inside the same document.
 
-### Step 0 — Don’t skip counsel
-Each party should retain **independent counsel** (separate attorneys) and **independent tax counsel**. This is especially important if:
+---
+
+## Quickstart: How to use this template
+
+### Step 0 — Do not skip counsel
+Each party should retain **independent legal counsel** and **independent tax counsel**.
+
+This is especially important if:
 - there is a large wealth disparity,
-- either party may relocate across states/countries,
-- the parties are considering marriage,
-- or the structure will be publicly referenced.
+- either party may relocate,
+- the parties may marry,
+- there are trust/entity complications,
+- or the structure will be implemented with non-standard custody arrangements.
 
 ### Step 1 — Decide the key economic parameters
-In `cooperative_wealth_agreement.md`, fill in:
-- **Governing law / venue**: `[State]`, `[County, State]`
-- **Monthly Accrual Rate**: e.g., `1.00% per full calendar month`
-- **Allocation Cap**: e.g., `50.00%`
-- **Liquidity cadence**: default is every 3 years (already set)
-- **Admin Reserve**: recommended range is included
-- **Default portfolio / ticker**: pick an index ETF/fund
-- **Guardrail threshold**: max single-stock exposure (if any)
+In `cooperative_wealth_agreement.md`, fill in the core placeholders, including:
 
-### Step 2 — Select an implementation path (make it real)
-The agreement is **not operative** until the account is actually implemented with the required control split and the Independent Administrator provides an **Implementation Confirmation**.
+- **Governing law / venue**
+- **Monthly Accrual Rate**
+- **Allocation Cap**
+- **Admin Reserve**
+- **Default portfolio / ticker**
+- **Guardrail threshold(s)**
+- any other blank operational terms relevant to the chosen implementation path
 
-Use the contract’s Appendix (“Implementation Paths”) to pick a feasible custody/control setup, such as:
-- LLC brokerage + administrator LPOA + transfer/recipient locks, or
-- directed trust / escrow-style custody, or
-- institutional/RIA custody with controlled disbursements.
+### Step 2 — Choose a real implementation path
+The agreement is **not operative** until it is actually implemented and the Independent Administrator gives an **Implementation Confirmation**.
 
-**Key requirement:** neither party can unilaterally transfer-out, and the Independent Administrator can execute Administrator Events.
+Review the Appendix implementation paths and choose a feasible custody/control setup, such as:
+- LLC brokerage + administrator LPOA + recipient / transfer locks,
+- directed trust / escrow-style custody,
+- or institutional/RIA custody with controlled disbursements.
 
-### Step 3 — Choose and engage the Independent Administrator
-The Independent Administrator must:
+**Key requirement:** the relevant provider must actually recognize the authority split in substance.
+
+### Step 3 — Choose the Independent Administrator
+The Independent Administrator must be willing to:
 - accept the **event-only** role,
-- agree to recipient restrictions (only the designated accounts + fees/withholding),
-- maintain the event-only **B Distribution Ledger**,
-- and provide an **Implementation Confirmation** once the custody setup satisfies the implementation control checklist.
+- control transfers-out/distributions for Administrator Events,
+- follow recipient restrictions,
+- maintain the **B Distribution Ledger**,
+- keep event records,
+- and provide an **Implementation Confirmation** once the control checklist is satisfied.
 
-### Step 4 — Form the Vehicle LLC and open the restricted Vehicle Account
-- Party A forms the Vehicle LLC (single-member by default in this template).
-- The Vehicle Account is opened in the LLC’s name with the chosen custodian.
-- Account permissions must reflect:
-  - Party A: trading authority only (no transfers-out)
-  - Independent Administrator: transfers-out/distributions/freeze authority for Administrator Events
-  - Party B: view/statement access only (no trades, no transfers-out)
+### Step 4 — Form the Vehicle LLC and open the Vehicle Account
+Typical structure in this template:
 
-### Step 5 — Make the agreement operative (Implementation Confirmation)
-The agreement becomes operative only after the Independent Administrator confirms, in writing, that the control checklist is satisfied (or that an agreed written exception is in place).
+- Party A forms the Vehicle LLC,
+- the Vehicle Account is opened in the LLC’s name,
+- permissions are configured so that:
+  - **Party A** = trading authority only,
+  - **Independent Administrator** = transfers-out / distributions / freeze authority for Administrator Events,
+  - **Party B** = view / statement access only.
 
-### Step 6 — Funding (optional, voluntary)
-- Funding is voluntary.
-- If Party A pauses or stops funding, there are **no arrears** and no breach (absent a signed amendment stating otherwise).
+### Step 5 — Make the agreement operative
+The agreement becomes operative only when the Independent Administrator confirms in writing that the implementation control checklist is satisfied (or that an agreed written exception is in place).
+
+No implementation confirmation = no operative economic mechanics.
+
+### Step 6 — Funding
+Funding is optional and voluntary.
+
+If Party A reduces, pauses, or stops funding:
+- there is no arrears claim,
+- no automatic breach,
+- and no implied economic right beyond assets actually in the Vehicle Account.
 
 ### Step 7 — During the term
-- The vehicle remains invested within guardrails.
-- Joint withdrawals require joint instruction.
-- Joint assets purchased from the vehicle follow the Joint Asset protocol.
-- Optional: Party A may authorize **Discretionary Top-Ups** to Party B (processed by the administrator to Party B’s designated account and recorded in the ledger).
+During the operative term:
+- Party A may trade within guardrails,
+- no unilateral withdrawals are permitted,
+- the Administrator processes only defined Administrator Events,
+- the B Distribution Ledger tracks completed B Distributions,
+- and the structure remains wealth-only and pool-only.
 
-### Step 8 — Liquidity Events (optional, every 3 years)
-During each Liquidity Window, Party B may elect a Liquidity Distribution:
-- calculated by formula (net of ledger),
-- paid in-kind by default (cash fallback),
-- and recorded in the ledger to prevent double counting later.
+### Step 8 — Liquidity Events
+At each Liquidity Event window, Party B may elect a Liquidity distribution:
+- calculated by formula,
+- net of prior completed B Distributions,
+- paid in-kind by default where practicable,
+- and entered on the ledger.
 
 ### Step 9 — Termination unwind
-Either party can terminate at will.
+Either party may terminate at will.
+
 Upon termination:
-- the Independent Administrator freezes transfers-out (subject to custodian constraints),
-- calculates value at the defined Valuation Time,
+- the Independent Administrator freezes the account as promptly as practicable,
+- values the Vehicle Account at the defined Valuation Time,
 - pays Party B by formula net of the ledger,
-- and returns the remainder to Party A (net of permitted fees/withholding).
+- and distributes the remainder to Party A, net of permitted deductions.
 
-## Practical notes / expectations
+---
 
-- **Fillability matters.** The “paper” agreement is not the mechanism; the custody/control implementation is.
-- **Expect custodian constraints.** Many custodians have strict rules about permissions and disbursement controls. Work with counsel and the administrator to pick a feasible path.
-- **This is not a tax strategy.** The template explicitly does not promise any tax characterization; certain transfers may be treated as gifts depending on facts and law.
-- **This is not child support avoidance.** Child-related statutory rights and obligations are not waivable by private contract.
-- **Administrator transition exists.** The contract includes resignation and replacement mechanics (including replacement by joint instruction), plus dispute-resolution tools to preserve the control structure during transitions.
-- **Narrow restitution carve-out exists.** The contract contains a narrow outside-the-pool restitution remedy for intentional dissipation not prevented by the controls (as determined by a final award).
+## Practical expectations
 
-## Two-tier use (general users vs. HNW)
+- **The paper is not the mechanism.**  
+  The real mechanism is the implemented custody/control structure.
 
-This template is designed for broad adoption as a governance-only, ring-fenced account mechanism.
+- **Operability matters more than rhetoric.**  
+  If the relevant provider does not actually support the permissions and transfer controls, the paper alone is not enough.
 
-- **General users (most people):** The CWA is typically used as a standalone governance wrapper for a restricted investment pool. The main risk controls are operational: keep the vehicle investment-only, avoid commingling, and keep shared purchases inside the Joint Asset protocol.
+- **Strict hygiene matters.**  
+  This structure is strongest when off-pool conduct does not contradict the contract’s wealth-only posture.
 
-- **HNW / high-exposure users:** Many sophisticated users also implement separate structural planning (trusts/entities and jurisdictional planning) to reduce tail risk if the agreement is attacked in litigation. This repository does not provide asset-protection or estate-planning advice. If you have substantial wealth or complex cross-state exposure, consult specialized counsel.
+- **This is not a tax position.**  
+  The template does not promise gift, compensation, partnership, or any other specific tax characterization.
 
-## How to review / provide feedback (high-signal critique welcome)
+- **This is not child-rights avoidance.**  
+  Child-related statutory rights and obligations are not waived by this template.
 
-If you’re reviewing as a lawyer, custodian ops, trust/escrow admin, mediator, or tax professional, the highest-value feedback is:
+- **Administrator viability matters.**  
+  Fees, responsiveness, replacement, successor transition, and recordkeeping are all operationally significant.
 
-- **Fillability:** can your custody stack actually implement the authority split, permission-change control, and recipient restrictions?
-- **Attack surface:** where would a court/arbitrator expand beyond “account + formula + ledger”?
-- **Recharacterization risk:** partnership/support optics and how to reduce them without adding obligations.
-- **Administrator viability:** event-only workload, fee realism, refusal/transition conditions.
+---
+
+## What changed in the current template direction
+
+This public template is intentionally narrower than earlier “hybrid” variants.
+
+Current direction:
+- **wealth-only**
+- **no shared-asset governance inside the core template**
+- **no household/lifestyle side rails**
+- **no unilateral discretionary top-up rail**
+- **no off-pool interpretive expansion**
+- **no implied economic rights by partial implementation or reliance before operability**
+
+That narrowing is deliberate. The goal is to reduce ambiguity and make the dispute surface more legible.
+
+---
+
+## Two-tier use (general users vs. higher-complexity users)
+
+### General users
+Most users should think of the CWA as a narrow, ring-fenced account-governance mechanism:
+- keep the vehicle investment-focused,
+- keep the money trail clean,
+- avoid support-like side conduct,
+- and avoid importing off-pool issues into the same document.
+
+### Higher-complexity / high-exposure users
+Users with substantial wealth, cross-border issues, trust/entity layering, or serious litigation sensitivity will usually need:
+- custom legal drafting,
+- custom tax review,
+- custody/provider diligence,
+- and potentially separate planning outside this repository.
+
+This repo is not a substitute for bespoke legal architecture.
+
+---
+
+## How to review / give useful feedback
+
+High-signal critique is welcome.
+
+The most useful feedback is:
+
+- **Fillability:**  
+  Can a real custodian / platform / trust company actually implement this control split?
+
+- **Attack surface:**  
+  Where would a court or arbitrator try to expand beyond “account + formula + ledger”?
+
+- **Recharacterization risk:**  
+  Which phrases, mechanics, or fact patterns create avoidable support / partnership / implied-claim risk?
+
+- **Administrator viability:**  
+  Is the event-only role realistic? Are the fee assumptions realistic? Are successor mechanics workable?
+
+- **Operability realism:**  
+  Does the implementation checklist match what real providers will actually do?
 
 Best ways to contribute:
-- Open a GitHub Issue with your critique (small, specific, actionable).
-- Or submit a PR with suggested edits and short rationale.
+- open a GitHub Issue with a narrow, concrete critique,
+- or submit a PR with suggested edits and a short rationale.
+
+---
 
 ## Contributing / forks
 
-This repo is CC0. You are free to fork and adapt. If you publish improvements, consider keeping:
-- the event-driven architecture,
-- recipient restrictions,
+This repo is CC0. You are free to fork, adapt, and republish.
+
+If you build on it, consider preserving the core dispute-surface minimizers:
+
 - operative-date gating,
+- actual implementation confirmation,
+- administrator-controlled transfers-out,
+- recipient restrictions,
 - permission-change controls,
-- and ledger anti-double-counting,
-since those are the core dispute-surface minimizers.
+- event-only ledgering,
+- no unilateral withdrawal rights,
+- and deterministic unwind logic.
+
+---
 
 ## Attribution (optional)
 
-Attribution is not required under CC0, but if you reference the origin:
-- “Cooperative Wealth Governance Agreement (CWA) — CC0 public template.”
+Attribution is not required under CC0, but if you reference the origin, a simple form is:
+
+`Cooperative Wealth Governance Agreement (CWA) — CC0 public template`
 
 ---
 
 ## 📡 Protocol Updates
 
-The CWA is an open-source mechanism, but the network of builders executing it is private. 
-
-For macroeconomic analysis of the relationship marketplace, structural defenses of the CWA, and notifications regarding v1.1 protocol updates, subscribe to the primary publication:
+For macroeconomic framing, structural discussion, and protocol-level updates:
 
 **[ataraxao on Substack](https://ataraxao.substack.com)**
 
